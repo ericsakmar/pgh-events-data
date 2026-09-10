@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "cheerio": "^1.2.0",
-    "chrono-node": "^2.10.1"
+    "chrono-node": "^2.10.1",
+    "puppeteer": "^25.10.0"
   }
 }
