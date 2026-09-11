@@ -25,10 +25,7 @@ export const getEvents = async (): Promise<Event[]> => {
       const rawDate = n.find("td:nth-child(3)").text().trim();
       const date = parseDate(rawDate);
       const link = titleEl.attr("href")?.trim();
-      const poster = n
-        .find(".newsEventListingPhotoIcon img")
-        .attr("src")
-        ?.trim();
+      const poster = n.find(".newsEventListingPhotoIcon").attr("src")?.trim();
 
       return {
         title,

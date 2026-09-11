@@ -122,7 +122,7 @@ export const getEvents = async () => {
     submissions,
   ];
 
-  const devSources = [submissions];
+  const devSources = [tech25];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
