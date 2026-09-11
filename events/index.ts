@@ -29,6 +29,11 @@ import * as preserving from "./sources/preserving.ts";
 import * as remedy from "./sources/remedy.ts";
 import * as roxian from "./sources/roxian.ts";
 import * as shredshed from "./sources/shredshed.ts";
+import * as sidequest from "./sources/sidequest.ts";
+import * as spaceUpstairs from "./sources/spaceUpstairs.ts";
+import * as spirit from "./sources/spirit.ts";
+import * as stageae from "./sources/stageae.ts";
+import * as tech25 from "./sources/tech25.ts";
 
 import { type Event } from "./event.ts";
 
@@ -67,6 +72,7 @@ export const getEvents = async () => {
   // TODO filter things that hav already happened
   // TODO don't forget about Brillo if the site ever comes back online
   // TODO also don't forget to bring back user submitted events
+  // TODO consider Starlake and Wylie
 
   const allSources = [
     amw,
@@ -100,9 +106,14 @@ export const getEvents = async () => {
     roxian,
     shredshed,
     smalls,
+    sidequest,
+    spaceUpstairs,
+    spirit,
+    stageae,
+    tech25,
   ];
 
-  const devSources = [dltsgdom, preserving, roxian, remedy, shredshed];
+  const devSources = [sidequest, spaceUpstairs, spirit, stageae, tech25];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
