@@ -19,12 +19,18 @@ import * as mixtape from "./sources/mixtape.ts";
 import * as moondogs from "./sources/moondogs.ts";
 import * as newHazlettTheater from "./sources/newHazlettTheater.ts";
 import * as oaks from "./sources/oaks.ts";
+import * as oneTwoThree from "./sources/oneTwoThree.ts";
+import * as ormsby from "./sources/ormsby.ts";
+import * as parkhouse from "./sources/parkhouse.ts";
+import * as perryHouse from "./sources/perryHouse.ts";
+import * as poetry from "./sources/poetry.ts";
 
 import { type Event } from "./event.ts";
 
 const MAX_RETRIES = 3;
 
 // I'm not thrilled with this retry. Consider rewriting and adding exponential backoff
+// something here might not be exiting correctly
 const getWithRetry = async (
   url: string,
   getEvents: () => Promise<Event[]>,
@@ -78,16 +84,15 @@ export const getEvents = async () => {
     moondogs,
     newHazlettTheater, // TODO not working
     oaks,
+    oneTwoThree,
+    ormsby,
+    parkhouse,
+    perryHouse,
+    poetry,
     smalls,
   ];
 
-  const devSources = [
-    mattressFactory,
-    mixtape,
-    moondogs,
-    newHazlettTheater,
-    oaks,
-  ];
+  const devSources = [oneTwoThree, ormsby, parkhouse, perryHouse, poetry];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
