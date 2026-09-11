@@ -1,10 +1,11 @@
 import * as cheerio from "cheerio";
 import { parseDate } from "../../util/parseDate.ts";
 import { fetchPage } from "../../util/fetchPage.ts";
+import { type Event, filterInvalid } from "../event.ts";
 
 export const url = "https://mrsmalls.com/listing";
 
-export const getEvents = async () => {
+export const getEvents = async (): Promise<Event[]> => {
   const data = await fetchPage(url);
 
   const $ = cheerio.load(data);
@@ -38,5 +39,5 @@ export const getEvents = async () => {
       };
     });
 
-  return events;
+  return filterInvalid(events);
 };

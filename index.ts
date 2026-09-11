@@ -3,8 +3,6 @@ import fs from "node:fs/promises";
 
 const main = async () => {
   const events = await getEvents();
-  console.log(events);
-
   await fs.writeFile("events.json", JSON.stringify(events, null, 2));
 };
 

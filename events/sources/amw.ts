@@ -1,12 +1,13 @@
 import * as cheerio from "cheerio";
 import { parseDate } from "../../util/parseDate.ts";
 import { fetchDynamicPage } from "../../util/fetchDynamicPage.ts";
+import { type Event, filterInvalid } from "../event.ts";
 
 export const url = "https://acousticmusicworks.com/collections/concert-tickets";
 
 const waitForSelector = `.product-loop`;
 
-export const getEvents = async () => {
+export const getEvents = async (): Promise<Event[]> => {
   const data = await fetchDynamicPage(url, waitForSelector);
 
   const $ = cheerio.load(data);
@@ -32,13 +33,14 @@ export const getEvents = async () => {
       return {
         title,
         date,
+        hasTime: false,
         location,
         link: `https://acousticmusicworks.com${link}`,
         source: url,
-        poster,
+        poster: `https:${poster}`,
         city: "pgh",
       };
     });
 
-  return events;
+  return filterInvalid(events);
 };
