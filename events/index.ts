@@ -1,11 +1,15 @@
 import * as amw from "./sources/amw.ts";
 import * as arcade from "./sources/arcade.ts";
 import * as smalls from "./sources/smalls.ts";
+import * as baumBaumClub from "./sources/baumbaumclub.ts";
+import * as belvederes from "./sources/belvederes.ts";
+import * as bottlerocket from "./sources/bottlerocket.ts";
+
 import { type Event } from "./event.ts";
 
-const POST_NODE_TYPE = `Event`;
 const MAX_RETRIES = 3;
 
+// I'm not thrilled with this retry. Consider rewriting and adding exponential backoff
 const getWithRetry = async (
   url: string,
   getEvents: () => Promise<Event[]>,
@@ -36,9 +40,16 @@ const getWithRetry = async (
 export const getEvents = async () => {
   // TODO filter things that hav already happened
 
-  const allSources = [arcade, smalls, amw];
+  const allSources = [
+    amw,
+    arcade,
+    baumBaumClub,
+    belvederes,
+    bottlerocket,
+    smalls,
+  ];
 
-  const devSources = [arcade];
+  const devSources = [baumBaumClub, belvederes, bottlerocket];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;

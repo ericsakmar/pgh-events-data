@@ -19,6 +19,8 @@
     "cheerio": "^1.2.0",
     "chrono-node": "^2.10.1",
     "puppeteer": "^25.10.0",
+    "wink-eng-lite-web-model": "^1.8.1",
+    "wink-nlp": "^2.4.0",
     "zod": "^4.6.2"
   }
 }
