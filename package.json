@@ -8,7 +8,8 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "all": "node index.ts"
+    "all": "node index.ts",
+    "dev": "NODE_ENV=development node index.ts"
   },
   "devDependencies": {
     "@types/node": "^22.20.2",
