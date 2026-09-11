@@ -38,6 +38,7 @@ import * as thunderbird from "./sources/thunderbird.ts";
 import * as trace from "./sources/trace.ts";
 import * as warhol from "./sources/warhol.ts";
 import * as westsideBowl from "./sources/westsideBowl.ts";
+import * as submissions from "./sources/submissions.ts";
 
 import { type Event } from "./event.ts";
 
@@ -75,7 +76,6 @@ const getWithRetry = async (
 export const getEvents = async () => {
   // TODO filter things that hav already happened
   // TODO don't forget about Brillo if the site ever comes back online
-  // TODO also don't forget to bring back user submitted events
   // TODO consider Starlake and Wylie
 
   const allSources = [
@@ -119,9 +119,10 @@ export const getEvents = async () => {
     trace,
     warhol,
     westsideBowl,
+    submissions,
   ];
 
-  const devSources = [thunderbird];
+  const devSources = [submissions];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
