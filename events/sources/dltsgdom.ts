@@ -3,7 +3,7 @@ import { parseDate } from "../../util/parseDate.ts";
 import { fetchDynamicPage } from "../../util/fetchDynamicPage.ts";
 import { type Event, filterInvalid } from "../event.ts";
 
-export const url = "https://events.ticketleap.com/events/perry-house";
+export const url = "https://events.ticketleap.com/events/dltsgdom";
 
 export const getEvents = async (): Promise<Event[]> => {
   const data = await fetchDynamicPage(url, ".listing-item");
@@ -23,7 +23,7 @@ export const getEvents = async (): Promise<Event[]> => {
 
       const link = n.attr("href")?.trim();
 
-      const location = "Perry-House Productions";
+      const location = n.find(".listing-item__venue-info").text().trim();
 
       const poster = n.find(".listing-item__image").attr("src")?.trim();
 
@@ -32,7 +32,8 @@ export const getEvents = async (): Promise<Event[]> => {
         date,
         location,
         poster: poster ? `https:${poster}` : undefined,
-        link: link ? `https://www.ticketleap.events${link}` : url,
+        // https://www.ticketleap.events/tickets/dltsgdom/good-sleepy-if-kansas-had-trees-bug-moment
+        link: `https://www.ticketleap.events${link}`,
         source: url,
         hasTime: true,
         city: "pgh",

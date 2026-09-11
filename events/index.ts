@@ -24,6 +24,11 @@ import * as ormsby from "./sources/ormsby.ts";
 import * as parkhouse from "./sources/parkhouse.ts";
 import * as perryHouse from "./sources/perryHouse.ts";
 import * as poetry from "./sources/poetry.ts";
+import * as dltsgdom from "./sources/dltsgdom.ts";
+import * as preserving from "./sources/preserving.ts";
+import * as remedy from "./sources/remedy.ts";
+import * as roxian from "./sources/roxian.ts";
+import * as shredshed from "./sources/shredshed.ts";
 
 import { type Event } from "./event.ts";
 
@@ -74,6 +79,7 @@ export const getEvents = async () => {
     clubCafe,
     conAlma,
     crafthouse,
+    dltsgdom,
     glitterbox,
     goldmark,
     governmentCenter,
@@ -89,10 +95,14 @@ export const getEvents = async () => {
     parkhouse,
     perryHouse,
     poetry,
+    preserving,
+    remedy,
+    roxian,
+    shredshed,
     smalls,
   ];
 
-  const devSources = [oneTwoThree, ormsby, parkhouse, perryHouse, poetry];
+  const devSources = [dltsgdom, preserving, roxian, remedy, shredshed];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;

@@ -1,0 +1,37 @@
+import * as cheerio from "cheerio";
+import { parseDate } from "../../util/parseDate.ts";
+import { fetchDynamicPage } from "../../util/fetchDynamicPage.ts";
+import { type Event, filterInvalid } from "../event.ts";
+
+export const url =
+  "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events";
+const waitForSelector = "main .lnd-container .group";
+
+export const getEvents = async (): Promise<Event[]> => {
+  const data = await fetchDynamicPage(url, waitForSelector);
+
+  const $ = cheerio.load(data);
+
+  const eventData = $(
+    `main .lnd-container script[type="application/ld+json"]`,
+  ).toArray();
+
+  const events = eventData
+    .map((el) => {
+      const ldJson = $(el).text().trim();
+      return ldJson ? JSON.parse(ldJson) : null;
+    })
+    .filter((event) => event["@type"] === "MusicEvent")
+    .map((event) => ({
+      title: event.name,
+      date: parseDate(event.startDate),
+      location: event.location.name,
+      link: event.url,
+      source: url,
+      hasTime: true,
+      poster: event.image,
+      city: "pgh",
+    }));
+
+  return filterInvalid(events);
+};
