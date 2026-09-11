@@ -34,6 +34,10 @@ import * as spaceUpstairs from "./sources/spaceUpstairs.ts";
 import * as spirit from "./sources/spirit.ts";
 import * as stageae from "./sources/stageae.ts";
 import * as tech25 from "./sources/tech25.ts";
+import * as thunderbird from "./sources/thunderbird.ts";
+import * as trace from "./sources/trace.ts";
+import * as warhol from "./sources/warhol.ts";
+import * as westsideBowl from "./sources/westsideBowl.ts";
 
 import { type Event } from "./event.ts";
 
@@ -111,9 +115,13 @@ export const getEvents = async () => {
     spirit,
     stageae,
     tech25,
+    thunderbird,
+    trace,
+    warhol,
+    westsideBowl,
   ];
 
-  const devSources = [sidequest, spaceUpstairs, spirit, stageae, tech25];
+  const devSources = [thunderbird, trace, warhol, westsideBowl];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
