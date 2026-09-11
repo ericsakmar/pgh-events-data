@@ -2,7 +2,6 @@ name: Nightly Web Scraper
 
 on:
   schedule:
-    # Runs every night at midnight UTC (adjust timing as needed)
     - cron: '0 0 * * *'
   # Allows you to manually trigger the scraper from the GitHub UI for testing
   workflow_dispatch:
@@ -24,6 +23,8 @@ jobs:
         run: npm ci
 
       - name: Run Scraper
+        env:
+          ADMIN_DATABASE_URL: ${{ secrets.ADMIN_DATABASE_URL }}
         run: npm run all
 
       - name: Commit and push updated JSON
