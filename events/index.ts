@@ -9,6 +9,11 @@ import * as cityOfAsylum from "./sources/cityOfAsylum.ts";
 import * as clubCafe from "./sources/clubCafe.ts";
 import * as conAlma from "./sources/conAlma.ts";
 import * as crafthouse from "./sources/crafthouse.ts";
+import * as glitterbox from "./sources/glitterbox.ts";
+import * as goldmark from "./sources/goldmark.ts";
+import * as governmentCenter from "./sources/governmentCenter.ts";
+import * as greenBeacon from "./sources/greenBeacon.ts";
+import * as jergels from "./sources/jergels.ts";
 
 import { type Event } from "./event.ts";
 
@@ -45,6 +50,7 @@ const getWithRetry = async (
 export const getEvents = async () => {
   // TODO filter things that hav already happened
   // TODO don't forget about Brillo if the site ever comes back online
+  // TODO also don't forget to bring back user submitted events
 
   const allSources = [
     amw,
@@ -57,15 +63,20 @@ export const getEvents = async () => {
     clubCafe,
     conAlma,
     crafthouse,
+    glitterbox,
+    goldmark,
+    governmentCenter,
+    greenBeacon,
+    jergels,
     smalls,
   ];
 
   const devSources = [
-    carnegieHomestead,
-    cityOfAsylum,
-    clubCafe,
-    conAlma,
-    crafthouse,
+    glitterbox,
+    goldmark,
+    governmentCenter,
+    greenBeacon,
+    jergels,
   ];
 
   const sources =

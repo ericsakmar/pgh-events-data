@@ -21,7 +21,7 @@ export const findTimes = (text: string) => {
 };
 
 export const findTime = (text: string) => {
-  const times = exports.findTimes(text);
+  const times = findTimes(text);
   return times.length > 0 ? times[0] : null;
 };
 

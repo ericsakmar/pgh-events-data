@@ -1,0 +1,56 @@
+import * as cheerio from "cheerio";
+import { parseDate } from "../../util/parseDate.ts";
+import { fetchPage } from "../../util/fetchPage.ts";
+import { type Event, filterInvalid } from "../event.ts";
+
+export const url = "https://www.thegovernmentcenter.com/events";
+
+export const getEvents = async (): Promise<Event[]> => {
+  const page1 = await fetchPage(url);
+  const page1events = getEventsOnPage(page1);
+
+  const $ = cheerio.load(page1);
+  const page2link = $(".w-pagination-next").attr("href")?.trim();
+  const page2url = `${url}${page2link}`;
+  const page2 = await fetchPage(page2url);
+  const page2events = getEventsOnPage(page2);
+
+  return [...page1events, ...page2events];
+};
+
+const getEventsOnPage = (data: string) => {
+  const $ = cheerio.load(data);
+
+  const events = $(".events")
+    .toArray()
+    .map((el) => {
+      const n = $(el);
+
+      const title = n.find(".heading-27").text().trim();
+
+      const rawDate = n.find(".date").text().trim();
+
+      const date = parseDate(rawDate);
+
+      const link = n.attr("href")?.trim();
+
+      const poster = n
+        .find(".div-block-35")
+        .attr("style")
+        ?.match(/".*?"/)?.[0]
+        ?.replace(/"/g, "");
+
+      return {
+        title,
+        date,
+        location: "The Government Center",
+        link: `https://www.thegovernmentcenter.com${link}`,
+        source: url,
+        hasTime: false,
+        poster,
+        city: "pgh",
+      };
+    });
+
+  return filterInvalid(events);
+};
