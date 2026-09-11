@@ -44,8 +44,8 @@ import { type Event } from "./event.ts";
 
 const MAX_RETRIES = 3;
 
-// I'm not thrilled with this retry. Consider rewriting and adding exponential backoff
-// something here might not be exiting correctly
+const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const getWithRetry = async (
   url: string,
   getEvents: () => Promise<Event[]>,
@@ -61,7 +61,14 @@ const getWithRetry = async (
     return events;
   } catch (error) {
     if (retries < MAX_RETRIES) {
-      console.warn(`retrying ${url} (${retries + 1}/${MAX_RETRIES})`);
+      const backoffMs = 1000 * Math.pow(2, retries);
+
+      console.warn(
+        `Error on ${url}. Retrying in ${backoffMs}ms... (${retries + 1}/${MAX_RETRIES})`,
+      );
+
+      await delay(backoffMs);
+
       const retry = await getWithRetry(url, getEvents, retries + 1);
       return retry;
     } else {
