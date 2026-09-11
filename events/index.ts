@@ -14,6 +14,11 @@ import * as goldmark from "./sources/goldmark.ts";
 import * as governmentCenter from "./sources/governmentCenter.ts";
 import * as greenBeacon from "./sources/greenBeacon.ts";
 import * as jergels from "./sources/jergels.ts";
+import * as mattressFactory from "./sources/mattressFactory.ts";
+import * as mixtape from "./sources/mixtape.ts";
+import * as moondogs from "./sources/moondogs.ts";
+import * as newHazlettTheater from "./sources/newHazlettTheater.ts";
+import * as oaks from "./sources/oaks.ts";
 
 import { type Event } from "./event.ts";
 
@@ -68,15 +73,20 @@ export const getEvents = async () => {
     governmentCenter,
     greenBeacon,
     jergels,
+    mattressFactory,
+    mixtape,
+    moondogs,
+    newHazlettTheater, // TODO not working
+    oaks,
     smalls,
   ];
 
   const devSources = [
-    glitterbox,
-    goldmark,
-    governmentCenter,
-    greenBeacon,
-    jergels,
+    mattressFactory,
+    mixtape,
+    moondogs,
+    newHazlettTheater,
+    oaks,
   ];
 
   const sources =
