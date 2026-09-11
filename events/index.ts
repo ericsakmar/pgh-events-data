@@ -121,7 +121,7 @@ export const getEvents = async () => {
     westsideBowl,
   ];
 
-  const devSources = [thunderbird, trace, warhol, westsideBowl];
+  const devSources = [thunderbird];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;

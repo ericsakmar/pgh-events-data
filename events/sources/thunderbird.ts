@@ -29,7 +29,11 @@ export const getEvents = async (): Promise<Event[]> => {
       const day = n.find("#eventDate").text().trim();
       const year = getYear(n);
       const time = n.find(".eventDoorStartDate").text().trim().split(" ")[1];
-      const rawDate = `${day} ${year} at ${time}`;
+      const hasTime = time !== undefined;
+      const rawDate = hasTime
+        ? `${day} ${year} at ${time} pm`
+        : `${day} ${year}`;
+
       const date = parseDate(rawDate);
       const location = n.find(".venueLink").text().trim();
       const link = n.find("#eventTitle").attr("href")?.trim();
@@ -41,7 +45,7 @@ export const getEvents = async (): Promise<Event[]> => {
         location,
         link,
         source: url,
-        hasTime: true,
+        hasTime,
         poster,
         city: "pgh",
       };
