@@ -240,26 +240,6 @@
     "city": "pgh"
   },
   {
-    "title": "Under the Radar: Independent Pittsburgh Improv",
-    "date": "2026-09-13T22:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/under-the-radar-independent-pittsburgh-improv-17/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2024/12/Under-The-Radar-Logo.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Improv Jam!",
-    "date": "2026-09-13T23:30:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/improv-jam/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/Copy-of-Under-The-Radar-Logo-1-1.png",
-    "city": "pgh"
-  },
-  {
     "title": "Speedrun",
     "date": "2026-09-17T23:00:00.000Z",
     "location": "Arcade Comedy Theater",
@@ -460,13 +440,13 @@
     "city": "pgh"
   },
   {
-    "title": "Select Start: Oktoberfest",
-    "date": "2026-10-02T23:00:00.000Z",
+    "title": "Laugh Long and Prosper: An Improvised Space Adventure",
+    "date": "2026-10-02T22:30:00.000Z",
     "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/select-start-oktoberfest/",
+    "link": "https://www.arcadecomedytheater.com/event/laugh-long-and-prosper-an-improvised-space-adventure/",
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/arcade-category-improv.png",
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/laugh-long-and-prosper-an-improvised-spa-attgfhg08t6xoodys.jpeg",
     "city": "pgh"
   },
   {
@@ -737,6 +717,26 @@
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
     "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/03/academy_purp.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Musical Improv Night",
+    "date": "2026-10-22T23:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/musical-improv-night/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/musical-comedy-at-arcade-string-and-the-attfkeaecwbc8hipo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Scary Sketches to Watch in the Dark",
+    "date": "2026-10-23T23:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/scary-sketches-to-watch-in-the-dark/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/arcade-category-sketch.png",
     "city": "pgh"
   },
   {
@@ -1087,16 +1087,6 @@
     "link": "https://belvederesultradive.com/",
     "source": "https://belvederesultradive.com/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "STEELERS GAME (vs Falcons)",
-    "date": "2026-09-13T17:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/steelers-game-vs-falcons-september-13-2026-712936",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/712/936/compressed/Steelers26-Atlanta.jpg?1786641603",
     "city": "pgh"
   },
   {
@@ -1590,6 +1580,16 @@
     "city": "pgh"
   },
   {
+    "title": "SPANISH LOVE SONGS",
+    "date": "2026-11-11T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/spanish-love-songs-november-10-2026-731789",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/731/789/compressed/SLS-Promo1-Credit_Mitchell_Wojcik.jpg?1788815994",
+    "city": "pgh"
+  },
+  {
     "title": "Paula Poundstone",
     "date": "2026-09-26T00:00:00.000Z",
     "location": "Carnegie Library of Homestead Music Hall",
@@ -1627,16 +1627,6 @@
     "source": "https://librarymusichall.com/all-shows",
     "hasTime": true,
     "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/af45216cfe1f4cdbb097532d23f01299/1/4SoifmQpDrHbZJ6Vx83Qx/MattFraser_1080x1080_square_CHMH.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "On Topic: Last Free Women with Diana Kapp",
-    "date": "2026-09-13T19:00:00.000Z",
-    "location": "City of Asylum",
-    "link": "https://cityofasylum.org/program/on-topic-last-free-women-with-rebecca-blumenstein-and-diana-kapp/",
-    "source": "https://cityofasylum.org/events/",
-    "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/08/Free-Rev2-F.webp",
     "city": "pgh"
   },
   {
@@ -1927,6 +1917,16 @@
     "source": "https://cityofasylum.org/events/",
     "hasTime": true,
     "poster": "https://cityofasylum.org/wp-content/uploads/2026/07/JOE-SHEEHAN-11192026.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Story Club PGH Presents: Story Slam! (Slipped Through My Fingers)",
+    "date": "2026-12-02T00:00:00.000Z",
+    "location": "City of Asylum",
+    "link": "https://cityofasylum.org/program/story-club-pgh-slipped-through-my-fingers/",
+    "source": "https://cityofasylum.org/events/",
+    "hasTime": true,
+    "poster": "https://cityofasylum.org/wp-content/uploads/2026/06/STORY-CLUB-2026-1.jpg",
     "city": "pgh"
   },
   {
@@ -3660,6 +3660,16 @@
     "city": "pgh"
   },
   {
+    "title": "FRIDAY NIGHTS WITH DJ MIDAS",
+    "date": "2026-09-11T22:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/cxr3cnkw76m2xy6-hphzm-33gym-ywrez-h5kd7-7t2s3-d89wd-xfznj-zmxl8-dbz74",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "SATURDAY NIGHT WITH DJ BONICS & DJ QRX",
     "date": "2026-09-12T22:00:00.000Z",
     "location": "The Goldmark",
@@ -4259,16 +4269,6 @@
     "city": "pgh"
   },
   {
-    "title": "FRIDAY NIGHTS WITH DJ MIDAS",
-    "date": "2026-09-11T22:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/cxr3cnkw76m2xy6-hphzm-33gym-ywrez-h5kd7-7t2s3-d89wd-xfznj-zmxl8-dbz74",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "BLENDR WITH DJ RAYJACK & SPECIAL GUESTS",
     "date": "2026-09-10T16:00:00.000Z",
     "location": "The Goldmark",
@@ -4556,6 +4556,16 @@
     "source": "http://www.thegoldmark.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "OFF THA WALL WITH SLIM THA DJ",
+    "date": "2026-07-24T00:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/2026/7/23/off-tha-wall-with-slim-tha-dj",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1784313044967-GQPTBQAA35KA82E9S86C/Off+Tha+Wall+at+The+Goldmark+July+23rd+2026.JPG",
     "city": "pgh"
   },
   {
@@ -5865,16 +5875,6 @@
     "source": "https://www.theoakstheater.com/event-listings",
     "hasTime": true,
     "city": "pgh"
-  },
-  {
-    "title": "ALOK Eat Pray Leave Comedy Tour With Cody Cannon",
-    "date": "2026-09-13T21:30:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/alok-eat-pray-leave-comedy-tour-with-cody-cannon",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/67e0580e-be88-491c-9013-6da023d7798f_resize_fit_300.jpg",
-    "city": "mgw"
   },
   {
     "title": "WEEKLY GAME NIGHT- No Cover",
@@ -9113,15 +9113,6 @@
     "city": "pgh"
   },
   {
-    "title": "Y2K alien invasion",
-    "date": "2026-09-13T01:00:00.000Z",
-    "location": "SideQuest",
-    "link": "https://theticketing.co/e/y2kalieninvasion?open=true",
-    "source": "https://theticketing.co/o/sidequestpgh",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
     "title": "Lets Go Deep",
     "date": "2026-09-19T01:00:00.000Z",
     "location": "SideQuest",
@@ -9264,36 +9255,6 @@
     "source": "https://www.thespaceupstairs.org/events",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/9067a9_8116ce80160d402d88714951d638a561~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Saturdaze",
-    "date": "2026-09-12T18:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/7/4/saturdaze-tlzd2-nzfm8-l23zn-t6bla-n53j6-mjdxh-mm3nt",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788885742890-GMK5LIC1GVGYO2SZ4DC4/saturdaze_9-12.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "TV's Norm \"Dread\" Album Release Show",
-    "date": "2026-09-13T00:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/12/tvs-norm-dread-album-release-show",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1787007042473-UPUECK7F0SST1PE94E8E/1000016933.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Brunch-ish",
-    "date": "2026-09-13T16:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/7/5/brunch-on-the-rooftop-jtgcd-d9fs3-ksd8r-m3z79-l7h2s",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788885819372-40XBLGYB0C53HR5CCXZN/RooftopBrunch-ish_9-13.jpg",
     "city": "pgh"
   },
   {
@@ -9617,26 +9578,6 @@
     "city": "pgh"
   },
   {
-    "title": "Bop To The Top - 18+",
-    "date": "2026-09-13T01:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/bop-to-the-top-18",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/events/lY6xzMF8vUW1Eo2FgdmnToWuBwG5afWCmb9FOpJa.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=d472826938eaac8b3935900711c54b8b",
-    "city": "pgh"
-  },
-  {
-    "title": "Steelers Tailgate",
-    "date": "2026-09-13T16:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/steelers-tailgate2",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/events/EfFR1QtzDfjhxl75fGmNZ2OXHhVFbccxjpQyvSbJ.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=6fe78c175e6e7f9d083fbf20ed022d69",
-    "city": "pgh"
-  },
-  {
     "title": "TURNSTILE: THE NEVER ENOUGH TOUR PT. 2",
     "date": "2026-09-15T21:00:00.000Z",
     "location": "Stage AE",
@@ -9767,6 +9708,16 @@
     "city": "pgh"
   },
   {
+    "title": "Interpol - North America Tour 2026",
+    "date": "2026-10-06T23:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/interpol-north-america-tour-20262",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/artists/gAnjx0VsG7hAnj4KqTpyeg4NdP3nfdgGK1IAKS0g.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=4ccb0102199e9d8e99752fdfc426f722",
+    "city": "pgh"
+  },
+  {
     "title": "Tech25 Relaunch Party",
     "date": "2026-09-16T16:00:00.000Z",
     "location": "Tech25",
@@ -9864,16 +9815,6 @@
     "source": "https://www.tech25.org/calendar",
     "hasTime": true,
     "poster": "https://www.tech25.org/images/content/thumb_ea5948493ea95a3523cd7ba56-63787.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Ensiferum",
-    "date": "2026-09-13T23:00:00.000Z",
-    "location": "Thunderbird Cafe & Music Hall",
-    "link": "https://thunderbirdmusichall.com/event/ensiferum/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
-    "source": "https://thunderbirdmusichall.com/shows/?view=list",
-    "hasTime": true,
-    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/04/ensiferum.jfif",
     "city": "pgh"
   },
   {
@@ -10417,16 +10358,6 @@
     "city": "pgh"
   },
   {
-    "title": "Yoga with Maggie Black",
-    "date": "2026-09-13T13:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/13/yoga-with-maggie-black",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788914179084-C74ZNP0MY201WFXTBLXM/IMG_8708.PNG",
-    "city": "pgh"
-  },
-  {
     "title": "Allegheny Cycling Association Awards Banquet",
     "date": "2026-09-15T22:00:00.000Z",
     "location": "Trace Brewing",
@@ -10570,6 +10501,16 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1722905550890-BZ25ZLX1PQY0IF394SQL/dnd+logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Yoga with Maggie Black",
+    "date": "2026-09-13T13:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/13/yoga-with-maggie-black",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788914179084-C74ZNP0MY201WFXTBLXM/IMG_8708.PNG",
     "city": "pgh"
   },
   {
@@ -10858,16 +10799,6 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1772512949765-UHTC25692XGKBW0NPA3F/1.JPG",
-    "city": "pgh"
-  },
-  {
-    "title": "Social Wellness Free Lecture",
-    "date": "2026-08-04T22:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/6/30/pet-cpr-science-lecture-98ncp",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/0d6e7f15-bb80-4b50-9415-5808d9beb0f9/socialwell.png",
     "city": "pgh"
   },
   {
