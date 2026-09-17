@@ -39,6 +39,7 @@ import * as trace from "./sources/trace.ts";
 import * as warhol from "./sources/warhol.ts";
 import * as westsideBowl from "./sources/westsideBowl.ts";
 import * as submissions from "./sources/submissions.ts";
+import * as brillo from "./sources/brillo.ts";
 
 import { type Event } from "./event.ts";
 
@@ -82,7 +83,6 @@ const getWithRetry = async (
 
 export const getEvents = async () => {
   // TODO filter things that hav already happened
-  // TODO don't forget about Brillo if the site ever comes back online
   // TODO consider Starlake and Wylie
 
   const allSources = [
@@ -91,6 +91,7 @@ export const getEvents = async () => {
     baumBaumClub,
     belvederes,
     bottlerocket,
+    brillo,
     carnegieHomestead,
     cityOfAsylum,
     clubCafe,
@@ -116,20 +117,20 @@ export const getEvents = async () => {
     remedy,
     roxian,
     shredshed,
-    smalls,
     sidequest,
+    smalls,
     spaceUpstairs,
     spirit,
     stageae,
+    submissions,
     tech25,
     thunderbird,
     trace,
     warhol,
     westsideBowl,
-    submissions,
   ];
 
-  const devSources = [tech25];
+  const devSources = [brillo];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
