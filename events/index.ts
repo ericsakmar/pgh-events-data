@@ -41,45 +41,7 @@ import * as westsideBowl from "./sources/westsideBowl.ts";
 import * as submissions from "./sources/submissions.ts";
 import * as brillo from "./sources/brillo.ts";
 
-import { type Event } from "./event.ts";
-
-const MAX_RETRIES = 3;
-
-const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
-
-const getWithRetry = async (
-  url: string,
-  getEvents: () => Promise<Event[]>,
-  retries = 0,
-): Promise<Event[]> => {
-  try {
-    const events = await getEvents();
-
-    if (events.length === 0) {
-      console.warn(`no events found for ${url}`);
-    }
-
-    return events;
-  } catch (error) {
-    if (retries < MAX_RETRIES) {
-      const backoffMs = 1000 * Math.pow(2, retries);
-
-      console.warn(
-        `Error on ${url}. Retrying in ${backoffMs}ms... (${retries + 1}/${MAX_RETRIES})`,
-      );
-
-      await delay(backoffMs);
-
-      const retry = await getWithRetry(url, getEvents, retries + 1);
-      return retry;
-    } else {
-      console.warn(`max retries exceeded for ${url}`);
-      console.warn(error);
-
-      return [];
-    }
-  }
-};
+import { getWithRetry } from "../util/getWithRetry.ts";
 
 export const getEvents = async () => {
   // TODO filter things that hav already happened
@@ -130,7 +92,7 @@ export const getEvents = async () => {
     westsideBowl,
   ];
 
-  const devSources = [brillo];
+  const devSources = [];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
