@@ -5,7 +5,7 @@ const feedSchema = z.object({
   subtitle: z.string(),
   url: z.url().optional(),
   timestamp: z.iso.datetime(),
-  tags: z.array(z.enum(["blog", "podcast"])),
+  tags: z.array(z.enum(["blog", "podcast", "playlist"])),
   image: z.url().optional(),
 });
 
