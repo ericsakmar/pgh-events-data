@@ -9,6 +9,9 @@ import * as pghmanifold from "./sources/pghmanifold.ts";
 import * as spotify from "./sources/spotify.ts";
 import * as startthebeat from "./sources/startthebeat.ts";
 import * as telegraphtree from "./sources/telegraphtree.ts";
+import * as wyep from "./sources/wyep.ts";
+import * as youtube from "./sources/youtube.ts";
+import * as youtubemusic from "./sources/youtubemusic.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { isAfter, subMonths } from "date-fns";
@@ -28,15 +31,12 @@ export const getFeeds = async () => {
     spotify,
     startthebeat,
     telegraphtree,
+    wyep,
+    youtube,
+    youtubemusic,
   ];
 
-  const devSources = [
-    noskip,
-    pghmanifold,
-    spotify,
-    startthebeat,
-    telegraphtree,
-  ];
+  const devSources = [youtubemusic];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
