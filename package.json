@@ -22,6 +22,7 @@
     "date-fns": "^4.4.0",
     "pg": "^8.23.0",
     "puppeteer": "^25.10.0",
+    "rss-parser": "^3.13.0",
     "wink-eng-lite-web-model": "^1.8.1",
     "wink-nlp": "^2.4.0",
     "zod": "^4.6.2"
