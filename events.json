@@ -240,56 +240,6 @@
     "city": "pgh"
   },
   {
-    "title": "Co-Workers",
-    "date": "2026-09-19T22:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/co-workers-4/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2025/02/IMG_4156.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "The Arcade List",
-    "date": "2026-09-19T23:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/the-arcade-list-13/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/A-List-Sept-19-RON-and-SM-square-1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sketch Lab Report Vol 3",
-    "date": "2026-09-20T00:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/sketch-lab-report-vol-3-4/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/SLR3-square.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Comedy Bingo Night with Barbara, A Mother",
-    "date": "2026-09-20T01:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/comedy-bingo-night-with-barbara-a-mother-4/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/07/Sept-2026-BAM-Show-Graphic_Small.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sketch Lab Report Vol 3",
-    "date": "2026-09-20T18:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/sketch-lab-report-vol-3-5/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/SLR3-square.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Musical Improv Night",
     "date": "2026-09-24T23:00:00.000Z",
     "location": "Arcade Comedy Theater",
@@ -660,6 +610,16 @@
     "city": "pgh"
   },
   {
+    "title": "Electric Slideshow",
+    "date": "2026-10-17T01:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/electric-slideshow-4/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/arcade-category-comedy.png",
+    "city": "pgh"
+  },
+  {
     "title": "The Arcade List",
     "date": "2026-10-17T23:00:00.000Z",
     "location": "Arcade Comedy Theater",
@@ -667,6 +627,16 @@
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
     "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/10_17-Sleepover-and-LKK_square.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Fool Moon",
+    "date": "2026-10-18T00:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/fool-moon-10/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/Insta-Square.png",
     "city": "pgh"
   },
   {
@@ -720,6 +690,16 @@
     "city": "pgh"
   },
   {
+    "title": "Fool Moon",
+    "date": "2026-10-24T01:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/fool-moon-11/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/Insta-Square.png",
+    "city": "pgh"
+  },
+  {
     "title": "City of Bridges Comedy Queen Pageant",
     "date": "2026-10-24T22:00:00.000Z",
     "location": "Arcade Comedy Theater",
@@ -737,6 +717,26 @@
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
     "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/arcade-category-sketch.png",
+    "city": "pgh"
+  },
+  {
+    "title": "The Rocky Horror ROAST Show",
+    "date": "2026-10-25T01:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/rocky-horror-roast/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/arcade-category-standup.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Speedrun",
+    "date": "2026-10-29T23:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/speedrun-4/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/Untitled-design-16.png",
     "city": "pgh"
   },
   {
@@ -917,36 +917,6 @@
     "link": "https://belvederesultradive.com/",
     "source": "https://belvederesultradive.com/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Live Album Series: CAN'T BUY A THRILL",
-    "date": "2026-09-20T00:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/live-album-series-can-t-buy-a-thrill-september-19-2026-687775",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/687/775/compressed/open-uri20260805-901-tu5qc6.jpg?1785952978",
-    "city": "pgh"
-  },
-  {
-    "title": "STEELERS GAME (vs Patriots)",
-    "date": "2026-09-20T17:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/steelers-game-vs-patriots-september-20-2026-712937",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/712/937/compressed/Steelers26-New-England.jpg?1786641869",
-    "city": "pgh"
-  },
-  {
-    "title": "YINZ MIGHT KNOW w/ RACHEL ANN BOVIER",
-    "date": "2026-09-20T23:30:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/yinz-might-know-w-rachel-ann-bovier-september-20-2026-741976",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/741/976/compressed/open-uri20260822-893-fmgdq3.jpg?1787416667",
     "city": "pgh"
   },
   {
@@ -1420,12 +1390,33 @@
     "city": "pgh"
   },
   {
-    "title": "SEPTEMBER 19TH HYPERBOP!!! 10PM/$10!!!",
-    "date": "2026-09-20T02:00:00.000Z",
-    "location": "Brillobox",
-    "link": "https://www.brilloboxpgh.com/events/event/september-19th-hyperbop-10pm-10/",
-    "source": "https://www.brilloboxpgh.com/events/",
+    "title": "SMUSH",
+    "date": "2026-11-12T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/smush-november-11-2026-731343",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
     "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/731/343/compressed/the_band_copy_%281%29.jpg?1788458585",
+    "city": "pgh"
+  },
+  {
+    "title": "JOSH GONDLEMAN",
+    "date": "2026-11-12T23:30:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/josh-gondleman-november-12-2026-726710",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/726/710/compressed/open-uri20260712-904-guknc6.jpg?1783867892",
+    "city": "pgh"
+  },
+  {
+    "title": "AUSTIN GIORGIO",
+    "date": "2026-11-14T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/austin-giorgio-november-13-2026-699630",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/699/630/compressed/HRZN_PROMO_PIC.jpg?1781286977",
     "city": "pgh"
   },
   {
@@ -1518,6 +1509,16 @@
     "city": "pgh"
   },
   {
+    "title": "FRIDAY OCTOBER 10TH 9PM/ $15 RED RABBIT/ ODNO OKNO/ WEIRD ERA/ PURPLE BERRIES",
+    "date": "2026-10-11T01:00:00.000Z",
+    "location": "Brillobox",
+    "link": "https://www.brilloboxpgh.com/events/event/friday-october-10th-9pm-15-red-rabbit-odno-okno-weird-era-purple-berries/",
+    "source": "https://www.brilloboxpgh.com/events/",
+    "hasTime": true,
+    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2026/08/IMG_9346.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Paula Poundstone",
     "date": "2026-09-26T00:00:00.000Z",
     "location": "Carnegie Library of Homestead Music Hall",
@@ -1555,16 +1556,6 @@
     "source": "https://librarymusichall.com/all-shows",
     "hasTime": true,
     "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/af45216cfe1f4cdbb097532d23f01299/1/4SoifmQpDrHbZJ6Vx83Qx/MattFraser_1080x1080_square_CHMH.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "On Topic: Cristina Modreanu&#8217;s &#8220;Performing Womanhood in Eastern Europe&#8221; with Dr. Zsuzsánna Magdó",
-    "date": "2026-09-20T19:00:00.000Z",
-    "location": "City of Asylum",
-    "link": "https://cityofasylum.org/program/on-topic-performing-womanhood-with-cristina-modreanu/",
-    "source": "https://cityofasylum.org/events/",
-    "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/08/Performing-F.webp",
     "city": "pgh"
   },
   {
@@ -1855,6 +1846,16 @@
     "source": "https://cityofasylum.org/events/",
     "hasTime": true,
     "poster": "https://cityofasylum.org/wp-content/uploads/2026/07/JOE-SHEEHAN-11192026.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Story Club PGH Presents: Story Slam! (Slipped Through My Fingers)",
+    "date": "2026-12-02T00:00:00.000Z",
+    "location": "City of Asylum",
+    "link": "https://cityofasylum.org/program/story-club-pgh-slipped-through-my-fingers/",
+    "source": "https://cityofasylum.org/events/",
+    "hasTime": true,
+    "poster": "https://cityofasylum.org/wp-content/uploads/2026/06/STORY-CLUB-2026-1.jpg",
     "city": "pgh"
   },
   {
@@ -2278,36 +2279,6 @@
     "city": "pgh"
   },
   {
-    "title": "The Indestructible Sextet",
-    "date": "2026-09-18T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/the-indestructible-sextet-dxlcs",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1788535301452-M6NMLEFTD9RECE96D9CG/IMG_8386.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Dennis Garner & Tempo Noir",
-    "date": "2026-09-19T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/jx53jte2x4ykstrdkfnnp9m2agal9s-b3yt8",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1736196061415-AZ14SWGX2G3VF1W40EKH/DennisGarner.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Late nite Jam Session with Tony Campbell",
-    "date": "2026-09-20T03:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/2w97qdvlij5rpmzfzptu73014n0r1r-bcmzf-ys5c3-sk9jy-g89ez-rhhcr-ed24n-2l396-enmex-j3h8g-pd8rm-cmxbc-brfxa-3lc2t-85z89",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1788479415574-AQSXBFQUJJIWL88DHA51/IMG_8382.webp",
-    "city": "pgh"
-  },
-  {
     "title": "Benny Benack 2",
     "date": "2026-09-20T21:00:00.000Z",
     "location": "Con Alma",
@@ -2349,12 +2320,12 @@
   },
   {
     "title": "Mike Tomaro New Quartet",
-    "date": "2026-09-27T23:00:00.000Z",
+    "date": "2026-09-27T21:00:00.000Z",
     "location": "Con Alma",
     "link": "https://www.conalmapgh.com/jazz/abeumlg5is0f7l03jd6mvgsfno8fuh-mf98w",
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1725220838743-Y3NIPANZ1UK3R9Q05B9W/MikeTomaro.jpg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1789939370349-MDORX2FGZD8AC95Y5V8L/MIke+Tomaro-Soprano+Sax+%282%29+-+Mike+Tomaro.jpg",
     "city": "pgh"
   },
   {
@@ -2515,6 +2486,36 @@
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1769554879820-APQH1SCMJS69V0KCIV99/Cosentino.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late nite Jam Session with Tony Campbell",
+    "date": "2026-09-20T03:00:00.000Z",
+    "location": "Con Alma",
+    "link": "https://www.conalmapgh.com/jazz/2w97qdvlij5rpmzfzptu73014n0r1r-bcmzf-ys5c3-sk9jy-g89ez-rhhcr-ed24n-2l396-enmex-j3h8g-pd8rm-cmxbc-brfxa-3lc2t-85z89",
+    "source": "https://www.conalmapgh.com/jazz",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1788479415574-AQSXBFQUJJIWL88DHA51/IMG_8382.webp",
+    "city": "pgh"
+  },
+  {
+    "title": "Dennis Garner & Tempo Noir",
+    "date": "2026-09-19T23:00:00.000Z",
+    "location": "Con Alma",
+    "link": "https://www.conalmapgh.com/jazz/jx53jte2x4ykstrdkfnnp9m2agal9s-b3yt8",
+    "source": "https://www.conalmapgh.com/jazz",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1736196061415-AZ14SWGX2G3VF1W40EKH/DennisGarner.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "The Indestructible Sextet",
+    "date": "2026-09-18T23:00:00.000Z",
+    "location": "Con Alma",
+    "link": "https://www.conalmapgh.com/jazz/the-indestructible-sextet-dxlcs",
+    "source": "https://www.conalmapgh.com/jazz",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1788535301452-M6NMLEFTD9RECE96D9CG/IMG_8386.jpeg",
     "city": "pgh"
   },
   {
@@ -2788,86 +2789,6 @@
     "city": "pgh"
   },
   {
-    "title": "Tony DePaolis GRoup",
-    "date": "2026-08-01T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/e7ffy8g8vg6v2nc07sp6xzltg5vmh2",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1783043593869-W379F575VWLI73QNQCEN/DSC_0233.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Hugo Cruz & Caminos",
-    "date": "2026-07-31T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/aqbaokj6gji96kxljdhwcs9wzjleke",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1747882790649-BEV7OYOTXDA474O9KCGV/Hugo+Cruz+9424.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "DePaolis/Alexander/Rushton",
-    "date": "2026-07-30T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/fiioyo6ec8u1c5cz1fxs589v450lxd",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1783043067011-DAMCC972SL63CPKITDML/TonyHowiwJevon.PNG",
-    "city": "pgh"
-  },
-  {
-    "title": "Treasure",
-    "date": "2026-09-18T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/treasure-%e2%88%99-september-18-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/07/9.18.26-treasure-website-photo.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Late Night Happy Hour",
-    "date": "2026-09-18T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-september-18-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Sunshine Sessions ft. Alec Henderson",
-    "date": "2026-09-19T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/sunshine-sessions-ft-alec-henderson-%e2%88%99-september-19-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/08/9.19.26-sunshine-sessions-alec-henderson-website-photo.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Priest Unleashed: Judas Priest Tribute & Penntera: Pantera Tribute",
-    "date": "2026-09-19T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/priest-unleashed-judas-priest-tribute-penntera-pantera-tribute-%e2%88%99-september-19-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/04/9.19.26-priest-unlneashed-website-photo-1.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Late Night Happy Hour",
-    "date": "2026-09-19T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-september-19-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Sunshine Sessions Mike Lindner",
     "date": "2026-09-20T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2875,16 +2796,6 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/08/9.20.26-sunshine-sessions-mike-lindner-website-photo.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Halfway to St. Patrick’s Day w. The Low Kings & Bealtaine",
-    "date": "2026-09-20T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/halfway-to-st-patricks-day-w-the-low-kings-bealtaine-%e2%88%99-september-20-2026-2/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/06/9.20.26-halfway-to-SPD-website-photo.jpg",
     "city": "pgh"
   },
   {
@@ -3468,16 +3379,6 @@
     "city": "pgh"
   },
   {
-    "title": "Powerplant w/ S.M.I.L.E. + United Stare + Painted Dog",
-    "date": "2026-09-19T16:00:00.000Z",
-    "location": "222 Ormsby, Pittsburgh",
-    "poster": "https://tlt-events.s3.amazonaws.com/115070/2138093/8878f43d40fce584feb1072bd50d9941d347b9023812d13c11e34761bb0f15e7/a85d0219-de4c-4d70-a3b4-6ff23e7f473e.jpg",
-    "link": "https://www.ticketleap.events/tickets/dltsgdom/powerplant-222ormsby",
-    "source": "https://events.ticketleap.com/events/dltsgdom",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
     "title": "Truck Violence w/ Kicked in the Head By A Horse + You Should Have Brought Me Flowers",
     "date": "2026-09-21T16:00:00.000Z",
     "location": "Mr. Roboto Project, Pittsburgh",
@@ -3538,16 +3439,6 @@
     "city": "pgh"
   },
   {
-    "title": "Siobhan Genesis's 40th Birthday Dance Party",
-    "date": "2026-09-19T19:00:00.000Z",
-    "location": "The Glitterbox Theater",
-    "link": "https://www.simpletix.com/e/siobhan-genesis-s-40th-birthday-dance-part-tickets-281979",
-    "source": "https://gbx.simpletix.com/",
-    "hasTime": true,
-    "poster": "https://cdn.simpletix.com/061a0c3f-1f7b-4166-938e-d883d9b287b7/shows/560/40thbirthday-banner9.19.26.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "The 41st Glitterbox Theater 10 Minute Play Fest!",
     "date": "2026-09-26T23:00:00.000Z",
     "location": "The Glitterbox Theater",
@@ -3588,33 +3479,13 @@
     "city": "pgh"
   },
   {
-    "title": "FRIDAY NIGHTS WITH DJ MIDAS",
-    "date": "2026-09-18T22:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/cxr3cnkw76m2xy6-hphzm-33gym-ywrez-h5kd7-7t2s3-d89wd-xfznj-zmxl8-dbz74-tmt3b",
-    "source": "http://www.thegoldmark.com/events",
+    "title": "Siobhan Genesis's 40th Birthday Dance Party",
+    "date": "2026-09-19T19:00:00.000Z",
+    "location": "The Glitterbox Theater",
+    "link": "https://www.simpletix.com/e/siobhan-genesis-s-40th-birthday-dance-part-tickets-281979",
+    "source": "https://gbx.simpletix.com/",
     "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "SATURDAY NIGHT W/ DJ NUGGET & DJ RED",
-    "date": "2026-09-20T01:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/k58y4cyygdeasea-f6zwe-ll2bk-jtmz8-2pwtl-afldj-95x8y-la5zc-n7cex-tw272-5bzhz-xjght-ey9y2",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1788441157024-Q3MUW9F7512MMI8PZBGD/Red+9.19.26.PNG",
-    "city": "pgh"
-  },
-  {
-    "title": "DISCO AFTER DARK",
-    "date": "2026-09-20T16:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/2026/6/16/disco-sunday-disco-after-hours-8gzce",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": false,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1789743861700-HMYBWSQQH9BKLB9MOVNX/DISCO+AFTER+DARK.JPG",
+    "poster": "https://cdn.simpletix.com/061a0c3f-1f7b-4166-938e-d883d9b287b7/shows/560/40thbirthday-banner9.19.26.jpg",
     "city": "pgh"
   },
   {
@@ -4167,6 +4038,36 @@
     "city": "pgh"
   },
   {
+    "title": "DISCO AFTER DARK",
+    "date": "2026-09-20T16:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/2026/6/16/disco-sunday-disco-after-hours-8gzce",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": false,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1789743861700-HMYBWSQQH9BKLB9MOVNX/DISCO+AFTER+DARK.JPG",
+    "city": "pgh"
+  },
+  {
+    "title": "SATURDAY NIGHT W/ DJ NUGGET & DJ RED",
+    "date": "2026-09-20T01:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/k58y4cyygdeasea-f6zwe-ll2bk-jtmz8-2pwtl-afldj-95x8y-la5zc-n7cex-tw272-5bzhz-xjght-ey9y2",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1788441157024-Q3MUW9F7512MMI8PZBGD/Red+9.19.26.PNG",
+    "city": "pgh"
+  },
+  {
+    "title": "FRIDAY NIGHTS WITH DJ MIDAS",
+    "date": "2026-09-18T22:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/cxr3cnkw76m2xy6-hphzm-33gym-ywrez-h5kd7-7t2s3-d89wd-xfznj-zmxl8-dbz74-tmt3b",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "HEAVY HEAVY (VINYL NIGHT) WITH JX4, DJ NUGGET & SPECIAL GUESTS",
     "date": "2026-09-17T16:00:00.000Z",
     "location": "The Goldmark",
@@ -4434,36 +4335,6 @@
     "source": "http://www.thegoldmark.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1743868231482-BRI0GFP14HB7WILSYFDF/Elixr.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "SATURDAY NIGHT W/ DJ NUGGET",
-    "date": "2026-08-01T22:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/k58y4cyygdeasea-f6zwe-ll2bk-jtmz8-2pwtl-afldj-95x8y-la5zc-n7cex-tw272-5bzhz-g7dnl",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1785455307221-FLUSDZFPLMMZIND4FAF8/Untitled+-+July+14%2C+2026+at+08.37.03%C2%A0%284%29.png",
-    "city": "pgh"
-  },
-  {
-    "title": "FRIDAY NIGHTS WITH QRX",
-    "date": "2026-07-31T22:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/lxyjtr59nsl8py2-wscga-3gfht-mhe3f-wgbgf-hzx2y-ayfre-59bpd-kpxjn-4z94b-xnjnp-ncnsj-tf7hs-af6yh-29dkb-dpwrb-s9ntz-gtykt-ces5y-e9s5r-kmg89-4bmrz-s4k8l-d59ht-zywrm-7gef6-w39rn",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1785455377281-XN8ZHBL1X05W4F9A87ZM/Fridays+QRX%C2%A0%281%29.png",
-    "city": "pgh"
-  },
-  {
-    "title": "DEEP END WITH NOCASINO AND SPECIAL GUESTS",
-    "date": "2026-07-31T00:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/2024/10/16/deep-end-with-nocasino-and-special-guests-5735x-tkemc-2lwkd-erhcc-fp6yn-86d5j-h7ydg-tg5j4-gwkn5-akt6f-5dakl-92e8t-jmc98-5xnyb-clyeg-d7fmp",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1733452921721-L2WDJUI3TM9W2LYSUPME/Deep+End.PNG",
     "city": "pgh"
   },
   {
@@ -4807,16 +4678,6 @@
     "city": "pgh"
   },
   {
-    "title": "Man in Reverse, Sarah Halter, Visions Within & Didi Mau",
-    "date": "2026-09-19T23:00:00.000Z",
-    "location": "Green Beacon Gallery",
-    "link": "https://www.greenbeacongallery.com/events/man-in-reverse-sarah-halter-visions-within-didi-mau",
-    "source": "https://www.greenbeacongallery.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1783983923100-IMCI3099UL0Y05N2MAIX/Visions+Wthin+banner.png",
-    "city": "pgh"
-  },
-  {
     "title": "GBG Short Film Fest",
     "date": "2026-09-25T23:00:00.000Z",
     "location": "Green Beacon Gallery",
@@ -4887,6 +4748,16 @@
     "city": "pgh"
   },
   {
+    "title": "Dark Tales: Darkness Has Depth",
+    "date": "2026-10-17T23:00:00.000Z",
+    "location": "Green Beacon Gallery",
+    "link": "https://www.greenbeacongallery.com/events/dark-tales-darkness-has-depth",
+    "source": "https://www.greenbeacongallery.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1789856235974-VO8VXV93PWEV9230BIDC/Dark+Tales+banner+copy.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "SPANAKOPITA! A Very Venture Night",
     "date": "2026-10-23T23:00:00.000Z",
     "location": "Green Beacon Gallery",
@@ -4894,6 +4765,16 @@
     "source": "https://www.greenbeacongallery.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1789784714554-720W8URGR48X2288FRHE/Span+post.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Spooky Couples Paint Date",
+    "date": "2026-10-24T18:00:00.000Z",
+    "location": "Green Beacon Gallery",
+    "link": "https://www.greenbeacongallery.com/events/spooky-couples-paint-date-1",
+    "source": "https://www.greenbeacongallery.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1789854760957-1H9AWC9Y09LUTJ7JK9LR/SCPD+1024+banner+copy.png",
     "city": "pgh"
   },
   {
@@ -4934,6 +4815,16 @@
     "source": "https://www.greenbeacongallery.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1789510637108-Y8FE4T7WX250DF6MGEK7/Nowhere+Wolves+post.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Man in Reverse, Sarah Halter, Visions Within & Didi Mau",
+    "date": "2026-09-19T23:00:00.000Z",
+    "location": "Green Beacon Gallery",
+    "link": "https://www.greenbeacongallery.com/events/man-in-reverse-sarah-halter-visions-within-didi-mau",
+    "source": "https://www.greenbeacongallery.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1783983923100-IMCI3099UL0Y05N2MAIX/Visions+Wthin+banner.png",
     "city": "pgh"
   },
   {
@@ -5227,36 +5118,6 @@
     "city": "pgh"
   },
   {
-    "title": "Rummage Sale",
-    "date": "2026-06-06T16:00:00.000Z",
-    "location": "Green Beacon Gallery",
-    "link": "https://www.greenbeacongallery.com/events/rummage-sale-1",
-    "source": "https://www.greenbeacongallery.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1778783986509-RD193WV8TI5EVVVG2BVK/Garage+Sale+banner+copy.png",
-    "city": "pgh"
-  },
-  {
-    "title": "The Clintones",
-    "date": "2026-09-20T00:00:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/the-clintones-10/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/the-clintones.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Knorrwood",
-    "date": "2026-09-20T23:00:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/knorrwood/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://cdn.etix.com/etix/performance-image/performance_image_1200w/f89a2c2acfed88e78b7dd5787d7a48a7.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Paralandra",
     "date": "2026-09-21T23:30:00.000Z",
     "location": "Jergel's Rhythm Grille",
@@ -5487,6 +5348,26 @@
     "city": "pgh"
   },
   {
+    "title": "Last Train to Ozz",
+    "date": "2026-10-22T23:30:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/last-train-to-ozz/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/last-train-to-ozz.jpeg",
+    "city": "pgh"
+  },
+  {
+    "title": "Icon for Hire",
+    "date": "2026-10-23T23:30:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/icon-for-hire/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://cdn.etix.com/etix/performance-image/performance_image_1200w/cf04a5f5a2f9285bc9a37191cc626879.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Member Preview: Akea Brionne",
     "date": "2026-10-16T16:00:00.000Z",
     "location": "Mattress Factory",
@@ -5610,16 +5491,6 @@
     "link": "https://mattress.org/events/conversation-with-artistic-director-anthony-elms/",
     "source": "https://mattress.org/calendar/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "theCAUSE Live at Moondogs!!",
-    "date": "2026-09-20T00:00:00.000Z",
-    "location": "Moondogs",
-    "link": "https://moondogs.us/event/thecause-live-at-moondogs/",
-    "source": "https://moondogs.us/shows/",
-    "hasTime": true,
-    "poster": "https://moondogs.us/wp-content/uploads/2026/08/theCAUSE-9-19-26.jpg",
     "city": "pgh"
   },
   {
@@ -5941,16 +5812,6 @@
     "source": "https://www.theoakstheater.com/event-listings",
     "hasTime": true,
     "city": "pgh"
-  },
-  {
-    "title": "Automatic w/ Accessory and The Bedheads",
-    "date": "2026-09-20T00:00:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/automatic-123-pleasant-street-morgantown-wv-2026",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/14326/10418710/015e0d70682d697c6105c8143224e3c7e74f2a160d50f7c6da8c1eaa17937825/88301c3e-1266-4c6e-9873-a984a68e20de_fit_300.jpg",
-    "city": "mgw"
   },
   {
     "title": "WEEKLY GAME NIGHT- No Cover",
@@ -6303,26 +6164,6 @@
     "city": "pgh"
   },
   {
-    "title": "David Powell and Company",
-    "date": "2026-09-19T00:00:00.000Z",
-    "location": "Park House",
-    "link": "https://parkhouse412.com/event/david-powell-and-company/",
-    "source": "https://parkhouse412.com/calendar/list/",
-    "hasTime": true,
-    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Alex Talbot",
-    "date": "2026-09-20T00:00:00.000Z",
-    "location": "Park House",
-    "link": "https://parkhouse412.com/event/alex-talbot-3/",
-    "source": "https://parkhouse412.com/calendar/list/",
-    "hasTime": true,
-    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
-    "city": "pgh"
-  },
-  {
     "title": "Skippolito featuring members of Norside",
     "date": "2026-09-25T00:00:00.000Z",
     "location": "Park House",
@@ -6417,6 +6258,26 @@
     "date": "2026-10-24T00:00:00.000Z",
     "location": "Park House",
     "link": "https://parkhouse412.com/event/alex-talbot-4/",
+    "source": "https://parkhouse412.com/calendar/list/",
+    "hasTime": true,
+    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Brad Wagner",
+    "date": "2026-10-25T00:00:00.000Z",
+    "location": "Park House",
+    "link": "https://parkhouse412.com/event/brad-wagner-4/",
+    "source": "https://parkhouse412.com/calendar/list/",
+    "hasTime": true,
+    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Jake Rubenstein",
+    "date": "2026-10-29T23:00:00.000Z",
+    "location": "Park House",
+    "link": "https://parkhouse412.com/event/jake-rubenstein-3/",
     "source": "https://parkhouse412.com/calendar/list/",
     "hasTime": true,
     "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
@@ -7051,26 +6912,6 @@
     "city": "pgh"
   },
   {
-    "title": "ARROWS IN ACTION",
-    "date": "2026-09-18T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/arrows-in-action",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_b273fde02a9c43c3af39155363a6b883~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_b273fde02a9c43c3af39155363a6b883~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "CROWN MAGNETAR",
-    "date": "2026-09-20T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/crown-magnetar",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_dc32f172b12b4b5d88e7929d6ae8f84f~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_dc32f172b12b4b5d88e7929d6ae8f84f~mv2.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "MANY EYES",
     "date": "2026-09-21T16:00:00.000Z",
     "location": "Preserving Underground",
@@ -7131,6 +6972,16 @@
     "city": "pgh"
   },
   {
+    "title": "NEVERTEL",
+    "date": "2026-10-02T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/nevertel",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_9e662b441d7f4596aadee14b069a31fc~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_9e662b441d7f4596aadee14b069a31fc~mv2.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "156/SILENCE",
     "date": "2026-10-03T16:00:00.000Z",
     "location": "Preserving Underground",
@@ -7147,7 +6998,7 @@
     "link": "https://www.preservingconcerts.com/events/revocation",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_dde2f40447aa423c90ced5351a79240b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_dde2f40447aa423c90ced5351a79240b~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/41a88f_dde2f40447aa423c90ced5351a79240b~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_dde2f40447aa423c90ced5351a79240b~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7228,6 +7079,16 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "BIG ASS TRUCK",
+    "date": "2026-11-03T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/big-ass-truck",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_6fa6ae2c2e6b4902adc33593243176f4~mv2.jpg/v1/fill/w_147,h_227,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_6fa6ae2c2e6b4902adc33593243176f4~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7528,16 +7389,6 @@
     "source": "https://www.remedybarpgh.com/calendar",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65ccf24582acfb36c113454e/1747798982457-LI7I1916QJUJV3TDTMNT/image0.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "The Home Team: THE CRUCIBLE OF LIFE II ",
-    "date": "2026-09-19T22:30:00.000Z",
-    "location": "Roxian Theatre presented by Citizens",
-    "link": "https://www.livenation.com/event/17AOv0G65za_Wr8/the-home-team-the-crucible-of-life-ii",
-    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
-    "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/84a/84908fc9-2304-4bc2-9927-9bfe84cc384a_1848141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
     "city": "pgh"
   },
   {
@@ -8001,24 +7852,6 @@
     "city": "pgh"
   },
   {
-    "title": "Lets Go Deep",
-    "date": "2026-09-19T01:00:00.000Z",
-    "location": "SideQuest",
-    "link": "https://theticketing.co/e/letsgodeep?open=true",
-    "source": "https://theticketing.co/o/sidequestpgh",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "EULOGY",
-    "date": "2026-09-20T01:00:00.000Z",
-    "location": "SideQuest",
-    "link": "https://theticketing.co/e/eulogy?open=true",
-    "source": "https://theticketing.co/o/sidequestpgh",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
     "title": "HEXXA",
     "date": "2026-09-26T01:00:00.000Z",
     "location": "SideQuest",
@@ -8052,16 +7885,6 @@
     "link": "https://theticketing.co/e/whalespgh?open=true",
     "source": "https://theticketing.co/o/sidequestpgh",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Frank Turner & The Sleeping Souls – ROAD TO LOST EVENINGS IX\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guests: Emily Wolfe, Black Guy Fawkes",
-    "date": "2026-09-19T23:00:00.000Z",
-    "location": "Mr. Smalls Theatre",
-    "link": "https://mrsmalls.com/events/frank-turner/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/05/09-19-26_FrankTurner_v2.png",
     "city": "pgh"
   },
   {
@@ -9235,36 +9058,6 @@
     "city": "pgh"
   },
   {
-    "title": "OPEN at The Space Upstairs doors open 7p-11p",
-    "date": "2026-09-19T16:00:00.000Z",
-    "location": "The Space Upstairs",
-    "link": "https://www.thespaceupstairs.org/events",
-    "source": "https://www.thespaceupstairs.org/events",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/9067a9_b8c354412daf420b8cb492855f408ad5~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "THE POETRY ATELIER  6p-8p",
-    "date": "2026-11-01T16:00:00.000Z",
-    "location": "The Space Upstairs",
-    "link": "https://www.thespaceupstairs.org/events",
-    "source": "https://www.thespaceupstairs.org/events",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/9067a9_b2f36668a7f24dc481ab0828edd930b9~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "SECOND SATURDAYS doors open 8p-11p",
-    "date": "2026-12-12T16:00:00.000Z",
-    "location": "The Space Upstairs",
-    "link": "https://www.thespaceupstairs.org/events",
-    "source": "https://www.thespaceupstairs.org/events",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/9067a9_ec0f911a16934c6e8b888a38eb6b39c8~mv2.jpeg",
-    "city": "pgh"
-  },
-  {
     "title": "THE POETRY ATELIER  6p-8p",
     "date": "2026-10-04T16:00:00.000Z",
     "location": "The Space Upstairs",
@@ -9325,53 +9118,23 @@
     "city": "pgh"
   },
   {
-    "title": "Jellyfish",
-    "date": "2026-09-19T00:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/18/jellyfish",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788209263335-TGRS3BI4NP5PE7Z1UAT3/jf.jpg",
+    "title": "THE POETRY ATELIER  6p-8p",
+    "date": "2026-11-01T16:00:00.000Z",
+    "location": "The Space Upstairs",
+    "link": "https://www.thespaceupstairs.org/events",
+    "source": "https://www.thespaceupstairs.org/events",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/9067a9_b2f36668a7f24dc481ab0828edd930b9~mv2.jpg",
     "city": "pgh"
   },
   {
-    "title": "Death Comes Lifting Yoga on the Rooftop",
-    "date": "2026-09-19T17:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/8/8/death-comes-lifting-yoga-on-the-rooftop-73bmb",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788990440961-8YTTRZZ3HFB6V9XNJ5CG/1000020269.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Saturdaze",
-    "date": "2026-09-19T18:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/7/4/saturdaze-tlzd2-nzfm8-l23zn-t6bla-n53j6-mjdxh-mm3nt-we42a",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789402007866-D6YJHRKJXX9ER98Q6CGO/saturdaze_9-19.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Afro-Caribbean Third Saturdays: Island Motion",
-    "date": "2026-09-20T02:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/bpnl6zxjcens3gw-2ccn7-gzwtz-gpz5t-hnjf7-jaayj-smc7n-sd8fw-3xm55-jl8c4-pbx39-2ebd4-sfwsp-dftc5-jdf6g-ff8d7-lsp6h-56mxg-n3xgf-62bjz-zhjsr-txp26",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789391652138-1WB0E1UAXCGJ6VEZ3ETQ/D0A0AFB3-6A7E-41F4-A443-B65C7A8EB837.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Brunch-ish",
-    "date": "2026-09-20T16:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/7/5/brunch-on-the-rooftop-jtgcd-d9fs3-ksd8r-m3z79-hd877-6w2nr",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789402068899-Q633LFOQ14O81ST3WV0Q/RooftopBrunch-ish_9-20.jpg",
+    "title": "SECOND SATURDAYS doors open 8p-11p",
+    "date": "2026-12-12T16:00:00.000Z",
+    "location": "The Space Upstairs",
+    "link": "https://www.thespaceupstairs.org/events",
+    "source": "https://www.thespaceupstairs.org/events",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/9067a9_ec0f911a16934c6e8b888a38eb6b39c8~mv2.jpeg",
     "city": "pgh"
   },
   {
@@ -9675,23 +9438,53 @@
     "city": "pgh"
   },
   {
-    "title": "Mastodon",
-    "date": "2026-09-19T22:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/mastodon",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "title": "Ethan Regan",
+    "date": "2026-11-07T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-5dwcr",
+    "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/bpZtsZEtyk4Sx63vcK8B12lzSRqXhqQQWLG6a4vO.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=8627175da7851f7099c303a47f17f24b",
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1780396960017-F0BT6401HSZOQPO1HRXF/Static_Social-Instagram_1080x1080_EthanRegan_2026_Regional_SpiritHall_1107.jpg",
     "city": "pgh"
   },
   {
-    "title": "Tucker Wetmore: The Brunette World Tour",
-    "date": "2026-09-20T21:30:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/tucker-wetmore-the-brunette-world-tour",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "title": "High Vis",
+    "date": "2026-11-10T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-a9y38-47rhg",
+    "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/ECRlSiTSYkDxgmQFCfG8P93Lg6ViORm00fr1xEVY.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=d28b83559a5f9a3807d0797d5f1ce9ee",
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789039808334-93J50O4YJRUMO7NTEY5A/hv.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Little Image",
+    "date": "2026-11-11T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-a9y38-7axsh",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789477164437-P8XKNN44J9ESZ4NLDTHD/Static_Social-Instagram_1080x1080_LittleImage_2026_Regional_SpiritHall_1111.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Emo Nite",
+    "date": "2026-11-14T01:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-a9y38-kn9p7",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789477454340-952STX0A50NVP6ZDSCFH/11-13+Pittsburgh_1350x1350.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Deerhoof",
+    "date": "2026-11-15T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/11/15/deerhoof",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1783705805662-LFIF6L79FBAACPFMVYLK/deerhoof+-+final+flyer.jpg",
     "city": "pgh"
   },
   {
@@ -9812,6 +9605,26 @@
     "source": "https://promowestlive.com/pittsburgh/stage-ae",
     "hasTime": true,
     "poster": "https://promowest.imgix.net/artists/P5OBrW6GW6ethBjybPxasEdwyqh3bRYQuniMDFqB.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=cb2f5da77924cfacf6abe3170733b410",
+    "city": "pgh"
+  },
+  {
+    "title": "Steelers Tailgate",
+    "date": "2026-10-11T16:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/steelers-tailgate",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/events/2acdRLkd0Gj56I4TV2lY4RlbvqThf0wHayMjyosM.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=961c054c00e30180e22a7e2f15d10948",
+    "city": "pgh"
+  },
+  {
+    "title": "Brand New",
+    "date": "2026-10-14T23:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/brand-new2",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/artists/i4YvVPATWmPxaVjKHk5OVZACMudItcgKt3NneuqR.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=38e81367c34d378aaa9e4c0f79ee7dd6",
     "city": "pgh"
   },
   {
@@ -10031,16 +9844,6 @@
     "source": "https://www.tech25.org/calendar",
     "hasTime": true,
     "poster": "https://www.tech25.org/images/content/thumb_4adcbbd71639a15e2a55b5626-2922.png",
-    "city": "pgh"
-  },
-  {
-    "title": "I See Stars",
-    "date": "2026-09-19T23:00:00.000Z",
-    "location": "Thunderbird Cafe & Music Hall",
-    "link": "https://thunderbirdmusichall.com/event/i-see-stars/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
-    "source": "https://thunderbirdmusichall.com/shows/?view=list",
-    "hasTime": true,
-    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/07/i-see-stars-spin-the-wheel-tour.jfif",
     "city": "pgh"
   },
   {
@@ -10544,25 +10347,6 @@
     "city": "pgh"
   },
   {
-    "title": "Pittsburgh DSA 1000 Member Celebration",
-    "date": "2026-09-19T22:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/19/pittsburgh-dsa-1000-member-celebration",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Disco Sunday Disco",
-    "date": "2026-09-20T19:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/20/disco-sunday-disco",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788493623421-5YVS08542ODDNK20KM8T/discosundaydisco-sept.png",
-    "city": "pgh"
-  },
-  {
     "title": "Sips of Science - Free Lecture Night",
     "date": "2026-09-22T22:00:00.000Z",
     "location": "Trace Brewing",
@@ -10648,6 +10432,25 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1722905550890-BZ25ZLX1PQY0IF394SQL/dnd+logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Disco Sunday Disco",
+    "date": "2026-09-20T19:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/20/disco-sunday-disco",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788493623421-5YVS08542ODDNK20KM8T/discosundaydisco-sept.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Pittsburgh DSA 1000 Member Celebration",
+    "date": "2026-09-19T22:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/19/pittsburgh-dsa-1000-member-celebration",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
     "city": "pgh"
   },
   {
@@ -10925,26 +10728,6 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/d9a0c111-88b3-46e2-a310-75f8a9947754/GetDahn.png",
-    "city": "pgh"
-  },
-  {
-    "title": "RADICAL TRIVIA WITH JESS (EVERY WEDNESDAY AT 7PM)",
-    "date": "2026-08-12T23:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/3/4/radical-trivia-with-jess-every-wednesday-at-7pm-y8pjt-aj3m6-9wman-c5746-l58dr-pre5d-zs65m-3f6t6-3mxat-9766n",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1772512949765-UHTC25692XGKBW0NPA3F/1.JPG",
-    "city": "pgh"
-  },
-  {
-    "title": "Barrel & Flow Festival (Strip District)",
-    "date": "2026-08-08T16:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2025/8/9/barrel-amp-flow-festival-strip-district-6pced",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/3906308c-508a-4c8b-ab4f-f30ecae297a0/BF_starburst_noback.png",
     "city": "pgh"
   },
   {
