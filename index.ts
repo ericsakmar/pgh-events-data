@@ -4,9 +4,6 @@ import { getFeeds } from "./feeds/index.ts";
 import fs from "node:fs/promises";
 
 const main = async () => {
-  const events = await getEvents();
-  await fs.writeFile("events.json", JSON.stringify(events, null, 2));
-
   await Promise.all([
     getEvents().then((events) =>
       fs.writeFile("events.json", JSON.stringify(events, null, 2)),
