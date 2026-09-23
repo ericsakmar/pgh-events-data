@@ -25,6 +25,9 @@ jobs:
       - name: Run Scraper
         env:
           ADMIN_DATABASE_URL: ${{ secrets.ADMIN_DATABASE_URL }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: npm run all
 
       - name: Commit and push updated JSON
