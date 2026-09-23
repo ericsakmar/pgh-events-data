@@ -100,7 +100,7 @@ export const getLinks = async (): Promise<Feed[]> => {
   const links = playlists.map((p) => ({
     title: p.name,
     subtitle: "Spotify",
-    url: p.external_urls.spotify,
+    url: p.external_urls?.spotify,
     timestamp: getLastUpdated(p.tracks.items).toISOString(),
     tags: ["playlist"],
     image: p.images[0].url,
