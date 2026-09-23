@@ -920,16 +920,6 @@
     "city": "pgh"
   },
   {
-    "title": "REMEMBER SPORTS",
-    "date": "2026-09-23T00:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/remember-sports-september-22-2026-709873",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/709/873/compressed/tour_poster_rs_926_admat.jpg?1784306203",
-    "city": "pgh"
-  },
-  {
     "title": "SPARTA",
     "date": "2026-09-24T00:00:00.000Z",
     "location": "Bottlerocket Social Hall",
@@ -1420,6 +1410,16 @@
     "city": "pgh"
   },
   {
+    "title": "SUNNY DAZE & THE WEATHERMEN (Album Release)",
+    "date": "2026-11-15T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/sunny-daze-the-weathermen-album-release-november-14-2026-695470",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/695/470/compressed/ticket_page_header_11_14.jpg?1789405719",
+    "city": "pgh"
+  },
+  {
     "title": "BRILLO PUB QUIZ!!! 8PM!!! FREE TO PLAY!!!",
     "date": "2026-09-24T00:00:00.000Z",
     "location": "Brillobox",
@@ -1556,16 +1556,6 @@
     "source": "https://librarymusichall.com/all-shows",
     "hasTime": true,
     "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/af45216cfe1f4cdbb097532d23f01299/1/4SoifmQpDrHbZJ6Vx83Qx/MattFraser_1080x1080_square_CHMH.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "World Literature: Andrea Bajani’s &#8220;The Anniversary&#8221; (Italy) with Anderson Tepper",
-    "date": "2026-09-22T23:00:00.000Z",
-    "location": "City of Asylum",
-    "link": "https://cityofasylum.org/program/world-literature-andrea-bajani/",
-    "source": "https://cityofasylum.org/events/",
-    "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/07/ANDREA-BAJANI-09222026.jpg",
     "city": "pgh"
   },
   {
@@ -1715,7 +1705,7 @@
     "link": "https://cityofasylum.org/program/artist-in-exile-olena-boryshpolets-the-bride/",
     "source": "https://cityofasylum.org/events/",
     "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/08/Olena-Boryshpolets.webp",
+    "poster": "https://cityofasylum.org/wp-content/uploads/2026/08/bride-web-image.png",
     "city": "pgh"
   },
   {
@@ -1856,6 +1846,16 @@
     "source": "https://cityofasylum.org/events/",
     "hasTime": true,
     "poster": "https://cityofasylum.org/wp-content/uploads/2026/06/STORY-CLUB-2026-1.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Thursday Night Jazz: Mila Shadel Quartet Plays Jazzy Renditions of Joni Mitchell",
+    "date": "2026-12-04T00:00:00.000Z",
+    "location": "City of Asylum",
+    "link": "https://cityofasylum.org/program/thursday-night-jazz-mila-shadel-quartet-2/",
+    "source": "https://cityofasylum.org/events/",
+    "hasTime": true,
+    "poster": "https://cityofasylum.org/wp-content/uploads/2026/01/Mila-Shadel-02122026.jpg",
     "city": "pgh"
   },
   {
@@ -7847,16 +7847,6 @@
     "city": "pgh"
   },
   {
-    "title": "Big Laughs Comedy Open Mic\t\t\t\t\t\t\t\t\t\t\t\t\tHosted by Zach Funk",
-    "date": "2026-09-22T23:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/big-laughs-comedy-open-mic-101/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster-1.png",
-    "city": "pgh"
-  },
-  {
     "title": "Smallsgrass Bluegrass Jam\t\t\t\t\t\t\t\t\t\t\t\t\tWednesday Night Bluegrass Jam",
     "date": "2026-09-23T23:00:00.000Z",
     "location": "Mr. Smalls Cafe",
@@ -9447,16 +9437,6 @@
     "city": "pgh"
   },
   {
-    "title": "Sam Barber - The American Route Tour",
-    "date": "2026-09-22T21:30:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/sam-barber-the-american-route-tour",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/9JhuNFnfh2s3ubPwpP6bWGEamm37N5bmtmdbrI1s.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=056d6975d734b8ca10538bc864c6707b",
-    "city": "pgh"
-  },
-  {
     "title": "Rainbow Kitten Surprise: bones North American Tour",
     "date": "2026-09-23T22:30:00.000Z",
     "location": "Stage AE",
@@ -9584,6 +9564,16 @@
     "source": "https://promowestlive.com/pittsburgh/stage-ae",
     "hasTime": true,
     "poster": "https://promowest.imgix.net/events/KNNyMcpA3xwbaVgcp8bjejGGJejxodmB705AkaUZ.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=26b7e4afae056dde5f842aa586256a4e",
+    "city": "pgh"
+  },
+  {
+    "title": "Jesse Welles: Red Tour 2026",
+    "date": "2026-10-20T23:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/jesse-welles-red-tour-2026",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/artists/v2LbKoemfrrMp67BOJuoNGlx30bb88LXy77HqM2r.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=8dade6c74b2ccc815d3ef6b19b43185d",
     "city": "pgh"
   },
   {
@@ -10568,16 +10558,6 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/d9a0c111-88b3-46e2-a310-75f8a9947754/GetDahn.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sound Series: L’Rain with special guest April + VISTA",
-    "date": "2026-09-23T00:00:00.000Z",
-    "location": "The Warhol entrance space",
-    "link": "https://www.warhol.org/events/sound-series-lrain/",
-    "source": "https://www.warhol.org/calendar/list/?tribe_eventcategory%5B0%5D=1546",
-    "hasTime": true,
-    "poster": "https://www.warhol.org/wp-content/uploads/2026/06/L_Rain__fata_morgana_Press_Pic_003_Mackai_Sharp.jpg",
     "city": "pgh"
   },
   {
