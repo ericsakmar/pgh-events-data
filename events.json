@@ -920,16 +920,6 @@
     "city": "pgh"
   },
   {
-    "title": "SPARTA",
-    "date": "2026-09-24T00:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/sparta-september-23-2026-686382?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/686/382/compressed/Photocredit_JohnCarluccio_%281%29.jpg?1776695323",
-    "city": "pgh"
-  },
-  {
     "title": "CAGE MATCH",
     "date": "2026-09-24T23:30:00.000Z",
     "location": "Bottlerocket Social Hall",
@@ -1420,23 +1410,13 @@
     "city": "pgh"
   },
   {
-    "title": "BRILLO PUB QUIZ!!! 8PM!!! FREE TO PLAY!!!",
-    "date": "2026-09-24T00:00:00.000Z",
-    "location": "Brillobox",
-    "link": "https://www.brilloboxpgh.com/events/event/brillo-pub-quiz-8pm-free-to-play-2/",
-    "source": "https://www.brilloboxpgh.com/events/",
+    "title": "WORST PARTY EVER x EQUIPMENT",
+    "date": "2026-11-15T23:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/worst-party-ever-x-equipment-november-15-2026-695200?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
     "hasTime": true,
-    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2025/01/IMG_5924.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "EVERY WEDNESDAY!!! BRILLO PUB QUIZ!!! FREE TO PLAY!!! PRIZES!!!FOOD AND DRINK SPECIALS!!!",
-    "date": "2026-09-23T16:00:00.000Z",
-    "location": "Brillobox",
-    "link": "https://www.brilloboxpgh.com/events/event/every-wednesday-brillo-pub-quiz-free-to-play-prizesfood-and-drink-specials/",
-    "source": "https://www.brilloboxpgh.com/events/",
-    "hasTime": false,
-    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2025/04/IMG_6181.jpg",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/695/200/compressed/Worst_Party_Ever_pic.jpg?1786640019",
     "city": "pgh"
   },
   {
@@ -1467,6 +1447,26 @@
     "source": "https://www.brilloboxpgh.com/events/",
     "hasTime": false,
     "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2026/08/IMG_9350.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "BRILLO PUB QUIZ!!! 8PM!!! FREE TO PLAY!!!",
+    "date": "2026-10-01T00:00:00.000Z",
+    "location": "Brillobox",
+    "link": "https://www.brilloboxpgh.com/events/event/brillo-pub-quiz-8pm-free-to-play-2/",
+    "source": "https://www.brilloboxpgh.com/events/",
+    "hasTime": true,
+    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2025/01/IMG_5924.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "EVERY WEDNESDAY!!! BRILLO PUB QUIZ!!! FREE TO PLAY!!! PRIZES!!!FOOD AND DRINK SPECIALS!!!",
+    "date": "2026-09-30T16:00:00.000Z",
+    "location": "Brillobox",
+    "link": "https://www.brilloboxpgh.com/events/event/every-wednesday-brillo-pub-quiz-free-to-play-prizesfood-and-drink-specials/",
+    "source": "https://www.brilloboxpgh.com/events/",
+    "hasTime": false,
+    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2025/04/IMG_6181.jpg",
     "city": "pgh"
   },
   {
@@ -5028,16 +5028,6 @@
     "city": "pgh"
   },
   {
-    "title": "Carolyn Wonderland",
-    "date": "2026-09-24T00:00:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/carolyn-wonderland/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/carolyn-wonderland.jpeg",
-    "city": "pgh"
-  },
-  {
     "title": "No Bad Juju",
     "date": "2026-09-26T00:00:00.000Z",
     "location": "Jergel's Rhythm Grille",
@@ -5095,16 +5085,6 @@
     "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
     "hasTime": true,
     "poster": "https://druskyentertainment.com/wp-content/uploads/2026/09/thunderstruck-americas-ac-dc-tribute.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Fastball",
-    "date": "2026-10-02T22:30:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/fastball/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/09/fastball-1.jpeg",
     "city": "pgh"
   },
   {
@@ -5278,6 +5258,26 @@
     "city": "pgh"
   },
   {
+    "title": "Icon for Hire",
+    "date": "2026-10-23T23:30:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/icon-for-hire/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://cdn.etix.com/etix/performance-image/performance_image_1200w/cf04a5f5a2f9285bc9a37191cc626879.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Hunter Flynn",
+    "date": "2026-10-25T00:00:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/hunter-flynn/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/09/hunter-flynn.jpeg",
+    "city": "pgh"
+  },
+  {
     "title": "Member Preview: Akea Brionne",
     "date": "2026-10-16T16:00:00.000Z",
     "location": "Mattress Factory",
@@ -5401,16 +5401,6 @@
     "link": "https://mattress.org/events/conversation-with-artistic-director-anthony-elms/",
     "source": "https://mattress.org/calendar/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Solomon Hicks Live at Moondogs!!",
-    "date": "2026-09-23T23:30:00.000Z",
-    "location": "Moondogs",
-    "link": "https://moondogs.us/event/solomon-hicks-live-at-moondogs/",
-    "source": "https://moondogs.us/shows/",
-    "hasTime": true,
-    "poster": "https://moondogs.us/wp-content/uploads/2026/08/Solomon-Hicks-9-23-26-1.png",
     "city": "pgh"
   },
   {
@@ -5752,16 +5742,6 @@
     "source": "https://www.theoakstheater.com/event-listings",
     "hasTime": true,
     "city": "pgh"
-  },
-  {
-    "title": "Noi's 21st B-Day: Amity Lone Pine, Sample Text, Major Delilah, Escape Plan 79, Steinn, Emma Birdz, Matt B, With Thought, Koal",
-    "date": "2026-09-23T23:00:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/noi-s-21st-b-day-123",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/14326/10462300/dc2544672e60901705f218f5d369c2ea41d26408b2cdb7520497254e275f4dd1/c4faea65-195f-418c-b332-daa3807ef53b_fit_300.jpg",
-    "city": "mgw"
   },
   {
     "title": "CHICO'S TEAM MEETING - END OF SEASON AWARD CEREMONY - LOWER BAR",
@@ -6952,13 +6932,23 @@
     "city": "pgh"
   },
   {
+    "title": "EDGE DAY FEST",
+    "date": "2026-10-10T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/edge-day-fest",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png/v1/fill/w_264,h_264,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png",
+    "city": "pgh"
+  },
+  {
     "title": "OSO OSO",
     "date": "2026-10-10T16:00:00.000Z",
     "location": "Preserving Underground",
     "link": "https://www.preservingconcerts.com/events/oso-oso",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_0424ce9cbfac43b3a0c5bf7b9c320afe~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_0424ce9cbfac43b3a0c5bf7b9c320afe~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/41a88f_0424ce9cbfac43b3a0c5bf7b9c320afe~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_0424ce9cbfac43b3a0c5bf7b9c320afe~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -6989,6 +6979,16 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_c6ef2d0331d84256a38692d195aca443~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_c6ef2d0331d84256a38692d195aca443~mv2.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "NiNi",
+    "date": "2026-10-20T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/nini",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_fc6aaa4ff10c4d82b52d61724cfbdbf0~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_fc6aaa4ff10c4d82b52d61724cfbdbf0~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7029,26 +7029,6 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "BIG ASS TRUCK",
-    "date": "2026-11-03T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/big-ass-truck",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_6fa6ae2c2e6b4902adc33593243176f4~mv2.jpg/v1/fill/w_147,h_227,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_6fa6ae2c2e6b4902adc33593243176f4~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "BORN OF OSIRIS",
-    "date": "2026-11-07T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/born-of-osiris-1",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_70e367c213634ddf89429fc432457bd6~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_70e367c213634ddf89429fc432457bd6~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7853,26 +7833,6 @@
     "link": "https://theticketing.co/e/whalespgh?open=true",
     "source": "https://theticketing.co/o/sidequestpgh",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Smallsgrass Bluegrass Jam\t\t\t\t\t\t\t\t\t\t\t\t\tWednesday Night Bluegrass Jam",
-    "date": "2026-09-23T23:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/smallsgrass-bluegrass-jam-102/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster-2.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Starcleaner Reunion – Tour for a Rainy Day\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: Gina Gory",
-    "date": "2026-09-24T00:00:00.000Z",
-    "location": "The Funhouse at Mr. Smalls",
-    "link": "https://mrsmalls.com/events/starcleaner-reunion/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/06/9-23-26_STARCLEANER-V2-scaled.jpg",
     "city": "pgh"
   },
   {
@@ -9446,16 +9406,6 @@
     "city": "pgh"
   },
   {
-    "title": "Rainbow Kitten Surprise: bones North American Tour",
-    "date": "2026-09-23T22:30:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/09/rainbow-kitten-surprise-bones-north-american-tour2",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/QWKpSbd6WvD1zwLcB2tHZfCYKElSQN3OjFPSL73L.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=915aebe1d7d0f00ebe7cf5d9ecd94159",
-    "city": "pgh"
-  },
-  {
     "title": "Ninajirachi's I Love My Computer and It Loves Me Tour",
     "date": "2026-09-24T23:00:00.000Z",
     "location": "Stage AE",
@@ -9586,6 +9536,16 @@
     "city": "pgh"
   },
   {
+    "title": "MOVEMENTS - HAPPIER NOW USA TOUR",
+    "date": "2026-10-21T22:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/movements-happier-now-usa-tour",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/artists/JI1YBvuUvb0n8X7Fx6PsnIL7soDSI0CsyRcfzeli.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=a8041d24bb9f1617abcdbb6a7373ce64",
+    "city": "pgh"
+  },
+  {
     "title": "Story Time!",
     "date": "2026-09-30T21:32:00.000Z",
     "location": "Happenstance Cafe",
@@ -9603,16 +9563,6 @@
     "poster": "https://tlv1eet211.ufs.sh/f/nfSE4FzKFBj1xKAFDH4TlmVhJ0Yn1d85SNWGUbko2csvigeX",
     "source": "https://pgh.events",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Rational Acoustics: Smaart Operator: Fundamentals",
-    "date": "2026-09-23T16:00:00.000Z",
-    "location": "Tech25",
-    "link": "https://www.tech25.org/calendar/rational-acoustics-smaart-operator-fundamentals-2026-09-23/221",
-    "source": "https://www.tech25.org/calendar",
-    "hasTime": true,
-    "poster": "https://www.tech25.org/images/content/thumb_db433a367633b42849007bb59-27515.jpeg",
     "city": "pgh"
   },
   {
@@ -10186,16 +10136,6 @@
     "city": "pgh"
   },
   {
-    "title": "RADICAL TRIVIA WITH JESS (EVERY WEDNESDAY AT 7PM)",
-    "date": "2026-09-23T23:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/3/4/radical-trivia-with-jess-every-wednesday-at-7pm-y8pjt-aj3m6-9wman-c5746-l58dr-pre5d-zs65m-3f6t6-3mxat-wryl9-p6efb-axkn4-sclyk-9r5ly",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1772512949765-UHTC25692XGKBW0NPA3F/1.JPG",
-    "city": "pgh"
-  },
-  {
     "title": "Fat Collective Social Hang",
     "date": "2026-09-25T20:00:00.000Z",
     "location": "Trace Brewing",
@@ -10261,6 +10201,16 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1722905550890-BZ25ZLX1PQY0IF394SQL/dnd+logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "RADICAL TRIVIA WITH JESS (EVERY WEDNESDAY AT 7PM)",
+    "date": "2026-09-23T23:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/3/4/radical-trivia-with-jess-every-wednesday-at-7pm-y8pjt-aj3m6-9wman-c5746-l58dr-pre5d-zs65m-3f6t6-3mxat-wryl9-p6efb-axkn4-sclyk-9r5ly",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1772512949765-UHTC25692XGKBW0NPA3F/1.JPG",
     "city": "pgh"
   },
   {
@@ -10547,16 +10497,6 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1783484028873-ZAEIIBDW2MY4LEX2HONN/-8.JPG",
-    "city": "pgh"
-  },
-  {
-    "title": "Knowing Place Re-Opening Party - 4120 Main St",
-    "date": "2026-08-14T21:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/8/14/knowing-place-re-opening-party-4120-main-st",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1786462830661-T1KBNMD12P2AYFY4E07X/Aug14.PNG",
     "city": "pgh"
   },
   {
