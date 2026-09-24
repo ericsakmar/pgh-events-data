@@ -24,20 +24,25 @@ const CHANNEL_IDS = [
 ];
 
 const getChannel = async (id: string) => {
-  const feed = await parser.parseURL(
-    `https://www.youtube.com/feeds/videos.xml?channel_id=${id}`,
-  );
+  try {
+    const feed = await parser.parseURL(
+      `https://www.youtube.com/feeds/videos.xml?channel_id=${id}`,
+    );
 
-  const links = feed.items.map((i) => ({
-    title: i.title,
-    subtitle: feed.title,
-    url: i.link,
-    timestamp: i.isoDate,
-    tags: ["youtube channel"],
-    image: i.media["media:thumbnail"][0]["$"].url,
-  }));
+    const links = feed.items.map((i) => ({
+      title: i.title,
+      subtitle: feed.title,
+      url: i.link,
+      timestamp: i.isoDate,
+      tags: ["youtube channel"],
+      image: i.media["media:thumbnail"][0]["$"].url,
+    }));
 
-  return links;
+    return links;
+  } catch (error) {
+    console.error(`Error fetching channel ${id}:`, error);
+    return [];
+  }
 };
 
 export const getLinks = async (): Promise<Feed[]> => {
