@@ -2199,16 +2199,6 @@
     "city": "pgh"
   },
   {
-    "title": "Denzel Chismar-Oliver Quartet",
-    "date": "2026-09-24T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/denzel-chismar-oliver-quartet",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1787701339615-2YS38JW11TC4PI8A7I9B/images%5B1%5D.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Soup Session (Hip-Hop/Jazz)",
     "date": "2026-09-25T23:00:00.000Z",
     "location": "Con Alma",
@@ -2396,6 +2386,16 @@
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1769554879820-APQH1SCMJS69V0KCIV99/Cosentino.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Denzel Chismar-Oliver Quartet",
+    "date": "2026-09-24T23:00:00.000Z",
+    "location": "Con Alma",
+    "link": "https://www.conalmapgh.com/jazz/denzel-chismar-oliver-quartet",
+    "source": "https://www.conalmapgh.com/jazz",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1787701339615-2YS38JW11TC4PI8A7I9B/images%5B1%5D.jpg",
     "city": "pgh"
   },
   {
@@ -2686,16 +2686,6 @@
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1783634643734-PWWX8M8KEN0WPGZUAZND/TCandJustinMc.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Reggie Watkins’ Rivers Quartet ft. Thomas Schinabeck",
-    "date": "2026-08-06T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/ubmdldgasik65e6nw9pn5q8wypal7h",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1713283050905-Q7GIVJV420KU6HJ0BTMJ/ReggieWatkins.jpg",
     "city": "pgh"
   },
   {
@@ -3389,16 +3379,6 @@
     "city": "pgh"
   },
   {
-    "title": "DEEP END WITH NOCASINO AND SPECIAL GUESTS",
-    "date": "2026-09-25T00:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/2024/10/16/deep-end-with-nocasino-and-special-guests-5735x-tkemc-2lwkd-erhcc-fp6yn-86d5j-h7ydg-tg5j4-gwkn5-akt6f-5dakl-92e8t-jmc98-5xnyb-clyeg-d7fmp-e7mnm-k7x5j",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1733452921721-L2WDJUI3TM9W2LYSUPME/Deep+End.PNG",
-    "city": "pgh"
-  },
-  {
     "title": "FRIDAY NIGHTS WITH QRX",
     "date": "2026-09-25T22:00:00.000Z",
     "location": "The Goldmark",
@@ -3938,6 +3918,16 @@
     "city": "pgh"
   },
   {
+    "title": "DEEP END WITH NOCASINO AND SPECIAL GUESTS",
+    "date": "2026-09-25T00:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/2024/10/16/deep-end-with-nocasino-and-special-guests-5735x-tkemc-2lwkd-erhcc-fp6yn-86d5j-h7ydg-tg5j4-gwkn5-akt6f-5dakl-92e8t-jmc98-5xnyb-clyeg-d7fmp-e7mnm-k7x5j",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1733452921721-L2WDJUI3TM9W2LYSUPME/Deep+End.PNG",
+    "city": "pgh"
+  },
+  {
     "title": "DISCO AFTER DARK",
     "date": "2026-09-20T16:00:00.000Z",
     "location": "The Goldmark",
@@ -4225,16 +4215,6 @@
     "source": "http://www.thegoldmark.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746111156514-80OPVK85A1X0G725HJAV/Untitled+4+copy+3.PNG",
-    "city": "pgh"
-  },
-  {
-    "title": "ELIXR WITH AREKUSA, ECLCTS AND SPECIAL GUESTS",
-    "date": "2026-08-06T00:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/2025/4/5/elixr-with-arekusa-eclcts-and-special-guests-748dt-e3fcy-xdp38-9hjss-wmerc-zewmx-pgsej-p62x6-3nh8h-ehag9-pw37m-wbr5k-wxygd-nyt3r",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1743868231482-BRI0GFP14HB7WILSYFDF/Elixr.jpg",
     "city": "pgh"
   },
   {
@@ -6861,6 +6841,16 @@
     "city": "pgh"
   },
   {
+    "title": "EYEHATEGOD",
+    "date": "2026-09-24T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/eyehategod-1",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_1193b32b9e8b4a7caae57eb2da066c6c~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_1193b32b9e8b4a7caae57eb2da066c6c~mv2.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "OPAL IN THE SKY",
     "date": "2026-09-27T16:00:00.000Z",
     "location": "Preserving Underground",
@@ -6921,6 +6911,16 @@
     "city": "pgh"
   },
   {
+    "title": "EDGE DAY FEST",
+    "date": "2026-10-10T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.preservingconcerts.com/events/edge-day-fest",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png/v1/fill/w_264,h_264,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png",
+    "city": "pgh"
+  },
+  {
     "title": "OSO OSO",
     "date": "2026-10-10T16:00:00.000Z",
     "location": "Preserving Underground",
@@ -6937,7 +6937,7 @@
     "link": "https://www.preservingconcerts.com/events/peeling-flesh-1",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_84756dd667464266a39da0fba7c9d4ce~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_84756dd667464266a39da0fba7c9d4ce~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/41a88f_84756dd667464266a39da0fba7c9d4ce~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_84756dd667464266a39da0fba7c9d4ce~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -6947,17 +6947,7 @@
     "link": "https://www.preservingconcerts.com/events/pain-of-truth-1",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_8109479838f646029219afc67644c9f0~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_8109479838f646029219afc67644c9f0~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "EDGE DAY FEST",
-    "date": "2026-10-17T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/edge-day-fest",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png/v1/fill/w_49,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_88a6ea16f12d4557b59d92f59c99454b~mv2.png",
+    "poster": "https://static.wixstatic.com/media/41a88f_8109479838f646029219afc67644c9f0~mv2.jpg/v1/fill/w_162,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_8109479838f646029219afc67644c9f0~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7018,16 +7008,6 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_7236d20580d94e9d94e8d458bbf32db7~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "FORBIDDEN",
-    "date": "2026-11-01T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/forbidden",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_b9cafa7af96140898354851647b9077a~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_b9cafa7af96140898354851647b9077a~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7338,16 +7318,6 @@
     "source": "https://www.remedybarpgh.com/calendar",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65ccf24582acfb36c113454e/1747798982457-LI7I1916QJUJV3TDTMNT/image0.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Phantogram",
-    "date": "2026-09-24T23:00:00.000Z",
-    "location": "Roxian Theatre presented by Citizens",
-    "link": "https://www.livenation.com/event/17AOv0G61DqrjyR/phantogram",
-    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
-    "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/252/e03e4565-37cc-4f12-91cf-cf360d984252_TABLET_LANDSCAPE_LARGE_16_9.jpg",
     "city": "pgh"
   },
   {
@@ -9034,26 +9004,6 @@
     "city": "pgh"
   },
   {
-    "title": "Thomas Dollbaum",
-    "date": "2026-09-24T23:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/24/thomas-dollbaum",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1784655225899-TANDOWFWIZTAK9BN2DGU/ThomasDollbaum_Sept_SP_b.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Cheekface",
-    "date": "2026-09-24T23:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/24/cheekface",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1774454909774-WMZ0IJ7BQFTYGLSHQCYN/CHEEKFACE+SPIRIT+HALL+FLYER.1.jpeg",
-    "city": "pgh"
-  },
-  {
     "title": "Pittsburgh Honky Tonk: Dolly Parton Tribute Night",
     "date": "2026-09-25T23:00:00.000Z",
     "location": "Spirit",
@@ -9381,6 +9331,26 @@
     "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789477164437-P8XKNN44J9ESZ4NLDTHD/Static_Social-Instagram_1080x1080_LittleImage_2026_Regional_SpiritHall_1111.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Emo Nite",
+    "date": "2026-11-14T01:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-a9y38-kn9p7",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789477454340-952STX0A50NVP6ZDSCFH/11-13+Pittsburgh_1350x1350.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Deerhoof",
+    "date": "2026-11-15T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/11/15/deerhoof",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1783705805662-LFIF6L79FBAACPFMVYLK/deerhoof+-+final+flyer.jpg",
     "city": "pgh"
   },
   {
