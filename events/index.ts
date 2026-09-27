@@ -42,9 +42,12 @@ import * as submissions from "./sources/submissions.ts";
 import * as brillo from "./sources/brillo.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
+import { TZDate } from "@date-fns/tz";
+import { isBefore, startOfDay } from "date-fns";
+
+const LOCAL_TIMEZONE = "America/New_York";
 
 export const getEvents = async () => {
-  // TODO filter things that hav already happened
   // TODO consider Starlake and Wylie
 
   const allSources = [
@@ -97,11 +100,27 @@ export const getEvents = async () => {
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
 
+  const nowLocal = new TZDate(new Date(), LOCAL_TIMEZONE);
+  const minDate = startOfDay(nowLocal);
+
   const events = (
     await Promise.all(
       sources.map((source) => getWithRetry(source.url, source.getEvents)),
     )
-  ).flat();
+  )
+    .flat()
+    .filter((event) => {
+      const eventDate = new Date(event.date);
+      const result = !isBefore(eventDate, minDate);
+
+      if (!result) {
+        console.log(
+          `Filtering out event ${event.title} on ${event.date} because it is before ${minDate}`,
+        );
+      }
+
+      return result;
+    });
 
   return events;
 };

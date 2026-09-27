@@ -8,7 +8,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scrape": "node index.ts",
+    "scrape": "tsx index.ts",
     "scrape:all": "npm run scrape -- --all",
     "scrape:events": "npm run scrape -- --events",
     "scrape:feeds": "npm run scrape -- --feeds",
@@ -19,9 +19,11 @@
   "devDependencies": {
     "@types/node": "^22.20.2",
     "@types/pg": "^8.23.1",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "dependencies": {
+    "@date-fns/tz": "github:date-fns/tz",
     "cheerio": "^1.2.0",
     "chrono-node": "^2.10.1",
     "date-fns": "^4.4.0",
