@@ -114,13 +114,6 @@ export const getEvents = async () => {
     .filter((event) => {
       const eventDate = new Date(event.date);
       const result = !isBefore(eventDate, minDate);
-
-      if (!result) {
-        console.log(
-          `Filtering out event ${event.title} on ${event.date} because it is before ${minDate}`,
-        );
-      }
-
       return result;
     });
 
