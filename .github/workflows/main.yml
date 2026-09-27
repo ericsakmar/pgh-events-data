@@ -69,3 +69,8 @@ jobs:
           git commit -m "chore: scrape update [skip ci]" || exit 0
           git push
 
+      - name: Trigger Netlify Build
+        env:
+          NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: |
+          curl -X POST -d {} "$NETLIFY_BUILD_HOOK_URL"
