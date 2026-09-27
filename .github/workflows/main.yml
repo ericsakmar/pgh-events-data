@@ -2,7 +2,7 @@ name: Nightly Web Scraper
 
 on:
   schedule:
-    # 2:00 AM EDT (06:00 UTC) - Runs both
+    # 2:00 AM EDT (06:00 UTC) - Runs all
     - cron: '0 6 * * *'
     # 5:00 AM EDT (09:00 UTC) - Runs feeds only
     - cron: '0 9 * * *'
@@ -13,10 +13,10 @@ on:
       target:
         description: 'What data to scrape'
         required: true
-        default: 'both'
+        default: 'all'
         type: choice
         options:
-          - both
+          - all
           - events
           - feeds
 
@@ -43,14 +43,14 @@ jobs:
             case "${{ github.event.inputs.target }}" in
               events) echo "TARGET_FLAG=--events" >> $GITHUB_ENV ;;
               feeds)  echo "TARGET_FLAG=--feeds" >> $GITHUB_ENV ;;
-              *)      echo "TARGET_FLAG=--both" >> $GITHUB_ENV ;;
+              *)      echo "TARGET_FLAG=--all" >> $GITHUB_ENV ;;
             esac
           elif [ "${{ github.event.schedule }}" = "0 9 * * *" ]; then
             # 5 AM EDT (09:00 UTC): Feeds only
             echo "TARGET_FLAG=--feeds" >> $GITHUB_ENV
           else
-            # 2 AM Cron or default fallback: Both
-            echo "TARGET_FLAG=--both" >> $GITHUB_ENV
+            # 2 AM Cron or default fallback: all
+            echo "TARGET_FLAG=--all" >> $GITHUB_ENV
           fi
 
       - name: Run Scraper
