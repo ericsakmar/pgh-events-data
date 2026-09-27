@@ -13,6 +13,7 @@ import * as wyep from "./sources/wyep.ts";
 import * as youtube from "./sources/youtube.ts";
 import * as youtubemusic from "./sources/youtubemusic.ts";
 import * as madeinpgh from "./sources/madeinpgh.ts";
+import * as citypaper from "./sources/citypaper.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { isAfter, subMonths } from "date-fns";
@@ -37,9 +38,10 @@ export const getFeeds = async () => {
     youtube,
     youtubemusic,
     madeinpgh,
+    citypaper,
   ];
 
-  const devSources = [madeinpgh];
+  const devSources = [madeinpgh, citypaper];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
