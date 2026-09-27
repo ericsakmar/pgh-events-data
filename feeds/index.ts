@@ -12,11 +12,13 @@ import * as telegraphtree from "./sources/telegraphtree.ts";
 import * as wyep from "./sources/wyep.ts";
 import * as youtube from "./sources/youtube.ts";
 import * as youtubemusic from "./sources/youtubemusic.ts";
+import * as madeinpgh from "./sources/madeinpgh.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { isAfter, subMonths } from "date-fns";
 
 // TODO consider making a helper for libsyn?
+// ... and wordpress?
 
 export const getFeeds = async () => {
   const allSources = [
@@ -34,9 +36,10 @@ export const getFeeds = async () => {
     wyep,
     youtube,
     youtubemusic,
+    madeinpgh,
   ];
 
-  const devSources = [youtubemusic];
+  const devSources = [madeinpgh];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
