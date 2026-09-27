@@ -3,15 +3,24 @@ import { getFeeds } from "./feeds/index.ts";
 
 import fs from "node:fs/promises";
 
+const args = process.argv.slice(2);
+
+const runAll = args.includes("--all");
+const runEvents = args.includes("--events") || runAll;
+const runFeeds = args.includes("--feeds") || runAll;
+
+const save = (fileName: string, data: any) =>
+  fs.writeFile(fileName, JSON.stringify(data, null, 2));
+
 const main = async () => {
   await Promise.all([
-    getEvents().then((events) =>
-      fs.writeFile("events.json", JSON.stringify(events, null, 2)),
-    ),
+    runEvents
+      ? getEvents().then((events) => save("events.json", events))
+      : Promise.resolve(),
 
-    getFeeds().then((feeds) =>
-      fs.writeFile("feeds.json", JSON.stringify(feeds, null, 2)),
-    ),
+    runFeeds
+      ? getFeeds().then((feeds) => save("feeds.json", feeds))
+      : Promise.resolve(),
   ]);
 };
 

@@ -8,8 +8,13 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "all": "node index.ts",
-    "dev": "NODE_ENV=development node --env-file=.env index.ts"
+    "scrape": "node index.ts",
+    "scrape:all": "npm run scrape -- --all",
+    "scrape:events": "npm run scrape -- --events",
+    "scrape:feeds": "npm run scrape -- --feeds",
+    "dev:all": "NODE_ENV=development node --env-file=.env index.ts --all",
+    "dev:events": "NODE_ENV=development node --env-file=.env index.ts --events",
+    "dev:feeds": "NODE_ENV=development node --env-file=.env index.ts --feeds"
   },
   "devDependencies": {
     "@types/node": "^22.20.2",

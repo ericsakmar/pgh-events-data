@@ -2,9 +2,23 @@ name: Nightly Web Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  # Allows you to manually trigger the scraper from the GitHub UI for testing
+    # 2:00 AM EDT (06:00 UTC) - Runs both
+    - cron: '0 6 * * *'
+    # 5:00 AM EDT (09:00 UTC) - Runs feeds only
+    - cron: '0 9 * * *'
+ 
+  # Allows manual triggering with a dropdown from the GitHub UI
   workflow_dispatch:
+    inputs:
+      target:
+        description: 'What data to scrape'
+        required: true
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - events
+          - feeds
 
 jobs:
   scrape:
@@ -22,19 +36,36 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Determine Target Flags
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # Manual run: check dropdown selection
+            case "${{ github.event.inputs.target }}" in
+              events) echo "TARGET_FLAG=--events" >> $GITHUB_ENV ;;
+              feeds)  echo "TARGET_FLAG=--feeds" >> $GITHUB_ENV ;;
+              *)      echo "TARGET_FLAG=--both" >> $GITHUB_ENV ;;
+            esac
+          elif [ "${{ github.event.schedule }}" = "0 9 * * *" ]; then
+            # 5 AM EDT (09:00 UTC): Feeds only
+            echo "TARGET_FLAG=--feeds" >> $GITHUB_ENV
+          else
+            # 2 AM Cron or default fallback: Both
+            echo "TARGET_FLAG=--both" >> $GITHUB_ENV
+          fi
+
       - name: Run Scraper
         env:
           ADMIN_DATABASE_URL: ${{ secrets.ADMIN_DATABASE_URL }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: npm run all
+        run: npm run scrape -- $TARGET_FLAG
 
       - name: Commit and push updated JSON
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add events.json
-          git add feeds.json
-          git commit -m "chore: nightly scrape update [skip ci]" || exit 0
+          git add events.json feeds.json
+          git commit -m "chore: scrape update [skip ci]" || exit 0
           git push
+
