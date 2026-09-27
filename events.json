@@ -240,53 +240,13 @@
     "city": "pgh"
   },
   {
-    "title": "Arcade Cabaret",
-    "date": "2026-09-26T22:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/arcade-cabaret-4/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/arcade-cabaret-attgmouza3qvzlkkm.png",
-    "city": "pgh"
-  },
-  {
-    "title": "The Arcade List",
-    "date": "2026-09-26T23:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/the-arcade-list-14/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/A-List-Sept-26-2026-HDA-and-BIPOC-sq.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Bootleg Reboots",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/bootleg-reboots-11/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/bootleg-reboots-attz1xuhgvtrpbrs4.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Knights of the Arcade: Epic D&#038;D Adventure",
-    "date": "2026-09-27T01:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/knights-of-the-arcade-epic-dd-adventure-24/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/01/knights-of-the-arcade-epic-dd-adventure.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Perfect Pairing",
     "date": "2026-10-01T23:00:00.000Z",
     "location": "Arcade Comedy Theater",
     "link": "https://www.arcadecomedytheater.com/event/perfect-pairing-7/",
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/Capital-S_Perfect-Pairing.png",
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/oct-1-ppairing-sq.png",
     "city": "pgh"
   },
   {
@@ -516,7 +476,7 @@
     "link": "https://www.arcadecomedytheater.com/event/perfect-pairing-8/",
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/Capital-S_Perfect-Pairing.png",
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/10-15_ppairing-Nonsesnse-NoAp-Secret-sq.png",
     "city": "pgh"
   },
   {
@@ -556,7 +516,7 @@
     "link": "https://www.arcadecomedytheater.com/event/alphabet-soup-2/",
     "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/alphabet-soup-attgiyivtdhac2no6-scaled.png",
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/ABCD_square-1-scaled.png",
     "city": "pgh"
   },
   {
@@ -740,13 +700,53 @@
     "city": "pgh"
   },
   {
-    "title": "Arrangements featuring Phil Jacoby & Danny Bracken",
-    "date": "2026-09-26T16:00:00.000Z",
+    "title": "Your ACT with Nonsense",
+    "date": "2026-11-02T00:30:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/your-act-with-nonsense-18/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2023/03/YOUR-ACT.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Rough Magic: An Improvised Shakespeare&#8230;ish Fantasy",
+    "date": "2026-11-06T23:30:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/rough-magic-an-improvised-shakespeare-ish-fantasy-2/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/rough-magic-an-improvised-shakespeareish-attlx3ru8seqphnwc.png",
+    "city": "pgh"
+  },
+  {
+    "title": "House Team Hot Spot",
+    "date": "2026-11-07T01:30:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/house-team-hot-spot-71/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/08/house-teams-short-form-musical-atthvyrwq9pslsoio.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Stand-Up Lab",
+    "date": "2026-11-07T02:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/stand-up-lab-6/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2023/10/ACT10-StandUpLab.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar - Archived",
+    "date": "2026-07-09T23:00:00.000Z",
     "location": "Baum Baum Club",
-    "link": "https://www.simpletix.com/e/arrangements-featuring-phil-jacoby-danny-b-tickets-291901",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-tickets-280848",
     "source": "https://baumbaumclub.simpletix.com/",
     "hasTime": true,
-    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/560/260926arrangements.png",
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
     "city": "pgh"
   },
   {
@@ -756,7 +756,7 @@
     "link": "https://www.simpletix.com/e/a-love-supreme-listening-session-tickets-293626",
     "source": "https://baumbaumclub.simpletix.com/",
     "hasTime": true,
-    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/560/260926arrangements.png",
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
     "city": "pgh"
   },
   {
@@ -766,7 +766,7 @@
     "link": "https://www.simpletix.com/e/house-band-w-chad-taylor-patrick-breiner-a-tickets-295265",
     "source": "https://baumbaumclub.simpletix.com/",
     "hasTime": true,
-    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/560/260926arrangements.png",
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
     "city": "pgh"
   },
   {
@@ -776,7 +776,7 @@
     "link": "https://www.simpletix.com/e/ski-team-w-mirabelle-skipworth-tickets-291794",
     "source": "https://baumbaumclub.simpletix.com/",
     "hasTime": true,
-    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/560/260926arrangements.png",
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
     "city": "pgh"
   },
   {
@@ -786,7 +786,187 @@
     "link": "https://www.simpletix.com/e/daniel-villarreal-tickets-291748",
     "source": "https://baumbaumclub.simpletix.com/",
     "hasTime": true,
-    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/560/260926arrangements.png",
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Arrangements featuring Phil Jacoby & Danny Bracken",
+    "date": "2026-09-26T16:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/arrangements-featuring-phil-jacoby-danny-b-tickets-291901",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Lillie Gazer Album Release w/ Gina Gory",
+    "date": "2026-09-05T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/lillie-gazer-album-release-w-gina-gory-tickets-288861",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar with Ross Reilly",
+    "date": "2026-09-03T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-with-ross-reilly-tickets-290902",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Rhythm Lounge w/ Ian McG",
+    "date": "2026-08-29T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/rhythm-lounge-w-ian-mcg-tickets-288199",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Paul Spring w/ Kevin Copeland",
+    "date": "2026-08-19T23:30:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/paul-spring-w-kevin-copeland-tickets-281489",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar",
+    "date": "2026-08-06T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-tickets-286160",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Arrangements featuring Davis Galvin + Morgan Stewart",
+    "date": "2026-07-25T16:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/arrangements-featuring-davis-galvin-morgan-tickets-283826",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Christopher Hoffman + Two of Anything",
+    "date": "2026-07-02T23:30:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/christopher-hoffman-two-of-anything-tickets-279728",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Arrangements featuring Evan Richards + Ross Reilly",
+    "date": "2026-06-27T16:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/arrangements-featuring-evan-richards-ross-tickets-279920",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar - Archived",
+    "date": "2026-06-12T01:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-tickets-278065",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Adam Schatz's Civil Engineering",
+    "date": "2026-06-11T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/adam-schatz-s-civil-engineering-tickets-275087",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Adam Schatz's Improvising with Pedals Workshop - Cancelled",
+    "date": "2026-06-11T19:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/adam-schatz-s-improvising-with-pedals-work-tickets-276111",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Landlady with Pat Kelly",
+    "date": "2026-06-11T00:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/landlady-with-pat-kelly-tickets-275086",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "HiFi Bar w/ Kim Lopez + Amboy",
+    "date": "2026-05-07T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/hifi-bar-w-kim-lopez-amboy-tickets-271314",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Luke Schneider with How Things Are",
+    "date": "2026-04-30T00:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/luke-schneider-with-how-things-are-tickets-267799",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar - Archived",
+    "date": "2026-04-09T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-tickets-267081",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Mmeadows with Chameleon Treat",
+    "date": "2026-03-24T00:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/mmeadows-with-chameleon-treat-tickets-262536",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Baum Baum Club HiFi Bar - Archived",
+    "date": "2026-03-05T23:00:00.000Z",
+    "location": "Baum Baum Club",
+    "link": "https://www.simpletix.com/e/baum-baum-club-hifi-bar-tickets-260565",
+    "source": "https://baumbaumclub.simpletix.com/",
+    "hasTime": true,
+    "poster": "https://cdn.simpletix.com/9ca3eb08-d266-4a97-9925-7d97fc546483/shows/380/639178242726287348Artboard1.png",
     "city": "pgh"
   },
   {
@@ -930,26 +1110,6 @@
     "city": "pgh"
   },
   {
-    "title": "DENNY LOVE (Saturday, Early)",
-    "date": "2026-09-26T23:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/denny-love-saturday-early-september-26-2026-713568?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/713/568/compressed/DENNY_LOVE.jpg?1780433064",
-    "city": "pgh"
-  },
-  {
-    "title": "DENNY LOVE (Saturday, Late)",
-    "date": "2026-09-27T01:30:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/denny-love-saturday-late-september-26-2026-713898?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/713/898/compressed/DENNY_LOVE.jpg?1780433099",
-    "city": "pgh"
-  },
-  {
     "title": "STEELERS GAME (vs Bengals)",
     "date": "2026-09-27T17:00:00.000Z",
     "location": "Bottlerocket Social Hall",
@@ -987,16 +1147,6 @@
     "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
     "hasTime": true,
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/729/852/compressed/open-uri20260806-895-h7duob.jpg?1786044027",
-    "city": "pgh"
-  },
-  {
-    "title": "ALI MACOFSKY",
-    "date": "2026-10-01T00:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/ali-macofsky-september-30-2026-714055?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/714/055/compressed/open-uri20260611-835-vpevwb.jpg?1781187776",
     "city": "pgh"
   },
   {
@@ -1430,13 +1580,33 @@
     "city": "pgh"
   },
   {
-    "title": "SEPTEMBER 26TH MELT!!!! MORE INFO COMING!!!",
-    "date": "2026-09-26T16:00:00.000Z",
-    "location": "Brillobox",
-    "link": "https://www.brilloboxpgh.com/events/event/september-26th-melt-more-info-coming/",
-    "source": "https://www.brilloboxpgh.com/events/",
-    "hasTime": false,
-    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2026/08/IMG_9350.jpg",
+    "title": "BENNY FELDMAN (Tuesday)",
+    "date": "2026-11-18T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/benny-feldman-tuesday-november-17-2026-745906?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/745/906/compressed/Banner__BennyFeldman_v1.jpg?1788986498",
+    "city": "pgh"
+  },
+  {
+    "title": "BENNY FELDMAN (Wednesday)",
+    "date": "2026-11-19T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/benny-feldman-wednesday-november-18-2026-745908?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/745/908/compressed/Banner__BennyFeldman_v1.jpg?1790194184",
+    "city": "pgh"
+  },
+  {
+    "title": "MICHAEL CRUZ KAYNE",
+    "date": "2026-11-20T00:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/michael-cruz-kayne-november-19-2026-749474?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/749/474/compressed/image_%283%29.jpg?1789673461",
     "city": "pgh"
   },
   {
@@ -1529,13 +1699,12 @@
     "city": "pgh"
   },
   {
-    "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Carnegie Library of Homestead Music Hall",
-    "link": "https://librarymusichall.com/event/jim-henson-s-labyrinth-in-concert-40th-anniversary",
-    "source": "https://librarymusichall.com/all-shows",
+    "title": "OCTOBER 23RD 10PM/$10 DJ GUN RAY PRESENTS:",
+    "date": "2026-10-24T02:00:00.000Z",
+    "location": "Brillobox",
+    "link": "https://www.brilloboxpgh.com/events/event/october-23rd-10pm-10-dj-gun-ray-presents/",
+    "source": "https://www.brilloboxpgh.com/events/",
     "hasTime": true,
-    "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/d9884df963ee47ad9b1d1c7932bf29e2/1/4SoifmQpDrHbZJ6Vx83Qx/Labyrinth_1080x1080_square_CHMH.jpg",
     "city": "pgh"
   },
   {
@@ -1566,6 +1735,16 @@
     "source": "https://librarymusichall.com/all-shows",
     "hasTime": true,
     "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/e1e639f285924e20b07ed7589538e6c9/1/4SoifmQpDrHbZJ6Vx83Qx/CrashingOut_PITT_1080X1080.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Maria Bamford",
+    "date": "2026-10-05T00:00:00.000Z",
+    "location": "Carnegie Library of Homestead Music Hall",
+    "link": "https://librarymusichall.com/event/maria-bamford-2",
+    "source": "https://librarymusichall.com/all-shows",
+    "hasTime": true,
+    "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/ac2b53c333994916b532bd27a4486a52/1/4SoifmQpDrHbZJ6Vx83Qx/MariaBamford_1080x1080_square_CHMH_V2.jpg",
     "city": "pgh"
   },
   {
@@ -2199,16 +2378,6 @@
     "city": "pgh"
   },
   {
-    "title": "Soup Session (Hip-Hop/Jazz)",
-    "date": "2026-09-25T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/soup-session-hip-hopjazz",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1787701359677-X1WQIHTB6NGIR0LD121M/Soup+Session+Pic+-+Sherese+Jefferson.png",
-    "city": "pgh"
-  },
-  {
     "title": "Throckmorton/Lintz/Barnes",
     "date": "2026-09-26T23:00:00.000Z",
     "location": "Con Alma",
@@ -2386,6 +2555,16 @@
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1769554879820-APQH1SCMJS69V0KCIV99/Cosentino.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Soup Session (Hip-Hop/Jazz)",
+    "date": "2026-09-25T23:00:00.000Z",
+    "location": "Con Alma",
+    "link": "https://www.conalmapgh.com/jazz/soup-session-hip-hopjazz",
+    "source": "https://www.conalmapgh.com/jazz",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1787701359677-X1WQIHTB6NGIR0LD121M/Soup+Session+Pic+-+Sherese+Jefferson.png",
     "city": "pgh"
   },
   {
@@ -2676,36 +2855,6 @@
     "source": "https://www.conalmapgh.com/jazz",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1783043993882-UUY4S4JOLEZJB4JNCMHR/TomWendt.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Tony Campbell ft. Justin McCord",
-    "date": "2026-08-07T23:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/3fgpp1an0yyjj1ppvamcyh28jwckiu",
-    "source": "https://www.conalmapgh.com/jazz",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1783634643734-PWWX8M8KEN0WPGZUAZND/TCandJustinMc.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Silver Springs: A Fleetwood Mac Tribute",
-    "date": "2026-09-25T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/silver-springs-a-fleetwood-mac-tribute-%e2%88%99-september-25-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/03/9.25.26-silver-springs-website-photo-1.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Late Night Happy Hour",
-    "date": "2026-09-25T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-september-25-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -3380,7 +3529,7 @@
   },
   {
     "title": "The 41st Glitterbox Theater 10 Minute Play Fest!",
-    "date": "2026-09-26T23:00:00.000Z",
+    "date": "2026-09-27T21:30:00.000Z",
     "location": "The Glitterbox Theater",
     "link": "https://www.simpletix.com/e/the-41st-glitterbox-theater-10-minute-play-tickets-286183",
     "source": "https://gbx.simpletix.com/",
@@ -3416,16 +3565,6 @@
     "source": "https://gbx.simpletix.com/",
     "hasTime": true,
     "poster": "https://cdn.simpletix.com/061a0c3f-1f7b-4166-938e-d883d9b287b7/shows/560/IMG13141.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "FRIDAY NIGHTS WITH QRX",
-    "date": "2026-09-25T22:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/lxyjtr59nsl8py2-wscga-3gfht-mhe3f-wgbgf-hzx2y-ayfre-59bpd-kpxjn-4z94b-xnjnp-ncnsj-tf7hs-af6yh-29dkb-dpwrb-s9ntz-gtykt-ces5y-e9s5r-kmg89-4bmrz-s4k8l-d59ht-zywrm-7gef6-w39rn-2wk6a",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1785455377281-XN8ZHBL1X05W4F9A87ZM/Fridays+QRX%C2%A0%281%29.png",
     "city": "pgh"
   },
   {
@@ -3958,6 +4097,16 @@
     "city": "pgh"
   },
   {
+    "title": "FRIDAY NIGHTS WITH QRX",
+    "date": "2026-09-25T22:00:00.000Z",
+    "location": "The Goldmark",
+    "link": "https://www.thegoldmark.com/events/lxyjtr59nsl8py2-wscga-3gfht-mhe3f-wgbgf-hzx2y-ayfre-59bpd-kpxjn-4z94b-xnjnp-ncnsj-tf7hs-af6yh-29dkb-dpwrb-s9ntz-gtykt-ces5y-e9s5r-kmg89-4bmrz-s4k8l-d59ht-zywrm-7gef6-w39rn-2wk6a",
+    "source": "http://www.thegoldmark.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1785455377281-XN8ZHBL1X05W4F9A87ZM/Fridays+QRX%C2%A0%281%29.png",
+    "city": "pgh"
+  },
+  {
     "title": "DEEP END WITH NOCASINO AND SPECIAL GUESTS",
     "date": "2026-09-25T00:00:00.000Z",
     "location": "The Goldmark",
@@ -4245,16 +4394,6 @@
     "source": "http://www.thegoldmark.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746157733447-HBD6M26IV9AVRK8S8BO0/IMG_3270.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "QUALITY REMIX WITH QRX",
-    "date": "2026-08-07T00:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/g7b57gcwz2z4d9f-pty3c-6w2cp-2w28k-emybx-ehzw2-hcpcb-3mphs-n3lcx-4j9h3-hjkbs-xwckm-kdswr-extn5-5rtwl-529ls-jftec-5s6ec-p5tln",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1746111156514-80OPVK85A1X0G725HJAV/Untitled+4+copy+3.PNG",
     "city": "pgh"
   },
   {
@@ -5008,16 +5147,6 @@
     "city": "pgh"
   },
   {
-    "title": "The Nashville Nights Band: The Ultimate 90’s Country Experience",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/the-nashville-nights-band-the-ultimate-90s-country-experience-2/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://cdn.etix.com/etix/performance-image/performance_image_1200w/7c31ba3b6ba634c34f2ea8cfa5158bf4.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Pure Prairie League",
     "date": "2026-09-29T00:00:00.000Z",
     "location": "Jergel's Rhythm Grille",
@@ -5258,6 +5387,16 @@
     "city": "pgh"
   },
   {
+    "title": "Jenna Davis",
+    "date": "2026-10-29T00:00:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/jenna-davis/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/jenna-davis.jpeg",
+    "city": "pgh"
+  },
+  {
     "title": "Member Preview: Akea Brionne",
     "date": "2026-10-16T16:00:00.000Z",
     "location": "Mattress Factory",
@@ -5384,16 +5523,6 @@
     "city": "pgh"
   },
   {
-    "title": "Bill Toms and Hard Rain Live at Moondogs!!",
-    "date": "2026-09-26T23:30:00.000Z",
-    "location": "Moondogs",
-    "link": "https://moondogs.us/event/bill-toms-and-hard-rain-live-at-moondogs/",
-    "source": "https://moondogs.us/shows/",
-    "hasTime": true,
-    "poster": "https://moondogs.us/wp-content/uploads/2024/01/Bill-Toms-Picture.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Stealing Time Live at Moondogs!!",
     "date": "2026-10-03T00:00:00.000Z",
     "location": "Moondogs",
@@ -5411,6 +5540,36 @@
     "source": "https://moondogs.us/shows/",
     "hasTime": true,
     "poster": "https://moondogs.us/wp-content/uploads/2026/09/Nino-Albanese-October-3-2026-980x980.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Jam for Sam - A Memorial Jam for Sam Satler - Hosted by Norman Nardini!!",
+    "date": "2026-10-04T20:00:00.000Z",
+    "location": "Moondogs",
+    "link": "https://moondogs.us/event/jam-for-sam-a-memorial-for-jam-for-sam-satler-hosted-by-norman-nardini/",
+    "source": "https://moondogs.us/shows/",
+    "hasTime": true,
+    "poster": "https://moondogs.us/wp-content/uploads/2026/09/Sam-Satler-10-4-26-1-1.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Moondogs Presents Royal Honey, Black Ridge & One Eyed Daddys!!",
+    "date": "2026-10-10T00:00:00.000Z",
+    "location": "Moondogs",
+    "link": "https://moondogs.us/event/moondogs-presents-royal-honey-black-ridge-one-eyed-daddys/",
+    "source": "https://moondogs.us/shows/",
+    "hasTime": true,
+    "poster": "https://moondogs.us/wp-content/uploads/2026/09/Royal-Honey-Black-Ridge-and-One-Eyed-Daddys-980x980.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Moondogs Presents AC & The Resistors!!",
+    "date": "2026-10-11T00:00:00.000Z",
+    "location": "Moondogs",
+    "link": "https://moondogs.us/event/moondogs-presents-ac-the-resistors/",
+    "source": "https://moondogs.us/shows/",
+    "hasTime": true,
+    "poster": "https://moondogs.us/wp-content/uploads/2026/09/AC-and-The-Resistors-10-10-26.png",
     "city": "pgh"
   },
   {
@@ -5764,16 +5923,6 @@
     "city": "pgh"
   },
   {
-    "title": "Lillie Gazer Fall Tour w/ Major Delilah, Chameleon Treat",
-    "date": "2026-09-27T00:00:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/lillie-gazer-fall-tour-w-major-delilah-chameleon-treat",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/14326/10458864/f27f2a19ca6bae300dfaff57e75c4010d3826ac85473ae211da32d5e2d34bc54/0ad90763-d804-46e2-9f13-a47e8f87a9ba_fit_300.jpg",
-    "city": "mgw"
-  },
-  {
     "title": "WEEKLY GAME NIGHT- No Cover",
     "date": "2026-09-29T00:00:00.000Z",
     "hasTime": true,
@@ -6104,16 +6253,6 @@
     "city": "pgh"
   },
   {
-    "title": "Octoberfest Celebration with Pech &#038; Schwefel (From Vienna, Austria)",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Park House",
-    "link": "https://parkhouse412.com/event/octoberfest-celebration-with-pech-schwefel-from-vienna-austria-2/",
-    "source": "https://parkhouse412.com/calendar/list/",
-    "hasTime": true,
-    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
-    "city": "pgh"
-  },
-  {
     "title": "Jake Rubenstein",
     "date": "2026-10-01T23:00:00.000Z",
     "location": "Park House",
@@ -6224,13 +6363,13 @@
     "city": "pgh"
   },
   {
-    "title": "ORANGE DOG CLUB, with BATHCAT and THE BEDHEADS",
-    "date": "2026-09-26T16:00:00.000Z",
-    "location": "Perry-House Productions",
-    "poster": "https:/ticketleap/assets/img/org-dashboard/default-event-preview-image.png",
-    "link": "https://www.ticketleap.events/tickets/perry-house/ODC",
-    "source": "https://events.ticketleap.com/events/perry-house",
+    "title": "Mike Urick and the Modelaires",
+    "date": "2026-11-08T01:00:00.000Z",
+    "location": "Park House",
+    "link": "https://parkhouse412.com/event/mike-urick-and-the-modelaires-10/",
+    "source": "https://parkhouse412.com/calendar/list/",
     "hasTime": true,
+    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
     "city": "pgh"
   },
   {
@@ -6260,594 +6399,6 @@
     "poster": "https:/ticketleap/assets/img/org-dashboard/default-event-preview-image.png",
     "link": "https://www.ticketleap.events/tickets/perry-house/june",
     "source": "https://events.ticketleap.com/events/perry-house",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Thursday Thrill w/ DJ Stony Stone",
-    "date": "2026-09-04T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/thursday-thrill-w-dj-stony-stone-3/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2025/12/FREE_SUPERSCREENTONES.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Pocket Cookies // Famous Kind Streak // Moonshine Jasmine",
-    "date": "2026-09-05T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/pocket-cookies-famous-kind-streak-moonshine-jasmine/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Sarah Halter // Trash Hag // Neglekted Channel",
-    "date": "2026-09-06T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/sarah-halter-trash-hag/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Castle // Lady Beast",
-    "date": "2026-09-10T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/castle2/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Chandler",
-    "date": "2026-09-12T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/chandler-tuffluckkid/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Two Wolf Moon // Nowhere Wolves // Phelocipastor",
-    "date": "2026-09-13T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/two-wolf-moon/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "A Midnight Dreary w/ Faerie Fey, Trixie Phoenix, &#038; Aconite",
-    "date": "2026-09-13T03:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/a-midnight-dreary-w-faerie-fey-trixie-phoenix-aconite/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Julez &#038; The Rollerz // Lez Paul // Zinnia&#8217;s Garden",
-    "date": "2026-09-14T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/julez-the-rollers/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Monday Karaoke w/ DJ Paris Not France",
-    "date": "2026-09-15T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/monday-karaoke-w-dj-paris-not-france-59/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2024/12/karaoke-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Open Mic Tuesday w/ Pgh Poetry Collective",
-    "date": "2026-09-15T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/open-mic-tuesday-w-pgh-poetry-collective-20/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/04/OPEN-MIC-NIGHT-REG-1080-x-1350-px.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Diamonds &#038; Dust w/ DJ Jeremy",
-    "date": "2026-09-16T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/diamonds-dust-w-dj-jeremy-36/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/04/IMG_0404-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Caring Less // Petsitter // Care Package",
-    "date": "2026-09-16T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/caring-less/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Punk Rock N Roll Wednesday w/ DJ Todd Cheat",
-    "date": "2026-09-17T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/punk-rock-n-roll-wednesday-w-dj-todd-cheat-22/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/04/78F69915-D24D-45E5-A656-2E7D6815950C-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Devil Music w/ DJ Brian Sikes Howe",
-    "date": "2026-09-18T01:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/devil-music-w-dj-brian-sikes-howe/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/07/IMG_D6BEC34C8B0F-1.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Grievous Angels",
-    "date": "2026-09-19T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/grievous-angels/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/03/POETRY-LOUNGE-POSTER-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "BENEATH THE SURFACE",
-    "date": "2026-09-19T03:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/beneath-the-surface/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/918.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "CLOSED FOR PRIVATE PARTY",
-    "date": "2026-09-19T04:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/closed-for-private-party/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Poetry After Dark: Creature Feature &#8220;Phantom of the Opera (1925)&#8221; hosted by Girl After Dark",
-    "date": "2026-09-20T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/poetry-after-dark-creature-feature-phantom-of-the-opera-1925-hosted-by-girl-after-dark/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/poetry-lounge-2.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Missing (from New Orleans) // Death Instinct // Doors in the Labyrinth",
-    "date": "2026-09-23T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/missing-from-new-orleans/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/03/missingbandposter_page-0001.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Derek Johnson // Kaston Guffey // Caleb Pogyor",
-    "date": "2026-09-24T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/derek-johnson-kaston-guffey-caleb-pygor/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/05/IMG_7528.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Non-Stop Erotic Cabaret w/ DJs Krass Advert &#038; Rameau&#8217;s Nephew",
-    "date": "2026-09-25T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/non-stop-erotic-cabaret-w-djs-krass-advert-cryptid-yinzer/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/IMG_8143.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Half Ivory // Mud Fairy // Femaliens",
-    "date": "2026-09-26T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/half-ivory-geese-teeth/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/03/IMG_7923.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "A.T.S. Album Release",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/ats-album-rel/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/02/IMG_8306-1.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Carrellee // Millie Dread // DJ B-Czar",
-    "date": "2026-09-27T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/carrellee-bragolin/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/06/carrelleemillie.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Mount Pom // Andy Boy and the Keys to the City // Tyler Heaven",
-    "date": "2026-09-28T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/mount-pom-andy-boy-and-the-keys-to-the-city-tyler-heaven/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/VERTICAL-PRINT-RES.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Gogol Bordello Afterparty",
-    "date": "2026-09-29T03:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/gogol-bordello-afterparty/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/Gogol-Bordello-afterparty-featuring-Cassette-Jockeys-aka-Erica-Mancini-and-Sam-Goody-All-tape-dance-obscurities.-11pm.-Free.-IG-@cassettejockeys.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Author Adam Voith presents R.I.Y.L. Live!",
-    "date": "2026-09-30T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/poetry-reading-with-adam-voith/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/Poetry-Lounge-presents-14.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Daryl LeRoi Fleming and Ben Opie",
-    "date": "2026-10-01T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/daryl-fleming/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/06/Your-paragraph-text-3.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Plea",
-    "date": "2026-10-03T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/plea/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Brian K &#038; The Parkway // Connor Parente // Rebel Revolver",
-    "date": "2026-10-04T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/brian-k-the-parkway-3/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Anne Rice Birthday After Dark Cinematic Celebration",
-    "date": "2026-10-04T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/anne-rice-birthday-after-dark-cinematic-celebration/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/Anne-Rice.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Mount Pom // Andy Boy and the Keys to the City // Tyler Heaven",
-    "date": "2026-09-28T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/mount-pom-andy-boy-and-the-keys-to-the-city-tyler-heaven/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/VERTICAL-PRINT-RES.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Gogol Bordello Afterparty",
-    "date": "2026-09-29T03:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/gogol-bordello-afterparty/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/Gogol-Bordello-afterparty-featuring-Cassette-Jockeys-aka-Erica-Mancini-and-Sam-Goody-All-tape-dance-obscurities.-11pm.-Free.-IG-@cassettejockeys.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Author Adam Voith presents R.I.Y.L. Live!",
-    "date": "2026-09-30T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/poetry-reading-with-adam-voith/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/Poetry-Lounge-presents-14.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Daryl LeRoi Fleming and Ben Opie",
-    "date": "2026-10-01T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/daryl-fleming/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/06/Your-paragraph-text-3.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Plea",
-    "date": "2026-10-03T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/plea/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Brian K &#038; The Parkway // Connor Parente // Rebel Revolver",
-    "date": "2026-10-04T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/brian-k-the-parkway-3/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Anne Rice Birthday After Dark Cinematic Celebration",
-    "date": "2026-10-04T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/anne-rice-birthday-after-dark-cinematic-celebration/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/Anne-Rice.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "The Claudettes",
-    "date": "2026-10-05T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/the-claudettes/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "DAMAG3 // Film &#038; Gender",
-    "date": "2026-10-07T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/damag3-film-gender/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Autumn &#038; The Afterthoughts // Stacey Mahoney // DJ Krass Advert",
-    "date": "2026-10-08T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/autumn-the-afterthoughts-stacey-mahoney/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/04/Poetry-Lounge-Flyer-2.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Midnight Stereo w/ DJs Cryptid Yinzer &#038; Ben Duty",
-    "date": "2026-10-09T02:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/midnight-stereo-w-djs-ceryptid-yinzer-ben-duty/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/IMG_8138.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "PGH Pride in the Pit: A Fundraiser",
-    "date": "2026-10-09T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/pgh-pride-in-the-pit-a-fundraiser/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Rock 2 Stop Cancer with Agressica // Egomyth // The Molecule Party // 13occult",
-    "date": "2026-10-10T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/rock-2-stop-cancer/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2025/11/Benefit-for-American-Cancer-Society-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "A Midnight Dreary w/ DJs Krass Advert // Dhivri // The Crypt Keeper",
-    "date": "2026-10-11T03:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/a-midnight-dreary/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/IMG_8185.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Daikaju",
-    "date": "2026-10-11T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/daikaju/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Orange G // Andrew Wryan // Caleb Pogyor and the Soft Wake",
-    "date": "2026-10-14T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/maps-of-the-midwest-orange-g-andrew-wryan/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Sight After Dark // Trading Twilight // Your Siiick",
-    "date": "2026-10-15T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/sight-after-dark/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/05/Poetry-Lounge-BW.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Theresa Musatto &#038; The Veils // Riding with a Ghost // Frogs I Like",
-    "date": "2026-10-17T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/theresa-musatto-2/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/08/1000002182.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Seven Mile Detour",
-    "date": "2026-10-18T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/seven-mile-detour-3/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2025/11/Your-paragraph-text-3-2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Constellation X // Skinsuit // Ego Sum // Sundras",
-    "date": "2026-10-18T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/constellation-x-skinsuit-ego-sum-sundras/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/7.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Intac // Hags95 // Horace Whisper &#038; the Empty Hand",
-    "date": "2026-10-21T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/intac-hags95-horace-whisper-the-empty-hand/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/07/pittsburgh-10_21.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "King Fez",
-    "date": "2026-10-22T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/king-fez-3/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/06/Thursday-October-22nd.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "yawp Carnival Poetica",
-    "date": "2026-10-24T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/yawp-carnival-poetica-4/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/04/Carnival-Poetica-4.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "New Kink",
-    "date": "2026-10-25T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/new-kink/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Girl After Dark presents Poetry After Dark: Sunday Movie Nights",
-    "date": "2026-10-25T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/girl-after-dark-presents-poetry-after-dark-sunday-movie-nights/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/09/Your-paragraph-text-50.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Lucky Sign Spirits Halloween Karaoke Party w/ DJ ParisNot France",
-    "date": "2026-10-27T01:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/lucky-sign-spirits-halloween-karaoke-party-w-dj-parisnot-france/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/06/Your-paragraph-text-51.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Tiny City // Garage League // Foamer",
-    "date": "2026-10-28T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/tiny-city-garage-league-foamer/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Eric McM",
-    "date": "2026-10-29T23:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/eric-mcm/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Ruffians // Slingshot Genius",
-    "date": "2026-10-31T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/ruffians/",
-    "source": "https://www.poetrymillvale.com/events/month/",
-    "hasTime": true,
-    "poster": "https://www.poetrymillvale.com/wp-content/uploads/2026/03/RUFFIANS.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Zombie-A-Go-Go",
-    "date": "2026-11-01T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/hold-43/",
-    "source": "https://www.poetrymillvale.com/events/month/",
     "hasTime": true,
     "city": "pgh"
   },
@@ -7332,16 +6883,6 @@
     "city": "pgh"
   },
   {
-    "title": "MICO - Running From A Feeling Tour",
-    "date": "2026-09-25T23:00:00.000Z",
-    "location": "Roxian Theatre presented by Citizens",
-    "link": "https://www.livenation.com/event/17AOv0G61YoLLc6/mico-running-from-a-feeling-tour",
-    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
-    "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/9ec/f144a004-d88f-464f-97d3-11f8f975e9ec_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Altin Gün: North America Tour 2026, support Alex Maas",
     "date": "2026-09-26T23:00:00.000Z",
     "location": "Roxian Theatre presented by Citizens",
@@ -7762,15 +7303,6 @@
     "city": "pgh"
   },
   {
-    "title": "HEXXA",
-    "date": "2026-09-26T01:00:00.000Z",
-    "location": "SideQuest",
-    "link": "https://theticketing.co/e/hexxapgh?open=true",
-    "source": "https://theticketing.co/o/sidequestpgh",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
     "title": "Skool Shooz: After School Detention",
     "date": "2026-10-03T01:00:00.000Z",
     "location": "SideQuest",
@@ -7822,26 +7354,6 @@
     "link": "https://theticketing.co/e/whalespgh?open=true",
     "source": "https://theticketing.co/o/sidequestpgh",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Ben Harper & The Innocent Criminals\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: Peter More",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "Mr. Smalls Theatre",
-    "link": "https://mrsmalls.com/events/ben-harper-the-innocent-criminals/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/02/09-26-26_BenHarper_v2-2.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Brooke Annibale – “Bolder Font” Album Release Show\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: Liz Berlin",
-    "date": "2026-09-27T00:00:00.000Z",
-    "location": "The Sanctuary at Mr. Smalls",
-    "link": "https://mrsmalls.com/events/brooke-annibale/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/07/9-26-26_BROOKEANNIBALE-V3-scaled.jpg",
     "city": "pgh"
   },
   {
@@ -8985,36 +8497,6 @@
     "city": "pgh"
   },
   {
-    "title": "Pittsburgh Honky Tonk: Dolly Parton Tribute Night",
-    "date": "2026-09-25T23:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/25/pittsburgh-honky-tonk-dolly-parton-tribute-night",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788468049033-8ERY6MMU3YGD6M2CDK0C/Dolly+Poster_11x17-clean.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Cherry Bomb",
-    "date": "2026-09-26T01:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/2/28/cherry-bomb-3zha5-elmtn-8xmr2-ggmhp-ep8n5-f3cry-7fpad",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789509644705-TLY9VEBCT8FDFGZ5RCYC/cherry+bomb+9-25-26+FINAL.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "How To Throw a Pizza Party, Party",
-    "date": "2026-09-26T16:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2026/9/26/how-to-throw-a-pizza-party-party",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1788280371996-ZIR5O652TDYTOD287AVJ/Pizza+Making+Class+-+final+flyer.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Saturdaze",
     "date": "2026-09-26T18:00:00.000Z",
     "location": "Spirit",
@@ -9335,6 +8817,16 @@
     "city": "pgh"
   },
   {
+    "title": "Bazaar Bazaar Holiday Market",
+    "date": "2026-12-06T16:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/12/6/bazaar-bazaar-holiday-market",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1790259608221-7LZRRSEFHRSI8UKZ7PEK/HOL26GEN+%281%29.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Steelers Tailgate",
     "date": "2026-09-27T16:00:00.000Z",
     "location": "Stage AE",
@@ -9565,16 +9057,6 @@
     "city": "pgh"
   },
   {
-    "title": "Desert Dwellers",
-    "date": "2026-09-26T23:00:00.000Z",
-    "location": "Thunderbird Cafe & Music Hall",
-    "link": "https://thunderbirdmusichall.com/event/desert-dwellers/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
-    "source": "https://thunderbirdmusichall.com/shows/?view=list",
-    "hasTime": true,
-    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/07/desert-dwellers.jfif",
-    "city": "pgh"
-  },
-  {
     "title": "Octave Cat",
     "date": "2026-09-27T23:00:00.000Z",
     "location": "Thunderbird Cafe & Music Hall",
@@ -9672,6 +9154,16 @@
     "source": "https://thunderbirdmusichall.com/shows/?view=list",
     "hasTime": true,
     "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/09/ripe.jfif",
+    "city": "pgh"
+  },
+  {
+    "title": "Reggae Uprise",
+    "date": "2026-10-10T23:00:00.000Z",
+    "location": "Thunderbird Cafe & Music Hall",
+    "link": "https://thunderbirdmusichall.com/event/reggae-uprise/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
+    "source": "https://thunderbirdmusichall.com/shows/?view=list",
+    "hasTime": true,
+    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/09/reggae-uprise.jfif",
     "city": "pgh"
   },
   {
@@ -10055,16 +9547,6 @@
     "city": "pgh"
   },
   {
-    "title": "Lititz Craft Beer Festival (Lititz, PA)",
-    "date": "2026-09-26T16:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/26/lititz-craft-beer-festival-lititz-pa",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788912883746-FOB16EJP1QPWIFAB2MDM/DEL.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Yoga with Madi Shick",
     "date": "2026-09-27T14:00:00.000Z",
     "location": "Trace Brewing",
@@ -10110,6 +9592,16 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1722905550890-BZ25ZLX1PQY0IF394SQL/dnd+logo.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Lititz Craft Beer Festival (Lititz, PA)",
+    "date": "2026-09-26T16:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/9/26/lititz-craft-beer-festival-lititz-pa",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1788912883746-FOB16EJP1QPWIFAB2MDM/DEL.jpg",
     "city": "pgh"
   },
   {
@@ -10396,16 +9888,6 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1786388906830-632FOAPX3SDB3Y4SFFLJ/Aug16.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Bellevue Rhythm & Brews Festival (Bellevue, PA)",
-    "date": "2026-08-15T18:00:00.000Z",
-    "location": "Trace Brewing",
-    "link": "https://www.tracebloomfield.com/calendar-1/2026/8/15/bellevue-rhythm-amp-brews-festival-bellevue-pa",
-    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1785374464170-R9CHONBNIHJZGINAWDMR/Rhythm+%26+Brews+-+2026+Poster.jpg",
     "city": "pgh"
   },
   {
