@@ -40,6 +40,7 @@ import * as warhol from "./sources/warhol.ts";
 import * as westsideBowl from "./sources/westsideBowl.ts";
 import * as submissions from "./sources/submissions.ts";
 import * as brillo from "./sources/brillo.ts";
+import * as bantha from "./sources/bantha.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { TZDate } from "@date-fns/tz";
@@ -93,9 +94,10 @@ export const getEvents = async () => {
     trace,
     warhol,
     westsideBowl,
+    bantha,
   ];
 
-  const devSources = [];
+  const devSources = [bantha];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;

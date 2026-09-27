@@ -12,9 +12,9 @@
     "scrape:all": "npm run scrape -- --all",
     "scrape:events": "npm run scrape -- --events",
     "scrape:feeds": "npm run scrape -- --feeds",
-    "dev:all": "NODE_ENV=development node --env-file=.env index.ts --all",
-    "dev:events": "NODE_ENV=development node --env-file=.env index.ts --events",
-    "dev:feeds": "NODE_ENV=development node --env-file=.env index.ts --feeds"
+    "dev:all": "NODE_ENV=development tsx --env-file=.env index.ts --all",
+    "dev:events": "NODE_ENV=development tsx --env-file=.env index.ts --events",
+    "dev:feeds": "NODE_ENV=development tsx --env-file=.env index.ts --feeds"
   },
   "devDependencies": {
     "@types/node": "^22.20.2",
@@ -27,6 +27,7 @@
     "cheerio": "^1.2.0",
     "chrono-node": "^2.10.1",
     "date-fns": "^4.4.0",
+    "node-ical": "^0.27.2",
     "pg": "^8.23.0",
     "puppeteer": "^25.10.0",
     "rss-parser": "^3.13.0",
