@@ -977,7 +977,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -987,7 +987,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -997,7 +997,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1007,7 +1007,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
   },
   {
     "title": "DLTSGDOM!: Now Playing",
@@ -2507,5 +2507,205 @@
       "playlist"
     ],
     "image": "https://i.ytimg.com/vi/YyrHwcx0vxs/sddefault.jpg"
+  },
+  {
+    "title": "Your Weekend Escape: Wine, Dine, Relax at Gervasi Vineyard Resort &amp; Spa",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/weekend-escape-gervasi-vineyard/",
+    "timestamp": "2026-09-04T18:25:17.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/09/mip_GervasiFall_main_comeforthefallviews-scaled.jpg"
+  },
+  {
+    "title": "September Artist of the Month: Justin Fabus–Q+A with singer songwriter on his new single and more",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/september-artist-justin-fabus/",
+    "timestamp": "2026-09-04T17:56:16.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/09/IMG_5766.jpeg"
+  },
+  {
+    "title": "Taylor Dayne to headline 2026 Women Who Rock Concert",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/2026-women-who-rock/",
+    "timestamp": "2026-08-27T17:39:46.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/WomenWhoRock-2026-PGH-LineupAnnounce-01B-r04a_1200x628.png"
+  },
+  {
+    "title": "Watchful Shepherd USA Supports Local Families, Helps Keep At-Risk Children Safe",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/lifestyle/watchful-shepherd-children-safe/",
+    "timestamp": "2026-08-27T16:22:26.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/mip_watchfulshepherd_main_supportingfamilies.jpg"
+  },
+  {
+    "title": "New Craft NA Beer Rolls Out in Pittsburgh",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-food-drink/virtue-signal-brewing-beer/",
+    "timestamp": "2026-08-24T18:51:17.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_4003.jpg"
+  },
+  {
+    "title": "Coastal Country to Headline Free End-of-Summer Concert at Pittsburgh Brewing Co.",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/summer-concert-pittsburgh-brewing/",
+    "timestamp": "2026-08-24T17:36:01.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/coastal-country.jpg"
+  },
+  {
+    "title": "New Immersive ‘Science of Speed’ Experience at Kamin Science Center",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/kamin-science-center-speed/",
+    "timestamp": "2026-08-21T14:29:52.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/MIP_KSC_SoS-Photo.jpg"
+  },
+  {
+    "title": "History Center’s New Third Thursdays Bring Extended Hours, Special Tours, New Exhibits and More",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/history-center-third-thursdays/",
+    "timestamp": "2026-08-18T13:16:06.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_3682.jpg"
+  },
+  {
+    "title": "Best Bites East Liberty 2026: Your ticket to a curated food + drink tour!",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/best-bites-east-liberty-2026/",
+    "timestamp": "2026-08-07T15:48:02.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/BB_3200x1600_2026_EastLiberty-v02.jpg"
+  },
+  {
+    "title": "August Band of the Month: The Laurel Lowlifes—Q+A with singer songwriter Britt Haefeli",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/august-band-laurel-lowlifes/",
+    "timestamp": "2026-08-06T20:31:18.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/C22B3F29-6C5B-4965-9998-48D61C8AB11E.jpg"
+  },
+  {
+    "title": "Four Chord returns to Pittsburgh with big music acts and a beef with Live Nation",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/four-chord-music-festival-returns-to-pittsburgh-fnb-stadium-sept-25-26/",
+    "timestamp": "2026-09-24T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/23085738/Driveways-photo-by-Abigail-McNatt-1024x683.jpeg"
+  },
+  {
+    "title": "Pittsburgh singer Brooke Annibale writes in a Bolder Font on new album",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/singer-songwriter-brooke-annibale-to-celebrate-new-album-release-at-the-sanctuary-at-mr-smalls/",
+    "timestamp": "2026-09-23T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/22121535/Brooke-Annibale-Press-Photo-02-credit_Sasha-Pedro-1024x683.jpeg"
+  },
+  {
+    "title": "Wiz Khalifa is coming home to open Pittsburgh’s new Hill District venue",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/wiz-khalifa-citizens-live-at-the-wylie/",
+    "timestamp": "2026-09-22T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/21111254/Wiz-Khalifa-2-1024x740.jpg"
+  },
+  {
+    "title": "Jodi Jones preserves, publishes, and plays Pa. Appalachian folk music",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/jodi-jones-preserves-publishes-and-plays-pa-appalachian-folk-music/",
+    "timestamp": "2026-09-04T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/03131238/B1534296-53F6-4D57-8778-101681487948_1_201_a.jpeg"
+  },
+  {
+    "title": "Lighthouse Arts is a beacon for jazz in Pittsburgh",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/lighthouse-arts-is-a-beacon-for-jazz-in-pittsburgh/",
+    "timestamp": "2026-09-03T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/02212419/090226_Boilermaker-4-1024x682.jpg"
+  },
+  {
+    "title": "The forgotten history of Pittsburgh’s Jewish jazz singers",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/the-forgotten-history-of-pittsburghs-jewish-jazz-singers/",
+    "timestamp": "2026-09-02T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/09/01114825/jack-lucas-smith-4GO3s346k-g-unsplash-1024x773.jpg"
+  },
+  {
+    "title": "Skull Fest unites old heads, leaves younger punks wanting more",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/skull-fest-pittsburgh-punk-festival-celebrated-16-years-in-august-with-70-bands/",
+    "timestamp": "2026-08-28T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/08/27100242/082326_Skullfest-2-1024x682.jpg"
+  },
+  {
+    "title": "The Mountain Goats rock Mr. Smalls by playing the hits (live review)",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/mountain-goats-rock-mr-smalls-by-playing-the-hits-live-review/",
+    "timestamp": "2026-08-21T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/08/20125359/the-Mountain-Goats-by-Alan-Velasco-3-1024x683.jpg"
+  },
+  {
+    "title": "Girl Talk goes underground with collaborative rap EP",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/girl-talk-goes-underground-with-collaborative-rap-ep/",
+    "timestamp": "2026-08-18T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/08/14143944/BBF64DA2-69BB-41FC-B2BC-4587C7619DE2_1_201_a-1024x614.jpeg"
+  },
+  {
+    "title": "Broadway star Brandon Victor Dixon talks Hamilton, soul, and his Pittsburgh connections",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/theater/broadway-star-brandon-victor-dixon-talks-hamilton-soul-and-his-pittsburgh-connections/",
+    "timestamp": "2026-08-18T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://dnm7v7agbcytc.cloudfront.net/2026/08/17144033/Brandon-Victor-Dixon-color-publicity-1-photo-credit-Rachel-Monteleone-1024x683.jpg"
   }
 ]
