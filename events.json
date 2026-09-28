@@ -1728,6 +1728,16 @@
     "city": "pgh"
   },
   {
+    "title": "Maria and the Coins \"Hell of a Ride\" Tour w/ Beach Boise Idaho & Almost Exactly Like Julia",
+    "date": "2026-11-08T22:00:00.000Z",
+    "location": "Club Cafe",
+    "link": "https://www.ticketweb.com/event/maria-and-the-coins-hell-club-cafe-tickets/14346974",
+    "source": "https://www.clubcafelive.com/upcoming-shows",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/67f80cff14a24c29de67b770/15f319d3-a7a7-417c-9f53-aac02a51be5b/MATC+hell+of+a+ride+tour+press+photo+square.jpeg",
+    "city": "pgh"
+  },
+  {
     "title": "Jackie Evans w/ elli rowe (SOLD OUT)",
     "date": "2026-11-11T23:00:00.000Z",
     "location": "Club Cafe",
@@ -3802,6 +3812,16 @@
     "link": "https://mattress.org/events/member-preview-could-it-be-love/",
     "source": "https://mattress.org/calendar/",
     "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "title": "The Dead Zone",
+    "date": "2026-10-03T00:00:00.000Z",
+    "location": "Mixtape",
+    "link": "https://www.mixtapepgh.com/upcoming-events-1-1",
+    "source": "https://www.mixtapepgh.com/upcoming-events-1-1",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/645cfd544d94b7698271e2f9/8369e894-949c-4024-ac08-ff3931bd8315/March+21_Mixtape-1_260927_221128.jpg.jpeg",
     "city": "pgh"
   },
   {
@@ -6656,6 +6676,16 @@
     "city": "pgh"
   },
   {
+    "title": "WETTER: super soaker",
+    "date": "2026-10-11T02:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/10/10/wetter-super-soaker",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1790602281445-K5JTHKFNZCO89GYU4Y98/COVER.PNG",
+    "city": "pgh"
+  },
+  {
     "title": "Rav's EXOPOCALYPSE TOUR",
     "date": "2026-10-13T23:00:00.000Z",
     "location": "Spirit",
@@ -7745,28 +7775,8 @@
     "city": "pgh"
   },
   {
-    "title": "Sk8 Night!",
-    "date": "2026-10-18T21:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Pankcakes and Booze Art Show",
-    "date": "2026-10-02T23:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Rivers of Fire Hot Sauce Festival",
-    "date": "2026-10-09T00:00:00.000Z",
+    "title": "Ink for Impact: Flash Tattoo Event",
+    "date": "2026-10-04T16:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
@@ -7785,8 +7795,8 @@
     "city": "pgh"
   },
   {
-    "title": "Monday Jam",
-    "date": "2026-10-19T22:00:00.000Z",
+    "title": "Pankcakes and Booze Art Show",
+    "date": "2026-10-02T23:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
@@ -7795,8 +7805,18 @@
     "city": "pgh"
   },
   {
-    "title": "Ink for Impact: Flash Tattoo Event",
-    "date": "2026-10-04T16:00:00.000Z",
+    "title": "Sk8 Night!",
+    "date": "2026-10-18T21:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Rivers of Fire Hot Sauce Festival",
+    "date": "2026-10-09T00:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
@@ -7807,6 +7827,16 @@
   {
     "title": "Sk8 Night!",
     "date": "2026-11-15T22:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Monday Jam",
+    "date": "2026-10-19T22:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
