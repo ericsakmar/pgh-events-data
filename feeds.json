@@ -1003,7 +1003,7 @@
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-09-29T12:31:41.000Z",
+    "timestamp": "2026-09-30T12:12:30.000Z",
     "tags": [
       "playlist"
     ],
@@ -1017,7 +1017,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -1027,7 +1027,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1037,7 +1037,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
   },
   {
     "title": "DLTSGDOM!: Now Playing",
@@ -1819,6 +1819,36 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "The Sad Hour Live Pittsburgh PA #glammetal",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/A9I7F7HIxyM",
+    "timestamp": "2026-09-30T01:00:23.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/A9I7F7HIxyM/hqdefault.jpg"
+  },
+  {
+    "title": "Writing an EP with STRAIGHT DECLINE #poppunk",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/UZBKScYkHF4",
+    "timestamp": "2026-09-29T22:00:33.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/UZBKScYkHF4/hqdefault.jpg"
+  },
+  {
+    "title": "The Sound of RESTRICTOR PLATE",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/BYjtEGI-OPw",
+    "timestamp": "2026-09-29T16:00:14.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/BYjtEGI-OPw/hqdefault.jpg"
+  },
+  {
     "title": "An Interview with STRAIGHT DECLINE",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/watch?v=9tw_v09KMYU",
@@ -1939,34 +1969,144 @@
     "image": "https://i1.ytimg.com/vi/PJOjfPKmu4I/hqdefault.jpg"
   },
   {
-    "title": "9-16-2026 NO SKIP on Music Roundtable Radio!",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/watch?v=zvYmhEUJEnk",
-    "timestamp": "2026-09-23T21:04:39.000Z",
+    "title": "Motion City Soundtrack -Live at Four Chord Music Festival-Pittsburgh, PA-9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=AIm8BQTp_Hs",
+    "timestamp": "2026-09-30T04:24:58.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/zvYmhEUJEnk/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/AIm8BQTp_Hs/hqdefault.jpg"
   },
   {
-    "title": "Crafting a Setlist with WOLF & BEAR #swancore",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/FydITA8Y4iY",
-    "timestamp": "2026-09-23T19:00:33.000Z",
+    "title": "Cartel - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=isDJhtwgu_U",
+    "timestamp": "2026-09-30T04:24:33.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/FydITA8Y4iY/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/isDJhtwgu_U/hqdefault.jpg"
   },
   {
-    "title": "Pittsburgh Hardcore GOES HARD! #hardcoremusic",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/w9Rsj-nU1CE",
-    "timestamp": "2026-09-23T16:00:24.000Z",
+    "title": "Patent Pending - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=pYcKUvNLoo0",
+    "timestamp": "2026-09-30T04:24:12.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i4.ytimg.com/vi/w9Rsj-nU1CE/hqdefault.jpg"
+    "image": "https://i1.ytimg.com/vi/pYcKUvNLoo0/hqdefault.jpg"
+  },
+  {
+    "title": "Keep Flying  - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=NPz4i-DhBqw",
+    "timestamp": "2026-09-30T04:24:11.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/NPz4i-DhBqw/hqdefault.jpg"
+  },
+  {
+    "title": "Mom Jeans - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=swSpGwKPyLs",
+    "timestamp": "2026-09-30T04:23:19.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/swSpGwKPyLs/hqdefault.jpg"
+  },
+  {
+    "title": "Heading North - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=sxe0Ms0xvm0",
+    "timestamp": "2026-09-30T04:23:17.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/sxe0Ms0xvm0/hqdefault.jpg"
+  },
+  {
+    "title": "Eternal Boy - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=BUUqR0o-2H8",
+    "timestamp": "2026-09-30T04:22:58.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/BUUqR0o-2H8/hqdefault.jpg"
+  },
+  {
+    "title": "Driveways - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=uDK5PVAic-E",
+    "timestamp": "2026-09-30T04:22:36.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/uDK5PVAic-E/hqdefault.jpg"
+  },
+  {
+    "title": "Don't Panic - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=hLxqQUFQajE",
+    "timestamp": "2026-09-30T04:22:34.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/hLxqQUFQajE/hqdefault.jpg"
+  },
+  {
+    "title": "Bathcat - Live at Roboto - Pittsburgh, PA - 9-26-2026 (PARTIAL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=INBHVCOdsPA",
+    "timestamp": "2026-09-30T04:21:59.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/INBHVCOdsPA/hqdefault.jpg"
+  },
+  {
+    "title": "Finch - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=JH9mAP01IFw",
+    "timestamp": "2026-09-30T04:20:20.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/JH9mAP01IFw/hqdefault.jpg"
+  },
+  {
+    "title": "Hit The Lights - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (PARTIAL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=eCgyt56irlM",
+    "timestamp": "2026-09-30T04:19:26.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/eCgyt56irlM/hqdefault.jpg"
+  },
+  {
+    "title": "Orange Dog Club - Live at Roboto - Pittsburgh, PA - 9-26-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=reLd2mQNTaw",
+    "timestamp": "2026-09-30T04:05:45.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/reLd2mQNTaw/hqdefault.jpg"
+  },
+  {
+    "title": "The Bedheads - Live at Roboto - Pittsburgh, PA - 9-26-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=kxc9QmegBQI",
+    "timestamp": "2026-09-30T04:02:31.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/kxc9QmegBQI/hqdefault.jpg"
   },
   {
     "title": "Eastern Pine - Live at Roboto - Pittsburgh, PA - 9-25-2026 (FULL SHOW)",
@@ -1979,144 +2119,14 @@
     "image": "https://i1.ytimg.com/vi/dHP7wobIEMc/hqdefault.jpg"
   },
   {
-    "title": "Social Cig - Live at Roboto - Pittsburgh, PA - 9-25-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=_JCiZF50FpQ",
-    "timestamp": "2026-09-28T18:46:43.000Z",
+    "title": "Live & Direct Session with PosterChild",
+    "subtitle": "91.3 WYEP",
+    "url": "https://www.youtube.com/watch?v=EBOyUnQdXAQ",
+    "timestamp": "2026-09-30T11:00:29.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i4.ytimg.com/vi/_JCiZF50FpQ/hqdefault.jpg"
-  },
-  {
-    "title": "King Blue Heron - Live at Roboto - Pittsburgh, PA - 9-25-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=tENLjxyXscM",
-    "timestamp": "2026-09-28T18:45:16.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/tENLjxyXscM/hqdefault.jpg"
-  },
-  {
-    "title": "Apes Of The State - Live at Spirit - Pittsburgh, PA - 9-24-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=5qEDPo2J49I",
-    "timestamp": "2026-09-26T14:16:48.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/5qEDPo2J49I/hqdefault.jpg"
-  },
-  {
-    "title": "Cheekface - Live at Spirit - Pittsburgh, PA - 9-24-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=BNrRfWNdpqQ",
-    "timestamp": "2026-09-26T14:16:38.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/BNrRfWNdpqQ/hqdefault.jpg"
-  },
-  {
-    "title": "Sparta - Live at Bottlerocket - Pittsburgh, PA - 9-23-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=4WL9eTuWEho",
-    "timestamp": "2026-09-26T14:05:13.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/4WL9eTuWEho/hqdefault.jpg"
-  },
-  {
-    "title": "Public Opinion - Live at Bottlerocket - Pittsburgh, PA - 9-23-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=Ppkdik1oeSs",
-    "timestamp": "2026-09-26T14:02:32.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/Ppkdik1oeSs/hqdefault.jpg"
-  },
-  {
-    "title": "Find Fiona - Live at Roboto - Pittsburgh, PA - 9-23-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=5N6KvZm3naA",
-    "timestamp": "2026-09-25T17:43:46.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/5N6KvZm3naA/hqdefault.jpg"
-  },
-  {
-    "title": "Arrf - Live at Roboto - Pittsburgh, PA - 9-23-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=lktdCrVOkLc",
-    "timestamp": "2026-09-25T17:43:39.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/lktdCrVOkLc/hqdefault.jpg"
-  },
-  {
-    "title": "Bathcat - Live at Roboto - Pittsburgh, PA - 9-23-2026 (ALMOST FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=h2f0-l0jjo4",
-    "timestamp": "2026-09-25T17:43:30.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/h2f0-l0jjo4/hqdefault.jpg"
-  },
-  {
-    "title": "Nothing, Darling - Live at Roboto - Pittsburgh, PA - 9-23-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=aK4A9Men6xY",
-    "timestamp": "2026-09-25T17:42:59.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/aK4A9Men6xY/hqdefault.jpg"
-  },
-  {
-    "title": "Aren't We Amphibians - Live at The Wood Shop - Brooklyn, NY - 9-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=J2Subu9QkYQ",
-    "timestamp": "2026-09-23T04:10:04.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/J2Subu9QkYQ/hqdefault.jpg"
-  },
-  {
-    "title": "Dear Maryanne - Live at The Wood Shop - Brooklyn, NY - 9-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=NojzHWC9Ohw",
-    "timestamp": "2026-09-23T04:07:44.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/NojzHWC9Ohw/hqdefault.jpg"
-  },
-  {
-    "title": "Jam Poetry - Live at The Wood Shop - Brooklyn, NY - 9-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=jdOgn5OvPyY",
-    "timestamp": "2026-09-23T04:06:56.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/jdOgn5OvPyY/hqdefault.jpg"
-  },
-  {
-    "title": "Jeff Rosenstock - Live at The Rooftop at Pier 17 - New York, NY - 9-20-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=AO_zfGVfIcY",
-    "timestamp": "2026-09-23T00:06:25.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/AO_zfGVfIcY/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/EBOyUnQdXAQ/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Jess Williamson",
@@ -2259,16 +2269,6 @@
     "image": "https://i3.ytimg.com/vi/2_vJBxK_9B8/hqdefault.jpg"
   },
   {
-    "title": "Live & Direct Session with KELS",
-    "subtitle": "91.3 WYEP",
-    "url": "https://www.youtube.com/watch?v=Mj4y9QgIATI",
-    "timestamp": "2026-04-28T15:59:11.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/Mj4y9QgIATI/hqdefault.jpg"
-  },
-  {
     "title": "Formosa - Live at Baum Baum Club Preview #music #dj",
     "subtitle": "BaumBaumClub",
     "url": "https://www.youtube.com/shorts/niK-eCIsj8M",
@@ -2347,6 +2347,16 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
+  },
+  {
+    "title": "Chismis Corner- Episode 2",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=VLYugAb1U-A",
+    "timestamp": "2026-09-30T00:47:55.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/VLYugAb1U-A/hqdefault.jpg"
   },
   {
     "title": "BusCrates - Set 3 - Live on WPTS Radio",
@@ -2487,16 +2497,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/qlxQP1liZCM/hqdefault.jpg"
-  },
-  {
-    "title": "Lys Scott - Flightline of a Butterfly - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=Bd2Gtqhb74k",
-    "timestamp": "2026-04-17T18:30:29.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/Bd2Gtqhb74k/hqdefault.jpg"
   },
   {
     "title": "August 2026 Pgh Releases",
