@@ -1,25 +1,15 @@
 const TIMEOUT = 10_000;
 
-const getPage = async (url: string) => {
-  const controller = new AbortController();
-  const id = setTimeout(() => controller.abort(), TIMEOUT);
-
-  const res = await fetch(url, {
-    signal: controller.signal,
-    // headers: {
-    //   "User-Agent": "node-fetch",
-    // },
-  });
-
-  clearTimeout(id);
-  return res;
-};
-
 export const fetchPage = async (url: string) => {
   let res: Response;
 
   try {
-    res = await getPage(url);
+    res = await fetch(url, {
+      signal: AbortSignal.timeout(TIMEOUT),
+      // headers: {
+      //   "User-Agent": "node-fetch",
+      // },
+    });
   } catch (exception) {
     const error = {
       exception,
