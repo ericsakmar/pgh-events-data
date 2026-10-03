@@ -937,13 +937,13 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/7v17EhPkbct20cz98FAa3O",
-    "timestamp": "2026-09-03T19:16:29.000Z",
+    "timestamp": "2026-10-02T23:15:39.000Z",
     "tags": [
       "playlist"
     ],
@@ -1919,6 +1919,46 @@
     "image": "https://i2.ytimg.com/vi/a-JetG9GtCo/hqdefault.jpg"
   },
   {
+    "title": "Kwarter Zip - Live on WPTS Radio - Pittsburgh, PA - 9-30-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=Q_fi2NGAXHw",
+    "timestamp": "2026-10-02T15:20:16.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/Q_fi2NGAXHw/hqdefault.jpg"
+  },
+  {
+    "title": "Sherry CD-ROM - Live at Bantha Tea Bar - Pittsburgh, PA - 9-29-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=KgniZRe27vg",
+    "timestamp": "2026-10-02T14:07:51.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/KgniZRe27vg/hqdefault.jpg"
+  },
+  {
+    "title": "Friendly Spectres - Live at Bantha Tea Bar - Pittsburgh, PA - 9-29-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=LNZkV7VZpQ8",
+    "timestamp": "2026-10-02T14:06:30.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/LNZkV7VZpQ8/hqdefault.jpg"
+  },
+  {
+    "title": "County Conservation District - Live at Bantha Tea Bar - Pittsburgh, PA - 9-29-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=8r2V3t3kG18",
+    "timestamp": "2026-10-02T14:04:59.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/8r2V3t3kG18/hqdefault.jpg"
+  },
+  {
     "title": "Camping In Alaska - Live at Roboto - Pittsburgh, PA - 9-28-2026 (FULL SHOW)",
     "subtitle": "Plankfan",
     "url": "https://www.youtube.com/watch?v=NFii82qYlTY",
@@ -2027,46 +2067,6 @@
       "youtube channel"
     ],
     "image": "https://i3.ytimg.com/vi/BUUqR0o-2H8/hqdefault.jpg"
-  },
-  {
-    "title": "Driveways - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=uDK5PVAic-E",
-    "timestamp": "2026-09-30T04:22:36.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/uDK5PVAic-E/hqdefault.jpg"
-  },
-  {
-    "title": "Don't Panic - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=hLxqQUFQajE",
-    "timestamp": "2026-09-30T04:22:34.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/hLxqQUFQajE/hqdefault.jpg"
-  },
-  {
-    "title": "Bathcat - Live at Roboto - Pittsburgh, PA - 9-26-2026 (PARTIAL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=INBHVCOdsPA",
-    "timestamp": "2026-09-30T04:21:59.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/INBHVCOdsPA/hqdefault.jpg"
-  },
-  {
-    "title": "Finch - Live at Four Chord Music Festival - Pittsburgh, PA - 9-26-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=JH9mAP01IFw",
-    "timestamp": "2026-09-30T04:20:20.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/JH9mAP01IFw/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with PosterChild",
