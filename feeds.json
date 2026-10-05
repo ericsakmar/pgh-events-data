@@ -977,17 +977,17 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/7v17EhPkbct20cz98FAa3O",
-    "timestamp": "2026-10-03T17:12:54.000Z",
+    "timestamp": "2026-10-04T13:59:31.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -1007,7 +1007,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
   },
   {
     "title": "DLTSGDOM!: Now Playing",
@@ -1199,6 +1199,16 @@
     "image": "https://i2.ytimg.com/vi/igZAf8VRPX4/hqdefault.jpg"
   },
   {
+    "title": "I was I was that positive #taylorswift #musicshow",
+    "subtitle": "I Quit My Band",
+    "url": "https://www.youtube.com/shorts/UH6ESWPHn-4",
+    "timestamp": "2026-10-05T02:16:21.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/UH6ESWPHn-4/hqdefault.jpg"
+  },
+  {
     "title": "Cleveland! #taylorswift #reaction #comedypodcast",
     "subtitle": "I Quit My Band",
     "url": "https://www.youtube.com/shorts/UWQZpdkUlqs",
@@ -1337,16 +1347,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/lmX7nhnwl28/hqdefault.jpg"
-  },
-  {
-    "title": "We love weed puns #comedypodcast #musicshow #sleep",
-    "subtitle": "I Quit My Band",
-    "url": "https://www.youtube.com/shorts/iJ-v58pYS44",
-    "timestamp": "2026-09-11T01:42:05.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/iJ-v58pYS44/hqdefault.jpg"
   },
   {
     "title": "Mom Jeans live at sunset in Pittsburgh for Four Chord Music Festival #poppunk #sunset #pittsburgh",
@@ -1809,6 +1809,16 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Lakeview - Home Team Live Pittsburgh PA 9/18/2026",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/watch?v=hVvzWoN9s3E",
+    "timestamp": "2026-10-04T16:00:13.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/hVvzWoN9s3E/hqdefault.jpg"
+  },
+  {
     "title": "Lyric Breakdown of TOMORROW by STRAIGHT DECLINE #poppunk",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/shorts/TOomcHs0140",
@@ -1947,16 +1957,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/4Af0iIZtZfA/hqdefault.jpg"
-  },
-  {
-    "title": "Fake Grave Live Pittsburgh PA #emomusic",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/lbWvNiuIjmo",
-    "timestamp": "2026-09-25T01:00:37.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/lbWvNiuIjmo/hqdefault.jpg"
   },
   {
     "title": "Kwarter Zip - Live on WPTS Radio - Pittsburgh, PA - 9-30-2026 (FULL SHOW AUDIO)",
@@ -2492,7 +2492,7 @@
     "title": "August 2026 Pgh Releases",
     "subtitle": "YouTube Music",
     "url": "https://music.youtube.com/playlist?list=PLBqVYuULAKE0",
-    "timestamp": "2026-09-05T20:38:16.584052Z",
+    "timestamp": "2026-09-05T20:38:16.584052962Z",
     "tags": [
       "playlist"
     ],
