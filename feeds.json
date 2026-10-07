@@ -470,16 +470,6 @@
     "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
   },
   {
-    "title": "RC Allison PARS821",
-    "subtitle": "The Pennsylvania Rock Show",
-    "url": "https://podcasters.spotify.com/pod/show/parockshow/episodes/RC-Allison-PARS821-e3hhf8o",
-    "timestamp": "2026-04-07T00:08:57.000Z",
-    "tags": [
-      "podcast"
-    ],
-    "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
-  },
-  {
     "title": "Nashville Country Interview | Woody Bradshaw | New Music | 3 Questions and a Song 130",
     "subtitle": "3 Questions and a Song",
     "url": "https://www.buildthescene.com/woody-bradshaw/",
@@ -983,7 +973,7 @@
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-10-05T20:31:21.000Z",
+    "timestamp": "2026-10-06T14:06:32.000Z",
     "tags": [
       "playlist"
     ],
@@ -993,7 +983,7 @@
     "title": "Bottlerocket Staff Picks",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/7v17EhPkbct20cz98FAa3O",
-    "timestamp": "2026-10-04T13:59:31.000Z",
+    "timestamp": "2026-10-06T20:52:15.000Z",
     "tags": [
       "playlist"
     ],
@@ -1007,7 +997,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1157,6 +1147,16 @@
     "tags": [
       "blog"
     ]
+  },
+  {
+    "title": "Forest Counties live at Brillobox 8/28/26",
+    "subtitle": "Michi Tapes",
+    "url": "https://www.youtube.com/watch?v=FseDBeqTGq8",
+    "timestamp": "2026-10-07T05:19:28.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/FseDBeqTGq8/hqdefault.jpg"
   },
   {
     "title": "Oregon Trails - \"Weathering\" (music video)",
@@ -2359,6 +2359,36 @@
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
   },
   {
+    "title": "Kwarter Zip - Thanks Dad, I'm proud of myself too - Live on WPTS Radio",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=xqZQYflzccw",
+    "timestamp": "2026-10-06T19:24:24.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/xqZQYflzccw/hqdefault.jpg"
+  },
+  {
+    "title": "Kwarter Zip - McKee's... Rocks! - Live on WPTS Radio",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=_hxrhvvo01Q",
+    "timestamp": "2026-10-06T19:20:13.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/_hxrhvvo01Q/hqdefault.jpg"
+  },
+  {
+    "title": "Kwarter Zip - Budlight Supernova - Live on WPTS Radio",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=9Y8V2rmSxvE",
+    "timestamp": "2026-10-06T19:07:32.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/9Y8V2rmSxvE/hqdefault.jpg"
+  },
+  {
     "title": "World College Radio Day 2026: Hope - Always in the Air!",
     "subtitle": "WPTS Radio",
     "url": "https://www.youtube.com/watch?v=ZpZ22H6NU1Y",
@@ -2477,36 +2507,6 @@
       "youtube channel"
     ],
     "image": "https://i4.ytimg.com/vi/_Bwokvuk0sY/hqdefault.jpg"
-  },
-  {
-    "title": "One Hundred Year Ocean - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=rIw6DaYxbyE",
-    "timestamp": "2026-04-22T21:00:54.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/rIw6DaYxbyE/hqdefault.jpg"
-  },
-  {
-    "title": "Ruth E. Toothless - Redundancied - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=kmkO2_Fr3hQ",
-    "timestamp": "2026-04-20T14:30:40.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/kmkO2_Fr3hQ/hqdefault.jpg"
-  },
-  {
-    "title": "Ruth E Toothless - Muddled - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=gV6UTVcoSrI",
-    "timestamp": "2026-04-20T14:30:37.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/gV6UTVcoSrI/hqdefault.jpg"
   },
   {
     "title": "August 2026 Pgh Releases",
@@ -2659,6 +2659,16 @@
     "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_3682.jpg"
   },
   {
+    "title": "Chelsea Wolfe graces Pittsburgh’s spooky season with ethereal new record The Dark",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/chelsea-wolfe-brings-ethereal-new-record-the-dark-to-carnegie-of-homestead/",
+    "timestamp": "2026-10-07T09:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://media.pghcitypaper.com/rag/2026/10/05155933-4509/chelsea-wolfe-magdalena-Wosinska-1024x576.jpeg"
+  },
+  {
     "title": "Four Chord returns to Pittsburgh with big music acts and a beef with Live Nation",
     "subtitle": "Pittsburgh City Paper",
     "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/four-chord-music-festival-returns-to-pittsburgh-fnb-stadium-sept-25-26/",
@@ -2747,15 +2757,5 @@
       "blog"
     ],
     "image": "https://media.pghcitypaper.com/rag/2026/08/BBF64DA2-69BB-41FC-B2BC-4587C7619DE2_1_201_a-1024x614.jpeg"
-  },
-  {
-    "title": "Broadway star Brandon Victor Dixon talks Hamilton, soul, and his Pittsburgh connections",
-    "subtitle": "Pittsburgh City Paper",
-    "url": "https://www.pghcitypaper.com/arts-entertainment-2/theater/broadway-star-brandon-victor-dixon-talks-hamilton-soul-and-his-pittsburgh-connections/",
-    "timestamp": "2026-08-18T09:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://media.pghcitypaper.com/rag/2026/08/Brandon-Victor-Dixon-color-publicity-1-photo-credit-Rachel-Monteleone-1024x683.jpg"
   }
 ]
