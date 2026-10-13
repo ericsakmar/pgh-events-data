@@ -28,7 +28,7 @@ async function queryDatabase() {
       title: r.name,
       date: addHours(r.date, utc_offset).toISOString(),
       location: r.location,
-      link: r.eventLink,
+      link: r.eventLink ?? undefined,
       poster: r.posterLink ?? undefined,
       source: "https://pgh.events",
       hasTime: true,
