@@ -70,6 +70,16 @@
     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/d/5/0/00a1-13e1-404e-9aca-56387cb00aef"
   },
   {
+    "title": "BOOM Universe Will Welcome 4 New Visiting McKnight Resident Artists In 2027",
+    "subtitle": "BOOM Concepts",
+    "url": "https://boomuniverse.co/blog/boom-universe-will-welcome-4-new-visiting-mcknight-resident-artists-in-2027/",
+    "timestamp": "2026-10-16T16:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://boomuniverse.co/wp-content/uploads/2026/10/MCKNIGHT-LEAD_BOOM-2027-Profile.jpg"
+  },
+  {
     "title": "BOOM Concepts & National Performance Network Presents “Undertones” Photography Workshop Featuring Buffalo-Based Photographer Brandon Watson",
     "subtitle": "BOOM Concepts",
     "url": "https://boomuniverse.co/blog/boom-concepts-national-performance-network-presents-undertones-photography-workshop-featuring-buffalo-based-photographer-brandon-watson/",
@@ -950,24 +960,14 @@
     "image": "https://cdn.prod.website-files.com/6590216639b8ba9d6168ba67/69e9357af27bc6fe734dfc74_HUNY%20XO%20SELENA.JPG"
   },
   {
-    "title": "Cliff Fields, Something Something",
-    "subtitle": "Pittsburgh Manifold",
-    "url": "https://www.pittsburghmanifold.com/post/cliff-fields-something-something",
-    "timestamp": "2026-04-16T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://cdn.prod.website-files.com/6590216639b8ba9d6168ba67/69e145f49239b522ac070665_interview%20large%201000009094%20crop%20Large.jpeg"
-  },
-  {
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-10-15T01:49:33.000Z",
+    "timestamp": "2026-10-16T12:30:09.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -977,7 +977,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -987,7 +987,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1013,11 +1013,11 @@
     "title": "Steel City Violence",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/39wtmUHDbA9XbZePrSJg1t",
-    "timestamp": "2026-10-09T15:15:42.000Z",
+    "timestamp": "2026-10-16T15:15:20.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847a4ae40b9c46bddef284f861"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c7a4ae40b9c46bddef284f861"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1098,16 +1098,6 @@
       "podcast"
     ],
     "image": "https://static.libsyn.com/p/assets/4/3/d/3/43d3569a8db6124c16c3140a3186d450/STB_559_B.jpg"
-  },
-  {
-    "title": "Microwaves (Episode 558)",
-    "subtitle": "Start The Beat",
-    "url": "https://startthebeat.libsyn.com/microwaves-episode-558",
-    "timestamp": "2026-04-16T13:00:00.000Z",
-    "tags": [
-      "podcast"
-    ],
-    "image": "https://static.libsyn.com/p/assets/1/0/1/f/101f6c70587e6287d959afa2a1bf1c87/STB_558_B.jpg"
   },
   {
     "title": "More Than the Sum of Its Parts:  Two of Anything and Christopher Hoffman — June 2, 2026",
@@ -1340,6 +1330,16 @@
     "image": "https://i4.ytimg.com/vi/OrFd1qaJeHE/hqdefault.jpg"
   },
   {
+    "title": "[Modest Director] No Time - August 22, 2026",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=JpoDSrZCDPc",
+    "timestamp": "2026-10-16T18:40:24.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/JpoDSrZCDPc/hqdefault.jpg"
+  },
+  {
     "title": "Mom Jeans live at sunset in Pittsburgh for Four Chord Music Festival #poppunk #sunset #pittsburgh",
     "subtitle": "Modest Director",
     "url": "https://www.youtube.com/shorts/Fcf9YTrkUbw",
@@ -1478,16 +1478,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/AQ2Nm_2lBsE/hqdefault.jpg"
-  },
-  {
-    "title": "Abyecta live at Rock Room in Pittsburgh, PA on July 29, 2026 #punk #hardcore #metal #drums #chile",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/shorts/BcMU9xvcFQs",
-    "timestamp": "2026-08-11T17:59:02.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/BcMU9xvcFQs/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -1810,6 +1800,46 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Skillet - Monster Live Pittsburgh LA #skillet #christianrock",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/RN6mSaa99lE",
+    "timestamp": "2026-10-17T02:00:49.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/RN6mSaa99lE/hqdefault.jpg"
+  },
+  {
+    "title": "Knocked Loose - Suffocate Live Four Chord Music Festival #knockedloose",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/rA8IUOUAzZs",
+    "timestamp": "2026-10-16T23:00:29.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/rA8IUOUAzZs/hqdefault.jpg"
+  },
+  {
+    "title": "How Does Country and Metal Music Mix? #countrymusic #metalmusic",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/iNH3xvrK6Ig",
+    "timestamp": "2026-10-16T20:00:26.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/iNH3xvrK6Ig/hqdefault.jpg"
+  },
+  {
+    "title": "Boys Like Girls - The Great Escape Live Four Chord Music Festival 9/26/2026",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/watch?v=JWhmy09lJno",
+    "timestamp": "2026-10-16T14:54:32.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/JWhmy09lJno/hqdefault.jpg"
+  },
+  {
     "title": "Foreverforaday Live Pittsburgh PA #screamo #skramz",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/shorts/mk5CG9FHnf0",
@@ -1920,44 +1950,44 @@
     "image": "https://i3.ytimg.com/vi/zFfQtLu-aYc/hqdefault.jpg"
   },
   {
-    "title": "Public Opinion - Balloon Man Running Live Pittsburgh PA #punkrock",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/rKRGsdQxj3Q",
-    "timestamp": "2026-10-14T03:00:01.000Z",
+    "title": "Daisyhead - Live at Roboto - Pittsburgh, PA - 10-15-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=cSTqmguoWmw",
+    "timestamp": "2026-10-17T03:03:02.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/rKRGsdQxj3Q/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/cSTqmguoWmw/hqdefault.jpg"
   },
   {
-    "title": "Pierce the Veil - So Far So Fake Live Four Chord Music Festival 9/26/2026",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/watch?v=WScLeitWzqo",
-    "timestamp": "2026-10-12T18:55:11.000Z",
+    "title": "Broken Record - Live at Roboto - Pittsburgh, PA - 10-15-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=HD8hY1iuoZc",
+    "timestamp": "2026-10-17T03:01:51.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i4.ytimg.com/vi/WScLeitWzqo/hqdefault.jpg"
+    "image": "https://i1.ytimg.com/vi/HD8hY1iuoZc/hqdefault.jpg"
   },
   {
-    "title": "An Interview with EXECUTION DAY",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/watch?v=wnvC5gEXmWg",
-    "timestamp": "2026-10-12T00:31:18.000Z",
+    "title": "Arrf - Live at Roboto - Pittsburgh, PA - 10-15-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=fBC_eFSgqiA",
+    "timestamp": "2026-10-17T03:00:48.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i4.ytimg.com/vi/wnvC5gEXmWg/hqdefault.jpg"
+    "image": "https://i3.ytimg.com/vi/fBC_eFSgqiA/hqdefault.jpg"
   },
   {
-    "title": "Camping in Alaska Live Pittsburgh PA #midwestemo",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/poj2xWKRYuQ",
-    "timestamp": "2026-10-12T00:00:09.000Z",
+    "title": "Pitter Patter - Live at Roboto - Pittsburgh, PA - 10-15-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=K5CSB0jbP-A",
+    "timestamp": "2026-10-17T03:00:27.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i1.ytimg.com/vi/poj2xWKRYuQ/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/K5CSB0jbP-A/hqdefault.jpg"
   },
   {
     "title": "Sunny Daze & The Weathermen - Live on WPTS Radio - Pittsburgh, PA - 10-14-2026 (FULL SHOW AUDIO)",
@@ -2068,46 +2098,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/9tTtgquriA8/hqdefault.jpg"
-  },
-  {
-    "title": "Phantom Planet - Live at Radio City Music Hall - New York, NY - 10-9-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=G7-ay4wtBY8",
-    "timestamp": "2026-10-11T06:08:30.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/G7-ay4wtBY8/hqdefault.jpg"
-  },
-  {
-    "title": "The Format - Live at Stage AE - Pittsburgh, PA - 10-7-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=xGpDW2JDzzQ",
-    "timestamp": "2026-10-08T05:15:48.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/xGpDW2JDzzQ/hqdefault.jpg"
-  },
-  {
-    "title": "The Get Up Kids - Live at Stage AE - Pittsburgh, PA - 10-7-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=a-WdBFmLdv0",
-    "timestamp": "2026-10-08T05:10:19.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/a-WdBFmLdv0/hqdefault.jpg"
-  },
-  {
-    "title": "Febuary - Live at Bottlerocket - Pittsburgh, PA - 10-6-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=nGRLoZT4aYo",
-    "timestamp": "2026-10-07T15:54:15.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/nGRLoZT4aYo/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with PosterChild",
@@ -2350,6 +2340,16 @@
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
   },
   {
+    "title": "Calling a Pitt football game with WPTS Radio!",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=sajW7qoCySQ",
+    "timestamp": "2026-10-16T19:54:10.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/sajW7qoCySQ/hqdefault.jpg"
+  },
+  {
     "title": "Strength & Soul Podcast (2) The Destruction of the Young Black Male: Height, Weight, and Stereotypes",
     "subtitle": "WPTS Radio",
     "url": "https://www.youtube.com/watch?v=6s-hO6bpEIM",
@@ -2490,20 +2490,10 @@
     "image": "https://i3.ytimg.com/vi/NGtxCG6Yw3k/hqdefault.jpg"
   },
   {
-    "title": "Acid Drag - Cloudlove - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=4FWdZ66B3ys",
-    "timestamp": "2026-09-09T23:38:17.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/4FWdZ66B3ys/hqdefault.jpg"
-  },
-  {
     "title": "August 2026 Pgh Releases",
     "subtitle": "YouTube Music",
     "url": "https://music.youtube.com/playlist?list=PLBqVYuULAKE0",
-    "timestamp": "2026-09-05T20:38:16.584052962Z",
+    "timestamp": "2026-09-05T20:38:16.584052Z",
     "tags": [
       "playlist"
     ],
