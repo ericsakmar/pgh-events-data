@@ -570,13 +570,63 @@
     "city": "pgh"
   },
   {
-    "title": "STORY CLUB: A Storytelling Night",
-    "date": "2026-10-20T23:30:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/story-club-a-storytelling-night-october-20-2026-742000?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "poster": "https://belvederesultradive.com/images/who.png",
+    "title": "WHO GOT NEXT",
+    "date": "2026-10-23T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
     "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/742/000/compressed/open-uri20260929-918-kdf3hx.jpg?1790698588",
+    "city": "pgh"
+  },
+  {
+    "poster": "https://belvederesultradive.com/images/pitt.png",
+    "title": "BAD BUNNY\nVS. PITBULL",
+    "date": "2026-10-24T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "poster": "https://belvederesultradive.com/images/candy.png",
+    "title": "CANDY",
+    "date": "2026-10-25T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "poster": "https://belvederesultradive.com/images/camp.png",
+    "title": "CAMP CRYSTAL",
+    "date": "2026-10-30T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "poster": "https://belvederesultradive.com/images/frighthal.png",
+    "title": "FRIGHT FEVER",
+    "date": "2026-10-31T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "poster": "https://belvederesultradive.com/images/area.png",
+    "title": "AREA 412",
+    "date": "2026-11-01T01:00:00.000Z",
+    "location": "Belvederes Ultra Dive",
+    "link": "https://belvederesultradive.com/",
+    "source": "https://belvederesultradive.com/",
+    "hasTime": true,
     "city": "pgh"
   },
   {
@@ -777,6 +827,16 @@
     "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
     "hasTime": true,
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/743/925/compressed/_2S9A1800.jpg?1787427717",
+    "city": "pgh"
+  },
+  {
+    "title": "PLAID KARAOKE",
+    "date": "2026-11-04T23:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/plaid-karaoke-november-04-2026-788702?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/788/702/compressed/Screenshot_2026-10-20_at_7.16.30%E2%80%AFPM.jpg?1792538218",
     "city": "pgh"
   },
   {
@@ -1209,16 +1269,6 @@
     "city": "pgh"
   },
   {
-    "title": "Artist in Exile: Olena Boryshpolets’ &#8220;Bride&#8221;",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "City of Asylum",
-    "link": "https://cityofasylum.org/program/artist-in-exile-olena-boryshpolets-the-bride/",
-    "source": "https://cityofasylum.org/events/",
-    "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/08/bride-web-image.png",
-    "city": "pgh"
-  },
-  {
     "title": "Thursday Night Jazz: Zero Ted Plays Original Compositions (with a Pop Sensibility)",
     "date": "2026-10-22T23:00:00.000Z",
     "location": "City of Asylum",
@@ -1419,7 +1469,7 @@
     "city": "pgh"
   },
   {
-    "title": "Marcedes Carroll & Doc Elliot",
+    "title": "Marcedes Carroll & Doc Elliot wsg/ Emily Lehr",
     "date": "2026-10-29T23:00:00.000Z",
     "location": "Club Cafe",
     "link": "https://www.ticketweb.com/event/marcedes-carroll-doc-elliot-club-cafe-tickets/14352684",
@@ -1529,7 +1579,7 @@
     "city": "pgh"
   },
   {
-    "title": "Kelsey Waldon",
+    "title": "Kelsey Waldon w/ Candi Jenkins",
     "date": "2026-11-20T23:00:00.000Z",
     "location": "Club Cafe",
     "link": "https://www.ticketweb.com/event/kelsey-waldon-club-cafe-tickets/14307584",
@@ -1616,6 +1666,16 @@
     "source": "https://www.clubcafelive.com/upcoming-shows",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/67f80cff14a24c29de67b770/afcbc1bb-c189-4efe-9a9a-a5cb75f46fa7/JoeyHarkum-PressPhoto-7.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Cory Branan",
+    "date": "2027-03-11T23:00:00.000Z",
+    "location": "Club Cafe",
+    "link": "https://www.ticketweb.com/event/cory-branan-club-cafe-tickets/14377564",
+    "source": "https://www.clubcafelive.com/upcoming-shows",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/67f80cff14a24c29de67b770/69c3fb7f-8903-4c07-a3f6-9df1ea69f573/Harmonshoot1.jpg",
     "city": "pgh"
   },
   {
@@ -1889,16 +1949,6 @@
     "city": "pgh"
   },
   {
-    "title": "Bar Bingo",
-    "date": "2026-10-20T16:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/bar-bingo-%e2%88%99-october-20-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/10.20.26-bingo-website-photo.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Mike Dawes",
     "date": "2026-10-21T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2059,6 +2109,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-06T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-6-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Neon Bridges",
     "date": "2026-11-07T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2066,6 +2126,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/11.7.26-neon-bridges-web-pic.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-07T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-7-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2119,6 +2189,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-13T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-13-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Beasts of The Burgh IV",
     "date": "2026-11-14T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2126,6 +2206,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/11.14.26-beasts-of-the-burgh-website-pic.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-14T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-14-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2179,6 +2269,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-20T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-20-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Steeltown",
     "date": "2026-11-21T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2186,6 +2286,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/11.21.26-steeltown-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-21T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-21-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2229,6 +2339,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-27T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-27-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Journey Thru The Ages",
     "date": "2026-11-28T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2236,6 +2356,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/11.28.26-journey-thru-the-ages-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-11-28T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-november-28-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2279,6 +2409,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-04T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-4-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Velveeta",
     "date": "2026-12-05T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2286,6 +2426,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/12.5.26-velveeta-website-photo-1.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-05T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-5-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2329,6 +2479,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-11T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-11-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Bon Journey",
     "date": "2026-12-12T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2336,6 +2496,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/10/12.12.26-bon-journey-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-12T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-12-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2369,6 +2539,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-18T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-18-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "The Alt Rocks",
     "date": "2026-12-19T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2376,6 +2556,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/10/12.19.26-the-alt-rocks-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-19T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-19-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2409,6 +2599,16 @@
     "city": "pgh"
   },
   {
+    "title": "Late Night Happy Hour",
+    "date": "2026-12-26T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/late-night-happy-hour-%e2%88%99-december-26-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Bar Bingo",
     "date": "2026-12-29T16:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2416,6 +2616,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/09/12.29.26-bingo-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Justin Fabus",
+    "date": "2027-01-02T16:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/justin-fabus-%e2%88%99-january-2-2027/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/10/1.2.27-justin-fabus-website-photo.jpg",
     "city": "pgh"
   },
   {
@@ -3178,16 +3388,6 @@
     "city": "pgh"
   },
   {
-    "title": "The Elastics / Christina's Trip / Olive Cramer",
-    "date": "2026-10-20T16:00:00.000Z",
-    "location": "The Government Center",
-    "link": "https://www.thegovernmentcenter.com/events/the-elastics-christinas-trip-olive-cramer",
-    "source": "https://www.thegovernmentcenter.com/events",
-    "hasTime": false,
-    "poster": "https://cdn.prod.website-files.com/5d2f3bec2dd0fa00b6ada10d/6ac1703d97ebd2aa1d2c6590_christinas%20trip.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "SPANAKOPITA! A Very Venture Night",
     "date": "2026-10-23T23:00:00.000Z",
     "location": "Green Beacon Gallery",
@@ -3534,7 +3734,7 @@
     "link": "https://druskyentertainment.com/event/rocky-bleier-john-steigerwald-the-talking-heads-of-pittsburgh-sports-talk/jergels-rhythm-grille/",
     "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
     "hasTime": true,
-    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/09/the-talking-heads-of-pittsburgh-sports-talk-with-rock-bleier-john-steigerwald.jpeg",
+    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/10/rocky-bleier-john-steigerwald-the-talking-heads-of-pittsburgh-sports-talk-1.jpeg",
     "city": "pgh"
   },
   {
@@ -3545,6 +3745,42 @@
     "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
     "hasTime": true,
     "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/the-altered-egos.jpeg",
+    "city": "pgh"
+  },
+  {
+    "title": "Factory 500: The Butler Institute of American Art",
+    "date": "2026-11-07T15:00:00.000Z",
+    "location": "Mattress Factory",
+    "link": "https://mattress.org/events/factory-500-the-butler-institute-of-american-art/",
+    "source": "https://mattress.org/calendar/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "title": "Member Preview: Greer Lankton \"Could it be Love\"",
+    "date": "2026-11-13T16:00:00.000Z",
+    "location": "Mattress Factory",
+    "link": "https://mattress.org/events/member-preview-could-it-be-love/",
+    "source": "https://mattress.org/calendar/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "title": "Save the Dates: Mattress Factory Celebrates 50 Years in 2027!",
+    "date": "2026-10-22T16:00:00.000Z",
+    "location": "Mattress Factory",
+    "link": "https://mattress.org/events/save-the-dates-mattress-factory-contemporary-art-museum-celebrates-50-years/",
+    "source": "https://mattress.org/calendar/",
+    "hasTime": true,
+    "city": "pgh"
+  },
+  {
+    "title": "Factory 500: A Deep Dive with David Bernabo",
+    "date": "2027-04-11T16:00:00.000Z",
+    "location": "Mattress Factory",
+    "link": "https://mattress.org/events/factory-500-a-deep-dive-with-david-bernabo/",
+    "source": "https://mattress.org/calendar/",
+    "hasTime": true,
     "city": "pgh"
   },
   {
@@ -3678,16 +3914,6 @@
     "city": "pgh"
   },
   {
-    "title": "Olivia and the Lovers with The Weevils",
-    "date": "2026-10-21T00:00:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/olivia-and-the-lovers-with-the-weevils",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/14326/10459434/f8e83232ca3454d38309c7976ae98786fba93188ffb753efc4ebf93970e00607/0dc72373-c17d-4135-ab81-509291cb32cd_fit_300.png",
-    "city": "mgw"
-  },
-  {
     "title": "Mon Dems Meet The Candidates",
     "date": "2026-10-21T22:00:00.000Z",
     "hasTime": true,
@@ -3735,6 +3961,16 @@
     "link": "https://events.leapevents.com/event/morgantown-s-punk-rock-halloween-x-123",
     "source": "https://events.leapevents.com/events/14326",
     "poster": "https://sc-events.s3.amazonaws.com/d4dfba6b-eab1-4ea2-8cce-d2d085964038_resize_fit_300.jpg",
+    "city": "mgw"
+  },
+  {
+    "title": "THE LITTLE NOISE ZINE EXHIBIT presented by: 100 Days in Appalachia, WV Zines, & The Roboto Zine Library",
+    "date": "2026-10-25T15:00:00.000Z",
+    "hasTime": true,
+    "location": "123 Pleasant Street",
+    "link": "https://events.leapevents.com/event/100-days-in-appalachia-presents-the-little-noise-zine-exhibit",
+    "source": "https://events.leapevents.com/events/14326",
+    "poster": "https://sc-events.s3.amazonaws.com/14326/10487265/6b0b5ba6f625549c5846532c8e904ad29e3bb6b1738fd0ffdbf5a0e7af6bb3f4/a65d2814-1b6f-4ab8-9570-3f9eff089fdb_fit_300.jpg",
     "city": "mgw"
   },
   {
@@ -3787,6 +4023,16 @@
     "city": "mgw"
   },
   {
+    "title": "Wyld Things presents: HOUSE-O-WEEN ft. Browser, Howes Party b2b. Vato, McMahan, Strizy",
+    "date": "2026-10-29T00:00:00.000Z",
+    "hasTime": true,
+    "location": "123 Pleasant Street",
+    "link": "https://events.leapevents.com/event/wyld-things-p-house-o-ween",
+    "source": "https://events.leapevents.com/events/14326",
+    "poster": "https://sc-events.s3.amazonaws.com/14326/10487255/4a9869a5c8e2b6636a8cf7a61b40a947dfbeddc96d259cf51f05c1dfeaa3b7fe/95fecfb3-81bd-4a5b-823e-a752eabc4191_fit_300.jpg",
+    "city": "mgw"
+  },
+  {
     "title": "Just A Tribute: A Halloween Tribute Night to AC/DC, Motley Crue, and Dethklok",
     "date": "2026-10-31T00:00:00.000Z",
     "hasTime": true,
@@ -3794,6 +4040,16 @@
     "link": "https://events.leapevents.com/event/just-a-tribute-123-2026",
     "source": "https://events.leapevents.com/events/14326",
     "poster": "https://sc-events.s3.amazonaws.com/14326/10473659/ec238577ab41408ca3bf448fa9471a158913cbb0b83e4cf396c2462951b9524a/32ed2b6c-fa77-4358-a08f-7d0688ccef2a_fit_300.jpeg",
+    "city": "mgw"
+  },
+  {
+    "title": "Halloween With Natural Rat, Major Delilah, Sample Text DJ DiniDaddy Hosted By Cody Cannon",
+    "date": "2026-11-01T00:00:00.000Z",
+    "hasTime": true,
+    "location": "123 Pleasant Street",
+    "link": "https://events.leapevents.com/event/halloween-with-natural-rat-major-delilah",
+    "source": "https://events.leapevents.com/events/14326",
+    "poster": "https://sc-events.s3.amazonaws.com/b4a95d36-f560-492d-b5cc-c6ec02873115_resize_fit_300.jpeg",
     "city": "mgw"
   },
   {
@@ -4223,16 +4479,6 @@
     "city": "pgh"
   },
   {
-    "title": "NiNi",
-    "date": "2026-10-20T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/nini",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_fc6aaa4ff10c4d82b52d61724cfbdbf0~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_fc6aaa4ff10c4d82b52d61724cfbdbf0~mv2.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "MUSHROOMHEAD & FEAR FACTORY",
     "date": "2026-10-21T16:00:00.000Z",
     "location": "Preserving Underground",
@@ -4240,6 +4486,16 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_e4084c8c7600422093339a35d415ba87~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_e4084c8c7600422093339a35d415ba87~mv2.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "STICK TO YOUR GUNS",
+    "date": "2026-10-22T16:00:00.000Z",
+    "location": "Preserving Underground",
+    "link": "https://www.etix.com/ticket/p/63605032/stick-to-your-guns-new-kensington-preserving",
+    "source": "https://www.preservingunderground.com/shows",
+    "hasTime": false,
+    "poster": "https://static.wixstatic.com/media/41a88f_0e758127eec64f1a8d9c7b61b3396114~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_0e758127eec64f1a8d9c7b61b3396114~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -4723,10 +4979,30 @@
     "city": "pgh"
   },
   {
+    "title": "Four Year Strong: Rise or Die Trying 25 Year Anniversary Tour",
+    "date": "2027-03-21T22:00:00.000Z",
+    "location": "Roxian Theatre presented by Citizens",
+    "link": "https://www.livenation.com/event/1AvbZ_fGkDoJBdv/four-year-strong-rise-or-die-trying-25-year-anniversary-tour",
+    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
+    "hasTime": true,
+    "poster": "https://s1.ticketm.net/dam/a/8df/83e96761-5858-4c7e-9ef9-f76c9ccc98df_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Laurie Berkner (Morning Show - Fully Seated)",
     "date": "2027-04-04T14:00:00.000Z",
     "location": "Roxian Theatre presented by Citizens",
     "link": "https://www.livenation.com/event/1AvbZ_3Gknl79sO/laurie-berkner-morning-show-fully-seated",
+    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
+    "hasTime": true,
+    "poster": "https://s1.ticketm.net/dam/a/ee2/4e0050ac-7752-4321-b7cb-aa9970544ee2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Laurie Berkner - (Afternoon Show Fully Seated)",
+    "date": "2027-04-04T18:00:00.000Z",
+    "location": "Roxian Theatre presented by Citizens",
+    "link": "https://www.livenation.com/event/1AvbZ_fGkz7vcYh/laurie-berkner-afternoon-show-fully-seated",
     "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
     "hasTime": true,
     "poster": "https://s1.ticketm.net/dam/a/ee2/4e0050ac-7752-4321-b7cb-aa9970544ee2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -4789,16 +5065,6 @@
     "city": "pgh"
   },
   {
-    "title": "Big Laughs Comedy Open Mic\t\t\t\t\t\t\t\t\t\t\t\t\tHosted by Zach Funk",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/big-laughs-comedy-open-mic-105/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster-1.png",
-    "city": "pgh"
-  },
-  {
     "title": "Smallsgrass Bluegrass Jam\t\t\t\t\t\t\t\t\t\t\t\t\tWednesday Night Bluegrass Jam",
     "date": "2026-10-21T23:00:00.000Z",
     "location": "Mr. Smalls Cafe",
@@ -4806,6 +5072,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster-2.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
+    "date": "2026-10-23T00:00:00.000Z",
+    "location": "Mr. Smalls Cafe",
+    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-89/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
     "city": "pgh"
   },
   {
@@ -4826,16 +5102,6 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/10/Flyer.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
-    "date": "2026-10-23T00:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-89/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
     "city": "pgh"
   },
   {
@@ -5019,16 +5285,6 @@
     "city": "pgh"
   },
   {
-    "title": "Grateful Shred",
-    "date": "2026-11-02T00:00:00.000Z",
-    "location": "Mr. Smalls Theatre",
-    "link": "https://mrsmalls.com/events/grateful-shred/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/04/11-01-26_GratefulShred_v2.png",
-    "city": "pgh"
-  },
-  {
     "title": "Mr. Smalls Post-Halloween Party: Part 3\t\t\t\t\t\t\t\t\t\t\t\t\tTV's NORM (as Oasis)Weeber (as Weezer, performing Pinkerton in full)9FiftySeven (as Paramore)©ake™ (as Cake)",
     "date": "2026-11-02T00:00:00.000Z",
     "location": "The Funhouse at Mr. Smalls",
@@ -5036,6 +5292,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/09/MR.-SMALLS-POST-HALLOWEEN-PARTY.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Grateful Shred",
+    "date": "2026-11-02T00:00:00.000Z",
+    "location": "Mr. Smalls Theatre",
+    "link": "https://mrsmalls.com/events/grateful-shred/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/04/11-01-26_GratefulShred_v2.png",
     "city": "pgh"
   },
   {
@@ -5089,16 +5355,6 @@
     "city": "pgh"
   },
   {
-    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
-    "date": "2026-11-06T00:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-91/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
-    "city": "pgh"
-  },
-  {
     "title": "The Fortunate Youth\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: Kash'd Out",
     "date": "2026-11-06T00:00:00.000Z",
     "location": "Mr. Smalls Theatre",
@@ -5106,6 +5362,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/07/11-05-26_FortunateYouth_v2.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
+    "date": "2026-11-06T00:00:00.000Z",
+    "location": "Mr. Smalls Cafe",
+    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-91/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
     "city": "pgh"
   },
   {
@@ -5199,16 +5465,6 @@
     "city": "pgh"
   },
   {
-    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
-    "date": "2026-11-13T00:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-92/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
-    "city": "pgh"
-  },
-  {
     "title": "Sap – Erasure Tour\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guests: Sludge Mother, Sir Echo",
     "date": "2026-11-13T00:00:00.000Z",
     "location": "The Funhouse at Mr. Smalls",
@@ -5216,6 +5472,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/08/11-12-26_SAP-1-scaled.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
+    "date": "2026-11-13T00:00:00.000Z",
+    "location": "Mr. Smalls Cafe",
+    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-92/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
     "city": "pgh"
   },
   {
@@ -5429,16 +5695,6 @@
     "city": "pgh"
   },
   {
-    "title": "Atreyu – The End is Not the End 2026\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guests: Aurorawave",
-    "date": "2026-12-02T23:00:00.000Z",
-    "location": "Mr. Smalls Theatre",
-    "link": "https://mrsmalls.com/events/atreyu/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/07/12-02-26_Atreyu_v2-1.png",
-    "city": "pgh"
-  },
-  {
     "title": "Smallsgrass Bluegrass Jam\t\t\t\t\t\t\t\t\t\t\t\t\tWednesday Night Bluegrass Jam",
     "date": "2026-12-02T23:00:00.000Z",
     "location": "Mr. Smalls Cafe",
@@ -5446,6 +5702,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster-2.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Atreyu – The End is Not the End 2026\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guests: Aurorawave",
+    "date": "2026-12-02T23:00:00.000Z",
+    "location": "Mr. Smalls Theatre",
+    "link": "https://mrsmalls.com/events/atreyu/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/07/12-02-26_Atreyu_v2-1.png",
     "city": "pgh"
   },
   {
@@ -5469,6 +5735,16 @@
     "city": "pgh"
   },
   {
+    "title": "Holiday Hell-abaloo ft. Wreck Loose\t\t\t\t\t\t\t\t\t\t\t\t\tPlus Special Guests:GaadgeChet Vincent & The Music IndustryVireo",
+    "date": "2026-12-06T00:00:00.000Z",
+    "location": "The Sanctuary at Mr. Smalls",
+    "link": "https://mrsmalls.com/events/holiday-hellabaloo/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/10/Hellbender-Presents-2-smalls.png",
+    "city": "pgh"
+  },
+  {
     "title": "bleood – KILL YOUR IDOLS TOUR",
     "date": "2026-12-06T00:00:00.000Z",
     "location": "Mr. Smalls Theatre",
@@ -5486,16 +5762,6 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/09/12-5-26_THATLIKETHIS-scaled.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Holiday Hell-abaloo ft. Wreck Loose\t\t\t\t\t\t\t\t\t\t\t\t\tPlus Special Guests:GaadgeChet Vincent & The Music IndustryVireo",
-    "date": "2026-12-06T00:00:00.000Z",
-    "location": "The Sanctuary at Mr. Smalls",
-    "link": "https://mrsmalls.com/events/holiday-hellabaloo/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/10/Hellbender-Presents-2-smalls.png",
     "city": "pgh"
   },
   {
@@ -5529,16 +5795,6 @@
     "city": "pgh"
   },
   {
-    "title": "Voodoo Glow Skulls X The Koffin Kats\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: The Raging Nathans",
-    "date": "2026-12-11T00:00:00.000Z",
-    "location": "Mr. Smalls Theatre",
-    "link": "https://mrsmalls.com/events/voodooglowskulls-x-koffinkats/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/08/12-10-26-KKVGS_v2.png",
-    "city": "pgh"
-  },
-  {
     "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
     "date": "2026-12-11T00:00:00.000Z",
     "location": "Mr. Smalls Cafe",
@@ -5546,6 +5802,16 @@
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
     "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Voodoo Glow Skulls X The Koffin Kats\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: The Raging Nathans",
+    "date": "2026-12-11T00:00:00.000Z",
+    "location": "Mr. Smalls Theatre",
+    "link": "https://mrsmalls.com/events/voodooglowskulls-x-koffinkats/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/08/12-10-26-KKVGS_v2.png",
     "city": "pgh"
   },
   {
@@ -5679,6 +5945,16 @@
     "city": "pgh"
   },
   {
+    "title": "An Evening with Mike Viola",
+    "date": "2027-02-24T00:00:00.000Z",
+    "location": "The Funhouse at Mr. Smalls",
+    "link": "https://mrsmalls.com/events/mike-viola/",
+    "source": "https://mrsmalls.com/listing",
+    "hasTime": true,
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/10/2-23-26_MIKEVIOLA-scaled.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "Way Dynamic – Postponed from 9/26\t\t\t\t\t\t\t\t\t\t\t\t\tSpecial Guest: Star Moles",
     "date": "2027-03-08T00:00:00.000Z",
     "location": "The Funhouse at Mr. Smalls",
@@ -5759,16 +6035,6 @@
     "city": "pgh"
   },
   {
-    "title": "Oh He Dead",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Spirit",
-    "link": "https://spiritpgh.com/calendar/2025/12/12/jay-som-zm36m-h5gmt-ydyrh-mn6pt",
-    "source": "https://www.spiritpgh.com/events",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1786689695260-FMOJ75FYJ166DOIUXQ8Z/Static_Social-Instagram_1080x1350_OhHeDead_2026_Regional_+Spirit+Hall_1020.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "The Electric Grandmother",
     "date": "2026-10-22T23:00:00.000Z",
     "location": "Spirit",
@@ -5786,6 +6052,16 @@
     "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1789586314044-AQWYNVIQXJ8X03FCH13S/Static_Social-Instagram_1080x1080_BeautySchoolDropout_2026_Regional_Spirit-Hall_1022.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Halloween Bar Crawl",
+    "date": "2026-10-24T21:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/10/24/halloween-bar-crawl",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1792504780285-FX1BDYBI0HFIKX26RWB0/Halloween+event+heylo+cover+%28US+Letter%29+-+Bar+Crawl+Poster+Skeleton.jpeg",
     "city": "pgh"
   },
   {
@@ -5866,6 +6142,16 @@
     "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1792002614636-JJ3NZ1QVZPC8BDAJMN4V/G+Sounds+Halloween+-+EDITED.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Music Trivia with Brian Siewiorek",
+    "date": "2026-11-02T23:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/3n5jzza6h5333aj-76mcx-zmaam-34b5n-77g9f-fk3bt",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1792505959518-HS9AM5Y2GSVW9X9V2TPH/MUSIC+TRIVIA+11-2-26.png",
     "city": "pgh"
   },
   {
@@ -5969,6 +6255,16 @@
     "city": "pgh"
   },
   {
+    "title": "Siesta Fiesta",
+    "date": "2026-11-15T02:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/11/14/siesta-fiesta",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1792527126548-BUL2Z88ET5XYB9Y7S1X1/SIESTA+NOV+2026.png",
+    "city": "pgh"
+  },
+  {
     "title": "Deerhoof",
     "date": "2026-11-15T23:00:00.000Z",
     "location": "Spirit",
@@ -6036,16 +6332,6 @@
     "source": "https://www.spiritpgh.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1790780455187-3HJ4NUR62L0X1QX9KUOT/Static_Social-Instagram_1080x1080_MeiSemones_2027_Regional_SpiritHall_0508.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Jesse Welles: Red Tour 2026",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/10/jesse-welles-red-tour-2026",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/v2LbKoemfrrMp67BOJuoNGlx30bb88LXy77HqM2r.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=8dade6c74b2ccc815d3ef6b19b43185d",
     "city": "pgh"
   },
   {
@@ -6160,7 +6446,7 @@
   },
   {
     "title": "Beartooth: Pure Ecstasy World Tour",
-    "date": "2026-11-18T23:00:00.000Z",
+    "date": "2026-11-18T21:30:00.000Z",
     "location": "Stage AE",
     "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/11/beartooth-pure-ecstasy-world-tour",
     "source": "https://promowestlive.com/pittsburgh/stage-ae",
@@ -6186,6 +6472,16 @@
     "source": "https://promowestlive.com/pittsburgh/stage-ae",
     "hasTime": true,
     "poster": "https://promowest.imgix.net/artists/CoTCEfp3Iplrh8vKhsh04Mn6Fk8sFLrXwDFu1oh6.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=ebdaa9f3733267a6116c55f2248a4914",
+    "city": "pgh"
+  },
+  {
+    "title": "Streetlight Manifesto: The Presence of the Past Tour",
+    "date": "2026-11-21T23:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/11/streetlight-manifesto-the-presence-of-the-past-tour2",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/artists/mMuuTY4aKE6wc3RnzQfdmH4lMgxFXzOmOSCSvJnx.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=7285542bd40c413abdcaf2eb7237e483",
     "city": "pgh"
   },
   {
@@ -6236,16 +6532,6 @@
     "source": "https://www.tech25.org/calendar",
     "hasTime": true,
     "poster": "https://www.tech25.org/images/content/thumb_46da5a52cf8e3454a6c51b56e-90377.jpeg",
-    "city": "pgh"
-  },
-  {
-    "title": "Melvin Seals &#038; JGB",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Thunderbird Cafe & Music Hall",
-    "link": "https://thunderbirdmusichall.com/event/melvin-seals-jgb-2/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
-    "source": "https://thunderbirdmusichall.com/shows/?view=list",
-    "hasTime": true,
-    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/10/melvin-seals-jgb.jpeg",
     "city": "pgh"
   },
   {
@@ -6619,6 +6905,16 @@
     "city": "pgh"
   },
   {
+    "title": "The Last Revel",
+    "date": "2027-04-20T23:00:00.000Z",
+    "location": "Thunderbird Cafe & Music Hall",
+    "link": "https://thunderbirdmusichall.com/event/the-last-revel/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
+    "source": "https://thunderbirdmusichall.com/shows/?view=list",
+    "hasTime": true,
+    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/10/the-last-revel.jpeg",
+    "city": "pgh"
+  },
+  {
     "title": "RADICAL TRIVIA WITH JESS (EVERY WEDNESDAY AT 7PM)",
     "date": "2026-10-21T23:00:00.000Z",
     "location": "Trace Brewing",
@@ -6626,6 +6922,16 @@
     "source": "https://www.tracebloomfield.com/calendar-1?view=list",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1772512949765-UHTC25692XGKBW0NPA3F/1.JPG",
+    "city": "pgh"
+  },
+  {
+    "title": "Bloomfield Halloween Parade",
+    "date": "2026-10-22T21:00:00.000Z",
+    "location": "Trace Brewing",
+    "link": "https://www.tracebloomfield.com/calendar-1/2026/10/22/bloomfield-halloween-parade",
+    "source": "https://www.tracebloomfield.com/calendar-1?view=list",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5c6ad9dde666694eb6ec5c69/1792528978048-7AUZOAI53XKLXADZDTOR/34.jpg",
     "city": "pgh"
   },
   {
@@ -6759,26 +7065,6 @@
     "city": "pgh"
   },
   {
-    "title": "7th Annual Lightning Tech Talks",
-    "date": "2026-10-20T22:00:00.000Z",
-    "location": "Westside Bowl",
-    "link": "https://westsidebowl.com/event/7th-annual-lightning-tech-talks/",
-    "source": "https://westsidebowl.com/events/",
-    "hasTime": true,
-    "poster": "https://westsidebowl.com/wp-content/uploads/2026/09/Tech-Talks.jpg",
-    "city": "yng"
-  },
-  {
-    "title": "S#!t Talking Bar Bingo",
-    "date": "2026-10-21T00:00:00.000Z",
-    "location": "Westside Bowl",
-    "link": "https://westsidebowl.com/event/st-talking-bar-bingo-2/2026-10-20/",
-    "source": "https://westsidebowl.com/events/",
-    "hasTime": true,
-    "poster": "https://westsidebowl.com/wp-content/uploads/2023/03/Untitled-2.png",
-    "city": "yng"
-  },
-  {
     "title": "No Request Wednesday: DJ Night",
     "date": "2026-10-22T00:00:00.000Z",
     "location": "Westside Bowl",
@@ -6815,7 +7101,7 @@
     "link": "https://westsidebowl.com/event/green-jelly/",
     "source": "https://westsidebowl.com/events/",
     "hasTime": true,
-    "poster": "https://westsidebowl.com/wp-content/uploads/2026/07/755128757_1784485162570327_8241109263987347017_n.jpg",
+    "poster": "https://westsidebowl.com/wp-content/uploads/2026/07/Untitled-October-20-2026-at-19.25.51.png",
     "city": "yng"
   },
   {
@@ -6979,8 +7265,8 @@
     "city": "yng"
   },
   {
-    "title": "The Heartthrob Strings🎵",
-    "date": "2026-10-22T23:00:00.000Z",
+    "title": "Truancy Club🎵",
+    "date": "2026-10-23T23:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6999,38 +7285,28 @@
     "city": "pgh"
   },
   {
+    "title": "Craftochists🧶",
+    "date": "2026-10-26T23:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Green Burial Book Club📖",
+    "date": "2026-10-25T23:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
     "title": "Heat Signal🎧",
     "date": "2026-10-28T23:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Loose Leaf Writer's Group🖊",
-    "date": "2026-10-25T20:30:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Desk",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Comedy Tea Party🎭",
-    "date": "2026-10-31T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7049,8 +7325,18 @@
     "city": "pgh"
   },
   {
-    "title": "Craftochists🧶",
-    "date": "2026-10-26T23:00:00.000Z",
+    "title": "The Heartthrob Strings🎵",
+    "date": "2026-10-22T23:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Comedy Tea Party🎭",
+    "date": "2026-10-31T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7079,18 +7365,8 @@
     "city": "pgh"
   },
   {
-    "title": "Truancy Club🎵",
-    "date": "2026-10-23T23:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Green Burial Book Club📖",
-    "date": "2026-10-25T23:00:00.000Z",
+    "title": "Loose Leaf Writer's Group🖊",
+    "date": "2026-10-25T20:30:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7101,26 +7377,6 @@
   {
     "title": "AI is a Drag",
     "date": "2026-11-03T23:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sk8 Night",
-    "date": "2026-12-13T22:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "SPOOKY Book Fair",
-    "date": "2026-10-24T19:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
@@ -7149,13 +7405,23 @@
     "city": "pgh"
   },
   {
-    "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
-    "date": "2026-10-20T23:00:00.000Z",
-    "location": "Citizens Live at The Wylie",
-    "link": "https://www.livenation.com/event/1AvbZ_kGkwG8POI/tedeschi-trucks-band-future-soul-2026-tour",
-    "source": "https://www.livenation.com/venue/KovZ917AYrv/citizens-live-at-the-wylie-events",
+    "title": "Sk8 Night",
+    "date": "2026-12-13T22:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
     "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/a34/70d5dad0-2ee1-435d-9b85-da5833847a34_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "SPOOKY Book Fair",
+    "date": "2026-10-24T19:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
     "city": "pgh"
   },
   {
