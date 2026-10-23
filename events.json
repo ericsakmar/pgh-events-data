@@ -4481,7 +4481,7 @@
     "link": "https://www.preservingconcerts.com/events/porch-light",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_19a11a7779724eb9b10f826872fe725c~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_19a11a7779724eb9b10f826872fe725c~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/41a88f_19a11a7779724eb9b10f826872fe725c~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_19a11a7779724eb9b10f826872fe725c~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -4562,16 +4562,6 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_f32dd53e32b5431bb9fe22df38b8d8b3~mv2.jpg/v1/fill/w_147,h_261,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_f32dd53e32b5431bb9fe22df38b8d8b3~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "THROWN",
-    "date": "2027-03-19T16:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/thrown-1",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_23c8919d1f1e415a9b4d11423cab046a~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_23c8919d1f1e415a9b4d11423cab046a~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -7131,28 +7121,8 @@
     "city": "yng"
   },
   {
-    "title": "Green Burial Book Club📖",
-    "date": "2026-10-25T23:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Comedy Tea Party🎭",
-    "date": "2026-10-31T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "PSST📝",
-    "date": "2026-10-29T23:00:00.000Z",
+    "title": "Raphael Roginski🎵",
+    "date": "2026-10-24T23:30:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7181,8 +7151,8 @@
     "city": "pgh"
   },
   {
-    "title": "Truancy Club🎵",
-    "date": "2026-10-23T23:00:00.000Z",
+    "title": "Craftochists🧶",
+    "date": "2026-10-26T23:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7191,8 +7161,18 @@
     "city": "pgh"
   },
   {
-    "title": "Raphael Roginski🎵",
-    "date": "2026-10-24T23:30:00.000Z",
+    "title": "Comedy Tea Party🎭",
+    "date": "2026-10-31T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Truancy Club🎵",
+    "date": "2026-10-23T23:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7211,8 +7191,18 @@
     "city": "pgh"
   },
   {
-    "title": "Craftochists🧶",
-    "date": "2026-10-26T23:00:00.000Z",
+    "title": "PSST📝",
+    "date": "2026-10-29T23:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Green Burial Book Club📖",
+    "date": "2026-10-25T23:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -7223,26 +7213,6 @@
   {
     "title": "Drag me to Velum III",
     "date": "2026-10-29T23:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sk8 Night",
-    "date": "2026-12-13T22:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
-    "city": "pgh"
-  },
-  {
-    "title": "SPOOKY Book Fair",
-    "date": "2026-10-24T19:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
@@ -7263,6 +7233,26 @@
   {
     "title": "AI is a Drag",
     "date": "2026-11-03T23:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "SPOOKY Book Fair",
+    "date": "2026-10-24T19:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "city": "pgh"
+  },
+  {
+    "title": "Sk8 Night",
+    "date": "2026-12-13T22:00:00.000Z",
     "location": "Velum Fermentation",
     "link": "https://www.velumfermentation.com/events/",
     "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
