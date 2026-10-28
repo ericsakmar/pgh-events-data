@@ -80,66 +80,6 @@
     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/d/5/0/00a1-13e1-404e-9aca-56387cb00aef"
   },
   {
-    "title": "BOOM Universe Will Welcome 4 New Visiting McKnight Resident Artists In 2027",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-universe-will-welcome-4-new-visiting-mcknight-resident-artists-in-2027/",
-    "timestamp": "2026-10-16T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/10/MCKNIGHT-LEAD_BOOM-2027-Profile.jpg"
-  },
-  {
-    "title": "BOOM Concepts & National Performance Network Presents “Undertones” Photography Workshop Featuring Buffalo-Based Photographer Brandon Watson",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-concepts-national-performance-network-presents-undertones-photography-workshop-featuring-buffalo-based-photographer-brandon-watson/",
-    "timestamp": "2026-10-14T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/10/undertones-flier-1-scaled.jpg"
-  },
-  {
-    "title": "BOOM Concepts and Radiant Hall Announce 2026-2027 Residency Cohort",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-concepts-and-radiant-hall-announce-2026-2027-residency-cohort/",
-    "timestamp": "2026-08-17T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/08/BOOM-Residents-2026.jpg"
-  },
-  {
-    "title": "BOOM Concepts Presents “Stoop Games” Series At The Rotunda",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-concepts-presents-stoop-games-series-at-the-rotunda/",
-    "timestamp": "2026-07-24T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/07/stoop-games-flier-scaled.jpg"
-  },
-  {
-    "title": "BOOM Concepts Presents “The Long Walk” Exhibition Featuring D.S. Kinsel At Frick Environmental Center",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-concepts-presents-the-long-walk-exhibition-featuring-d-s-kinsel-at-frick-environmental-center/",
-    "timestamp": "2026-07-20T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/07/The-Long-Walk_2.jpg"
-  },
-  {
-    "title": "BOOM Concepts And Assemble Continues Support For Born Shamir Walters’ Everyday Afrofuturism",
-    "subtitle": "BOOM Concepts",
-    "url": "https://boomuniverse.co/blog/boom-concepts-and-assemble-continues-support-for-born-shamir-walters-everyday-afrofuturism/",
-    "timestamp": "2026-06-15T16:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://boomuniverse.co/wp-content/uploads/2026/06/image-20ae7c44-7281-45d4-87d9-3db51c59a99e.webp"
-  },
-  {
     "title": "Daily Yinz – Beach Boise, ID – Back On Top",
     "subtitle": "Bored In Pittsburgh",
     "url": "https://boredinpittsburgh.home.blog/2026/09/22/daily-yinz-beach-boise-id-back-on-top/",
@@ -238,6 +178,16 @@
       "blog"
     ],
     "image": "https://boredinpittsburgh.home.blog/wp-content/uploads/2026/06/horws.jpg"
+  },
+  {
+    "title": "850 Para Bellum | Pennsylvania Hard Rock Interview | PA Scene | the Pennsylvania Rock Show",
+    "subtitle": "The Pennsylvania Rock Show",
+    "url": "https://podcasters.spotify.com/pod/show/parockshow/episodes/850-Para-Bellum--Pennsylvania-Hard-Rock-Interview--PA-Scene--the-Pennsylvania-Rock-Show-e3r7ps6",
+    "timestamp": "2026-10-28T01:28:21.000Z",
+    "tags": [
+      "podcast"
+    ],
+    "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
   },
   {
     "title": "Pennsylvania Metalcore interview | Lyssa Quell | PA Scene | the Pennsylvania Rock Show 849",
@@ -500,16 +450,6 @@
     "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
   },
   {
-    "title": "Pittsburgh singer/songwriter/producer Interview | Cathleen Ireland | New Music + PA Scene | the Pennsylvania Rock Show 824",
-    "subtitle": "The Pennsylvania Rock Show",
-    "url": "https://podcasters.spotify.com/pod/show/parockshow/episodes/Pittsburgh-singersongwriterproducer-Interview--Cathleen-Ireland--New-Music--PA-Scene--the-Pennsylvania-Rock-Show-824-e3iiee6",
-    "timestamp": "2026-04-27T23:57:26.000Z",
-    "tags": [
-      "podcast"
-    ],
-    "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
-  },
-  {
     "title": "Nashville Americana/Rock | Kara Hesse | 3 Questions and a Song 131",
     "subtitle": "3 Questions and a Song",
     "url": "https://www.buildthescene.com/kara-hesse/",
@@ -740,14 +680,34 @@
     "image": "https://ssl-static.libsyn.com/p/assets/c/5/b/0/c5b017eeb31e690e/cruel_podcast_new.jpg"
   },
   {
-    "title": "Episode 388",
-    "subtitle": "Cruel Noise",
-    "url": "https://cruelnoise.libsyn.com/episode-388",
-    "timestamp": "2026-04-27T19:51:00.000Z",
+    "title": "Four Chord Day Two, 09-26-2026",
+    "subtitle": "The No Skip Show",
+    "url": "https://www.thenoskipshow.com/post/four-chord-day-two-09-26-2026",
+    "timestamp": "2026-10-28T04:01:00.000Z",
     "tags": [
-      "podcast"
+      "blog"
     ],
-    "image": "https://ssl-static.libsyn.com/p/assets/c/5/b/0/c5b017eeb31e690e/cruel_podcast_new.jpg"
+    "image": "https://static.wixstatic.com/media/b3cc28_23472e0d609c4a8ba605bd95d61e50af~mv2.jpg/v1/fit/w_495,h_619,al_c,q_80/file.png"
+  },
+  {
+    "title": "Four Chord Day One, 09-25-2026",
+    "subtitle": "The No Skip Show",
+    "url": "https://www.thenoskipshow.com/post/four-chord-day-one-09-25-2026",
+    "timestamp": "2026-10-28T03:57:37.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://static.wixstatic.com/media/b3cc28_23472e0d609c4a8ba605bd95d61e50af~mv2.jpg/v1/fit/w_495,h_619,al_c,q_80/file.png"
+  },
+  {
+    "title": "The Baddest Bitches Studied This Shit: ADÉLA's Success Was No Accident",
+    "subtitle": "The No Skip Show",
+    "url": "https://www.thenoskipshow.com/post/the-baddest-bitches-studied-this-shit-ad%C3%A9la-s-success-was-no-accident",
+    "timestamp": "2026-10-28T03:52:09.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://static.wixstatic.com/media/b3cc28_be93cea8c7e845e3b957611ea7f90897~mv2.jpg/v1/fit/w_399,h_501,al_c,q_80/file.png"
   },
   {
     "title": "CONSTELLATION X Release New Single \"Shapes Aren't Real\"",
@@ -920,44 +880,14 @@
     "image": "https://static.wixstatic.com/media/b3cc28_905bb220aad04698ab11302f6dd674fa~mv2.jpg/v1/fit/w_700,h_700,al_c,q_80/file.png"
   },
   {
-    "title": "Emo's Not Dead Cruise Lineup Announced",
-    "subtitle": "The No Skip Show",
-    "url": "https://www.thenoskipshow.com/post/emo-s-not-dead-cruise-lineup-announced",
-    "timestamp": "2026-06-17T03:48:42.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://static.wixstatic.com/media/b3cc28_7b9af2ec9ac74e34ab513b9a4c1bb550~mv2.webp/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
-  },
-  {
-    "title": "THE NOUGHTS LIVE AT CLUB CAFE / FULL PHOTO ALBUM / 05.24.26",
-    "subtitle": "The No Skip Show",
-    "url": "https://www.thenoskipshow.com/post/the-noughts-live-at-club-cafe-full-photo-album-05-24-26",
-    "timestamp": "2026-06-05T22:00:21.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://static.wixstatic.com/media/05ce29_5d6b1de657fd468795bd6f75528f35df~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
-  },
-  {
-    "title": "AXELFEST FULL PHOTO ALBUM / LIVE AT 222 ORMSBY / 05.03.26",
-    "subtitle": "The No Skip Show",
-    "url": "https://www.thenoskipshow.com/post/axelfest-full-photo-album-live-at-222-ormsby-05-03-26",
-    "timestamp": "2026-06-01T21:30:12.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://static.wixstatic.com/media/05ce29_db1509cbab5f460285aefe99eb1cbb6a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
-  },
-  {
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-10-23T12:21:36.000Z",
+    "timestamp": "2026-10-27T15:07:04.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -987,7 +917,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
   },
   {
     "title": "DLTSGDOM!: Now Playing",
@@ -1007,7 +937,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1150,6 +1080,16 @@
     "image": "https://i2.ytimg.com/vi/iQ5Ho_VWk6Y/hqdefault.jpg"
   },
   {
+    "title": "Justice for Jon #queensofthestoneage #albumreview",
+    "subtitle": "I Quit My Band",
+    "url": "https://www.youtube.com/shorts/_TuRIU2bHVo",
+    "timestamp": "2026-10-28T02:14:17.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/_TuRIU2bHVo/hqdefault.jpg"
+  },
+  {
     "title": "Skinty Kia #fontainesdc #albumreview",
     "subtitle": "I Quit My Band",
     "url": "https://www.youtube.com/shorts/nfpzPAkozwY",
@@ -1288,16 +1228,6 @@
       "youtube channel"
     ],
     "image": "https://i3.ytimg.com/vi/J8HU73HfGYk/hqdefault.jpg"
-  },
-  {
-    "title": "Thoughts on new QOTSA? #queensofthestoneage #reaction",
-    "subtitle": "I Quit My Band",
-    "url": "https://www.youtube.com/shorts/KX-tnZi7HCM",
-    "timestamp": "2026-09-29T00:18:09.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/KX-tnZi7HCM/hqdefault.jpg"
   },
   {
     "title": "[Modest Director] Outta Pocket - October 15, 2026",
@@ -1920,6 +1850,126 @@
     "image": "https://i3.ytimg.com/vi/ZGxSKFTacQo/hqdefault.jpg"
   },
   {
+    "title": "PUP - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=AW5QLDxUV0k",
+    "timestamp": "2026-10-28T04:35:10.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/AW5QLDxUV0k/hqdefault.jpg"
+  },
+  {
+    "title": "Algernon Cadwallader - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=GkKV_pkGzk4",
+    "timestamp": "2026-10-28T04:33:53.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/GkKV_pkGzk4/hqdefault.jpg"
+  },
+  {
+    "title": "Slingshot Dakota - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=-Sa2c8vMYpQ",
+    "timestamp": "2026-10-28T04:32:54.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/-Sa2c8vMYpQ/hqdefault.jpg"
+  },
+  {
+    "title": "Fenix TX - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=QXWLZ69uTHA",
+    "timestamp": "2026-10-28T04:31:49.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/QXWLZ69uTHA/hqdefault.jpg"
+  },
+  {
+    "title": "Pulley - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=yGfKv4-QWa0",
+    "timestamp": "2026-10-28T04:30:40.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/yGfKv4-QWa0/hqdefault.jpg"
+  },
+  {
+    "title": "Gameface - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=TmCkSiFYdqU",
+    "timestamp": "2026-10-28T04:30:19.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/TmCkSiFYdqU/hqdefault.jpg"
+  },
+  {
+    "title": "Excuse Me, Who Are You? - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=zF-KDVaMcos",
+    "timestamp": "2026-10-28T04:29:49.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/zF-KDVaMcos/hqdefault.jpg"
+  },
+  {
+    "title": "Debt Neglector - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=RZ2HAUKrqj0",
+    "timestamp": "2026-10-28T04:29:20.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/RZ2HAUKrqj0/hqdefault.jpg"
+  },
+  {
+    "title": "Five Hundred Bucks - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=opKGWpJHZ0A",
+    "timestamp": "2026-10-28T04:28:07.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/opKGWpJHZ0A/hqdefault.jpg"
+  },
+  {
+    "title": "Arcadia Grey - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=B5DkWpdTwbk",
+    "timestamp": "2026-10-28T04:27:39.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/B5DkWpdTwbk/hqdefault.jpg"
+  },
+  {
+    "title": "Worst Party Ever - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=jR_shUsUXKY",
+    "timestamp": "2026-10-28T04:25:08.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/jR_shUsUXKY/hqdefault.jpg"
+  },
+  {
+    "title": "Hit Like A Girl - Live at FEST 24 - Gainesville, FL - 10-23-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=h0ltcKM1VfA",
+    "timestamp": "2026-10-28T04:22:14.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/h0ltcKM1VfA/hqdefault.jpg"
+  },
+  {
     "title": "The Linda Lindas - Live at Bo Diddley Plaza - Gainesville, FL - 10-22-2026 (FULL SHOW AUDIO)",
     "subtitle": "Plankfan",
     "url": "https://www.youtube.com/watch?v=qpJvSoH4K2E",
@@ -1948,126 +1998,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/LZvR4zxNav8/hqdefault.jpg"
-  },
-  {
-    "title": "Camping In Alaska - Live at Bo Diddley Plaza - Gainesville, FL - 10-22-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=IwJPrbr8meQ",
-    "timestamp": "2026-10-23T05:43:35.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/IwJPrbr8meQ/hqdefault.jpg"
-  },
-  {
-    "title": "The Story So Far - Live at Citizens Live at The Wylie -Pittsburgh, PA - 10-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=gBoT0pGG7RM",
-    "timestamp": "2026-10-22T15:15:05.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/gBoT0pGG7RM/hqdefault.jpg"
-  },
-  {
-    "title": "The Starting Line - Live at Citizens Live at The Wylie-Pittsburgh, PA - 10-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=Iuy8k557fWI",
-    "timestamp": "2026-10-22T15:01:58.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/Iuy8k557fWI/hqdefault.jpg"
-  },
-  {
-    "title": "Ultra Q - Live at Citizens Live at The Wylie -Pittsburgh, PA - 10-21-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=RScmBTc2toE",
-    "timestamp": "2026-10-22T14:59:19.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/RScmBTc2toE/hqdefault.jpg"
-  },
-  {
-    "title": "Terrain - Live at Roboto - Pittsburgh, PA - 10-20-2026 (FULL SHOW)HOW",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=BT2jthbb7jo",
-    "timestamp": "2026-10-22T09:25:42.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/BT2jthbb7jo/hqdefault.jpg"
-  },
-  {
-    "title": "Turma da Brewsha - Live at Roboto - Pittsburgh, PA - 10-20-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=aANGRnwXYnc",
-    "timestamp": "2026-10-22T09:25:05.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/aANGRnwXYnc/hqdefault.jpg"
-  },
-  {
-    "title": "Nothing, Darling - Live at Roboto - Pittsburgh, PA - 10-20-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=IWN8fgxSwnA",
-    "timestamp": "2026-10-22T09:22:34.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/IWN8fgxSwnA/hqdefault.jpg"
-  },
-  {
-    "title": "Constellation X - Live at Roboto - Pittsburgh, PA - 10-20-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=TgJqaOXuZ40",
-    "timestamp": "2026-10-22T09:18:33.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/TgJqaOXuZ40/hqdefault.jpg"
-  },
-  {
-    "title": "Algernon Cadwallader - Live at 123 Pleasant Street - Morgantown, WV - 10-19-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=2LYGelYkvVM",
-    "timestamp": "2026-10-21T05:54:43.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/2LYGelYkvVM/hqdefault.jpg"
-  },
-  {
-    "title": "American Boxer - Live at 123 Pleasant Street - Morgantown, WV - 10-19-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=T3HSx4uOTTU",
-    "timestamp": "2026-10-21T05:50:45.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/T3HSx4uOTTU/hqdefault.jpg"
-  },
-  {
-    "title": "Stiff Upper Lip - Live at 123 Pleasant Street - Morgantown, WV - 10-19-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=jxS4Q2MNcyk",
-    "timestamp": "2026-10-21T05:50:30.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/jxS4Q2MNcyk/hqdefault.jpg"
-  },
-  {
-    "title": "Friends For Sale - Live at Roboto - Pittsburgh, PA - 10-18-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=ieZ0wr2mxzw",
-    "timestamp": "2026-10-21T05:30:51.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/ieZ0wr2mxzw/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Brennan Wedl",
