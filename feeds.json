@@ -957,7 +957,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -967,17 +967,17 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c5526329fc8364a9a655a3748"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/6Iw5wOtMbK8yNS0OspzbI6",
-    "timestamp": "2026-10-15T15:10:27.000Z",
+    "timestamp": "2026-10-30T19:52:44.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1003,11 +1003,11 @@
     "title": "Steel City Violence",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/39wtmUHDbA9XbZePrSJg1t",
-    "timestamp": "2026-10-28T22:09:28.000Z",
+    "timestamp": "2026-10-31T05:12:17.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1300,6 +1300,16 @@
     "image": "https://i2.ytimg.com/vi/UH6ESWPHn-4/hqdefault.jpg"
   },
   {
+    "title": "[Modest Director] PeelingFlesh - October 29, 2025",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=pxycdvq960o",
+    "timestamp": "2026-10-30T15:31:31.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/pxycdvq960o/hqdefault.jpg"
+  },
+  {
     "title": "[Modest Director] Demonstrate - August 23, 2026",
     "subtitle": "Modest Director",
     "url": "https://www.youtube.com/watch?v=Jb9LAxGY4sI",
@@ -1438,16 +1448,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/t0uXQlAl9_U/hqdefault.jpg"
-  },
-  {
-    "title": "[Modest Director] Princess - August 02, 2026",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/watch?v=k7u-f17T8UY",
-    "timestamp": "2026-08-20T15:33:25.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/k7u-f17T8UY/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -1770,6 +1770,46 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Vomit Forth Live New Kensington PA #deathcore #hardcoremusic",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/uZFq6V3F3cs",
+    "timestamp": "2026-10-31T00:00:04.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/uZFq6V3F3cs/hqdefault.jpg"
+  },
+  {
+    "title": "Holding Absence - Kyoto Snow Live Pittsburgh PA 10/15/2026",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/watch?v=6aUXwQmsVd4",
+    "timestamp": "2026-10-30T21:19:16.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/6aUXwQmsVd4/hqdefault.jpg"
+  },
+  {
+    "title": "The Sound of MUD WHALE #emomusic",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/oepGrZAc7as",
+    "timestamp": "2026-10-30T21:00:37.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/oepGrZAc7as/hqdefault.jpg"
+  },
+  {
+    "title": "Cartel - Honestly Live Four Chord Music Festival #poppunk",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/V8i_450W5U0",
+    "timestamp": "2026-10-30T18:00:24.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/V8i_450W5U0/hqdefault.jpg"
+  },
+  {
     "title": "An Interview with NOIRXHEART",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/watch?v=EpgL8D4VjGY",
@@ -1880,44 +1920,34 @@
     "image": "https://i1.ytimg.com/vi/41nc97HRIvg/hqdefault.jpg"
   },
   {
-    "title": "State Champs - All You Are is History Live Four Chord Music Festival #poppunk",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/BPBIct9h6A8",
-    "timestamp": "2026-10-23T19:00:01.000Z",
+    "title": "Major Delilah - Live at The Government Center - Pittsburgh, PA - 10-30-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=OJL4i3D53yQ",
+    "timestamp": "2026-10-31T05:50:42.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/BPBIct9h6A8/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/OJL4i3D53yQ/hqdefault.jpg"
   },
   {
-    "title": "Motion City Soundtrack - Everything is Alright Live Four Chord Music Festival #poppunk",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/UaPbFvabzJM",
-    "timestamp": "2026-10-22T23:00:19.000Z",
+    "title": "Halloween - Live at The Government Center - Pittsburgh, PA - 10-30-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=19cEOTYU1Rw",
+    "timestamp": "2026-10-31T05:50:02.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i2.ytimg.com/vi/UaPbFvabzJM/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/19cEOTYU1Rw/hqdefault.jpg"
   },
   {
-    "title": "Cartel Live Four Chord Music Festival Pittsburgh PA 9/26/2026",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/watch?v=rR7QwO9eHzM",
-    "timestamp": "2026-10-21T18:50:34.000Z",
+    "title": "Forty Winks - Live at The Government Center - Pittsburgh, PA - 10-30-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=Y9H1cZ2PUD4",
+    "timestamp": "2026-10-31T05:44:14.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/rR7QwO9eHzM/hqdefault.jpg"
-  },
-  {
-    "title": "The Musical Influences of WHERETHEFORSYTHIABLOOMS #skramz",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/4DA2MSrzGjU",
-    "timestamp": "2026-10-21T02:58:15.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/4DA2MSrzGjU/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/Y9H1cZ2PUD4/hqdefault.jpg"
   },
   {
     "title": "Radiator Hospital - Live at Bottlerocket - Pittsburgh, PA - 10-28-2026 (FULL SHOW)",
@@ -2038,36 +2068,6 @@
       "youtube channel"
     ],
     "image": "https://i4.ytimg.com/vi/3naLPG2njds/hqdefault.jpg"
-  },
-  {
-    "title": "Hey! TV Boy! - Live at FEST 24 - Gainesville, FL - 10-25-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=DopFEpagHbI",
-    "timestamp": "2026-10-28T18:34:43.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/DopFEpagHbI/hqdefault.jpg"
-  },
-  {
-    "title": "Nerf Herder - Live at FEST 24 - Gainesville, FL - 10-25-2026 (FULL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=37V-0KTtJ9g",
-    "timestamp": "2026-10-28T18:34:26.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/37V-0KTtJ9g/hqdefault.jpg"
-  },
-  {
-    "title": "Star 99 - Live at FEST 24 - Gainesville, FL - 10-25-2026 (PARTIAL SHOW AUDIO)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=7ojdagGn2ww",
-    "timestamp": "2026-10-28T18:33:46.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/7ojdagGn2ww/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Brennan Wedl",
@@ -2506,7 +2506,8 @@
     "timestamp": "2026-10-26T19:38:04.000Z",
     "tags": [
       "blog"
-    ]
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/10/image.jpeg"
   },
   {
     "title": "Cookie Cookie Ice Cream Scoops Up a Hot Pepper Sauce Collab",
