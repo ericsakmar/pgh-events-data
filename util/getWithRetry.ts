@@ -1,6 +1,15 @@
 const MAX_RETRIES = 3;
+const TIMEOUT_MS = 30_000;
 
 const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const withTimeout = <T>(promise: Promise<T>, ms: number): Promise<T> =>
+  Promise.race([
+    promise,
+    new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error('Request timed out')), ms),
+    ),
+  ]);
 
 export const getWithRetry = async <T>(
   source: string,
@@ -8,7 +17,7 @@ export const getWithRetry = async <T>(
   retries = 0,
 ): Promise<T[]> => {
   try {
-    const events = await get();
+    const events = await withTimeout(get(), TIMEOUT_MS);
 
     if (events.length === 0) {
       console.warn(`no events found for ${source}`);
