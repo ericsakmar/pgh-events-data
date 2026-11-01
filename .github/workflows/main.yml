@@ -1,9 +1,9 @@
 name: Nightly Web Scraper
 
 on:
-  schedule:
-    - cron: '22 1 * * *'
-      timezone: 'America/New_York'
+  # schedule:
+  #   - cron: '22 1 * * *'
+  #     timezone: 'America/New_York'
  
   # Allows manual triggering with a dropdown from the GitHub UI
   workflow_dispatch:
