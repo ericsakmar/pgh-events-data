@@ -26,7 +26,8 @@ export const getWithRetry = async <T>(
     return events;
   } catch (error) {
     if (retries < MAX_RETRIES) {
-      const backoffMs = 1000 * Math.pow(2, retries);
+      const jitter = Math.random() * 1000;
+      const backoffMs = 1000 * Math.pow(2, retries) + jitter;
 
       console.warn(
         `Error on ${source}. Retrying in ${backoffMs}ms... (${retries + 1}/${MAX_RETRIES})`,
