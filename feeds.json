@@ -957,7 +957,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -967,7 +967,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -977,7 +977,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -987,7 +987,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84359a29499d4fa24f53727336"
   },
   {
     "title": "DLTSGDOM!: Now Playing",
@@ -1003,11 +1003,11 @@
     "title": "Steel City Violence",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/39wtmUHDbA9XbZePrSJg1t",
-    "timestamp": "2026-11-04T23:45:35.000Z",
+    "timestamp": "2026-11-06T00:24:58.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1138,6 +1138,16 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/iQ5Ho_VWk6Y/hqdefault.jpg"
+  },
+  {
+    "title": "Who would do that? #comedypodcast #ethanklein",
+    "subtitle": "I Quit My Band",
+    "url": "https://www.youtube.com/shorts/GCUfOPl_cj4",
+    "timestamp": "2026-11-06T02:32:53.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/GCUfOPl_cj4/hqdefault.jpg"
   },
   {
     "title": "Let’s agree to disagree #nickelback #albumreview #funny",
@@ -1280,14 +1290,14 @@
     "image": "https://i2.ytimg.com/vi/a-lHal5UPkA/hqdefault.jpg"
   },
   {
-    "title": "Is he mad at us? #comedypodcast #skit",
-    "subtitle": "I Quit My Band",
-    "url": "https://www.youtube.com/shorts/z9oScq7Tkzw",
-    "timestamp": "2026-10-14T01:19:04.000Z",
+    "title": "[Modest Director] Madman - November 01, 2026",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=CwU19YaTank",
+    "timestamp": "2026-11-05T17:17:32.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/z9oScq7Tkzw/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/CwU19YaTank/hqdefault.jpg"
   },
   {
     "title": "PeelingFlesh live at Preserving Underground in New Kensington, PA on October 29, 2025 #deathmetal",
@@ -1428,16 +1438,6 @@
       "youtube channel"
     ],
     "image": "https://i3.ytimg.com/vi/bRpYHUKvyuI/hqdefault.jpg"
-  },
-  {
-    "title": "[Modest Director] Martin - August 20, 2026",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/watch?v=lDmdXZBZ8Do",
-    "timestamp": "2026-09-04T19:16:01.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/lDmdXZBZ8Do/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -1760,6 +1760,16 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "An Interview with FRAME & MANTLE",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/watch?v=5Zu0pqyOZ58",
+    "timestamp": "2026-11-05T17:00:13.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/5Zu0pqyOZ58/hqdefault.jpg"
+  },
+  {
     "title": "The Story So Far - Clairvoyant Live Pittsburgh PA #poppunk",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/shorts/qYe16LU1qiM",
@@ -1900,14 +1910,74 @@
     "image": "https://i3.ytimg.com/vi/ZcSALsBkpY4/hqdefault.jpg"
   },
   {
-    "title": "Mom Jeans. - Edward 40 Hands Live Four Chord Music Festival #midwestemo",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/YwRK_rlN0ew",
-    "timestamp": "2026-10-28T17:00:32.000Z",
+    "title": "Free Throw - Live at The Roxian Theater - Pittsburgh, PA - 11-4-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=ueXCW8Heggw",
+    "timestamp": "2026-11-05T21:24:41.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i2.ytimg.com/vi/YwRK_rlN0ew/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/ueXCW8Heggw/hqdefault.jpg"
+  },
+  {
+    "title": "Microwave - Live at The Roxian Theater - Pittsburgh, PA - 11-4-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=hduzGLjPvsg",
+    "timestamp": "2026-11-05T21:22:58.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/hduzGLjPvsg/hqdefault.jpg"
+  },
+  {
+    "title": "Carly Cosgrove - Live at The Roxian Theater - Pittsburgh, PA - 11-4-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=jnEJBrvwxbQ",
+    "timestamp": "2026-11-05T21:20:32.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/jnEJBrvwxbQ/hqdefault.jpg"
+  },
+  {
+    "title": "Kerosene Heights - Live at The Roxian Theater - Pittsburgh, PA - 11-4-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=diamAI3AoAo",
+    "timestamp": "2026-11-05T21:20:20.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/diamAI3AoAo/hqdefault.jpg"
+  },
+  {
+    "title": "Like Roses - Live at Bottlerocket - Pittsburgh, PA - 11-3-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=NjsLEJruUB0",
+    "timestamp": "2026-11-05T20:04:51.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/NjsLEJruUB0/hqdefault.jpg"
+  },
+  {
+    "title": "Ausinette - Live at Bottlerocket - Pittsburgh, PA - 11-3-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=i3HIugtzk3A",
+    "timestamp": "2026-11-05T20:03:16.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/i3HIugtzk3A/hqdefault.jpg"
+  },
+  {
+    "title": "Heading North - Live at Bottlerocket - Pittsburgh, PA - 11-3-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=opuryiwjMi0",
+    "timestamp": "2026-11-05T20:03:11.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/opuryiwjMi0/hqdefault.jpg"
   },
   {
     "title": "A Cute Angel - Live at Roboto - Pittsburgh, PA - 11-1-2026 (FULL SHOW AUDIO) ",
@@ -1988,76 +2058,6 @@
       "youtube channel"
     ],
     "image": "https://i4.ytimg.com/vi/cZvU8mtHfO8/hqdefault.jpg"
-  },
-  {
-    "title": "Pain Clinic - Live at 829 Industry St - Pittsburgh, PA - 11-1-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=1xhwGaAWRCg",
-    "timestamp": "2026-11-03T05:43:46.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/1xhwGaAWRCg/hqdefault.jpg"
-  },
-  {
-    "title": "No Time - Live at 829 Industry St - Pittsburgh, PA - 11-1-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=tPlluXQRcVU",
-    "timestamp": "2026-11-03T05:43:26.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/tPlluXQRcVU/hqdefault.jpg"
-  },
-  {
-    "title": "Madman - Live at 829 Industry St - Pittsburgh, PA - 11-1-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=OtVBhOAT6mg",
-    "timestamp": "2026-11-03T05:42:58.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/OtVBhOAT6mg/hqdefault.jpg"
-  },
-  {
-    "title": "Martin - Live at 829 Industry St - Pittsburgh, PA - 11-1-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=9VT2v3c-T2A",
-    "timestamp": "2026-11-03T05:40:50.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/9VT2v3c-T2A/hqdefault.jpg"
-  },
-  {
-    "title": "Steel Nation - Live at 829 Industry St - Pittsburgh, PA - 11-1-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=zYuDCcy_0wI",
-    "timestamp": "2026-11-03T05:39:37.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/zYuDCcy_0wI/hqdefault.jpg"
-  },
-  {
-    "title": "Chris' Vanity Project (as Oasis) - Live at Bottlerocket - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=EZiR6Mj1Bm4",
-    "timestamp": "2026-11-02T17:11:53.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/EZiR6Mj1Bm4/hqdefault.jpg"
-  },
-  {
-    "title": "Aloner (as Radiohead) - Live at Bottlerocket - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=nkkZLub12d0",
-    "timestamp": "2026-11-02T17:09:20.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/nkkZLub12d0/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Lillie Gazer",
@@ -2300,6 +2300,16 @@
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
   },
   {
+    "title": "Macroplastics - I Bet You Do - Live on WPTS Radio",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=vLuDlCPzFCM",
+    "timestamp": "2026-11-05T20:21:08.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/vLuDlCPzFCM/hqdefault.jpg"
+  },
+  {
     "title": "Sun Turret - Segment 3 - Live on WPTS Radio",
     "subtitle": "WPTS Radio",
     "url": "https://www.youtube.com/watch?v=RFBAlI8ad7w",
@@ -2440,16 +2450,6 @@
     "image": "https://i2.ytimg.com/vi/-Ya_KU6suVs/hqdefault.jpg"
   },
   {
-    "title": "Sunny Daze and the Weathermen - Corporate Rot/Action Required - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=Cud6-dt4H4A",
-    "timestamp": "2026-10-20T22:02:31.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/Cud6-dt4H4A/hqdefault.jpg"
-  },
-  {
     "title": "August 2026 Pgh Releases",
     "subtitle": "YouTube Music",
     "url": "https://music.youtube.com/playlist?list=PLBqVYuULAKE0",
@@ -2498,6 +2498,16 @@
       "playlist"
     ],
     "image": "https://i.ytimg.com/vi/wePQ36e-NUI/sddefault.jpg"
+  },
+  {
+    "title": "Local Shows In Pittsburgh To Check Out This November",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-arts-culture/local-shows-pittsburgh-november/",
+    "timestamp": "2026-11-05T20:45:56.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/11/Punchline.png"
   },
   {
     "title": "Best Bites Downtown 2026: Holiday Edition Food + Drink Tour!",
@@ -2588,16 +2598,6 @@
       "blog"
     ],
     "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_4003.jpg"
-  },
-  {
-    "title": "Coastal Country to Headline Free End-of-Summer Concert at Pittsburgh Brewing Co.",
-    "subtitle": "Made in PGH",
-    "url": "https://madeinpgh.com/pittsburgh-events/summer-concert-pittsburgh-brewing/",
-    "timestamp": "2026-08-24T17:36:01.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/coastal-country.jpg"
   },
   {
     "title": "Turns out rapper GloRilla is a lifelong Steelers fan with plans for a football anthem",
