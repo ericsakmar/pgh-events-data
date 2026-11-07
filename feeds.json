@@ -953,7 +953,7 @@
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-10-31T13:25:54.000Z",
+    "timestamp": "2026-11-06T17:55:55.000Z",
     "tags": [
       "playlist"
     ],
@@ -977,7 +977,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1007,7 +1007,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1290,6 +1290,16 @@
     "image": "https://i2.ytimg.com/vi/a-lHal5UPkA/hqdefault.jpg"
   },
   {
+    "title": "[Modest Director] Peace Talks - August 22, 2026",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=2uqKFQ9eowg",
+    "timestamp": "2026-11-06T18:14:49.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/2uqKFQ9eowg/hqdefault.jpg"
+  },
+  {
     "title": "[Modest Director] Madman - November 01, 2026",
     "subtitle": "Modest Director",
     "url": "https://www.youtube.com/watch?v=CwU19YaTank",
@@ -1428,16 +1438,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/u9nCecUa7Uw/hqdefault.jpg"
-  },
-  {
-    "title": "[Modest Director] Madman - August 23, 2026",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/watch?v=bRpYHUKvyuI",
-    "timestamp": "2026-09-18T14:35:09.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/bRpYHUKvyuI/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -2300,6 +2300,16 @@
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
   },
   {
+    "title": "Macroplastics - Move to Europe/Dogs Breakfast/Brains Across the Floor - Live on WPTS Radio",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=yQMz4BLBI1Y",
+    "timestamp": "2026-11-06T17:00:26.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/yQMz4BLBI1Y/hqdefault.jpg"
+  },
+  {
     "title": "Macroplastics - I Bet You Do - Live on WPTS Radio",
     "subtitle": "WPTS Radio",
     "url": "https://www.youtube.com/watch?v=vLuDlCPzFCM",
@@ -2358,16 +2368,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/dhNcdUmfR4M/hqdefault.jpg"
-  },
-  {
-    "title": "Buscrates pt. 4 - Live on WPTS Radio",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/shorts/QcbsG-t4Xys",
-    "timestamp": "2026-10-25T17:00:21.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/QcbsG-t4Xys/hqdefault.jpg"
   },
   {
     "title": "Buscrates pt. 3 - Live on WPTS Radio",
