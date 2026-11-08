@@ -953,11 +953,11 @@
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-11-06T17:55:55.000Z",
+    "timestamp": "2026-11-07T14:25:20.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -2290,6 +2290,16 @@
     "image": "https://i2.ytimg.com/vi/iA2loNk0CP0/hqdefault.jpg"
   },
   {
+    "title": "We got SCARED at WPTS Radio's Halloween Showcase! (TERRIFYING EDITION)",
+    "subtitle": "WPTS Radio",
+    "url": "https://www.youtube.com/watch?v=g2COICxCA4g",
+    "timestamp": "2026-11-07T18:00:03.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/g2COICxCA4g/hqdefault.jpg"
+  },
+  {
     "title": "Macroplastics - Move to Europe/Dogs Breakfast/Brains Across the Floor - Live on WPTS Radio",
     "subtitle": "WPTS Radio",
     "url": "https://www.youtube.com/watch?v=yQMz4BLBI1Y",
@@ -2430,20 +2440,10 @@
     "image": "https://i2.ytimg.com/vi/eox9NI-PODI/hqdefault.jpg"
   },
   {
-    "title": "Habitat Hour Episode 1",
-    "subtitle": "WPTS Radio",
-    "url": "https://www.youtube.com/watch?v=-Ya_KU6suVs",
-    "timestamp": "2026-10-21T04:00:31.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/-Ya_KU6suVs/hqdefault.jpg"
-  },
-  {
     "title": "August 2026 Pgh Releases",
     "subtitle": "YouTube Music",
     "url": "https://music.youtube.com/playlist?list=PLBqVYuULAKE0",
-    "timestamp": "2026-09-05T20:38:16.584052Z",
+    "timestamp": "2026-09-05T20:38:16.584052962Z",
     "tags": [
       "playlist"
     ],
