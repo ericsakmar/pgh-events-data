@@ -957,7 +957,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -967,7 +967,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c5526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -1007,7 +1007,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1128,6 +1128,16 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/iQ5Ho_VWk6Y/hqdefault.jpg"
+  },
+  {
+    "title": "He bought it #oasis #documentary",
+    "subtitle": "I Quit My Band",
+    "url": "https://www.youtube.com/shorts/Qu472LvMI_0",
+    "timestamp": "2026-11-09T02:17:39.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/Qu472LvMI_0/hqdefault.jpg"
   },
   {
     "title": "Who would do that? #comedypodcast #ethanklein",
@@ -1268,16 +1278,6 @@
       "youtube channel"
     ],
     "image": "https://i4.ytimg.com/vi/o9Zc2H0tPoA/hqdefault.jpg"
-  },
-  {
-    "title": "Spare Us | Greta Van Fleet - Palace for the People | ALBUM REVIEW",
-    "subtitle": "I Quit My Band",
-    "url": "https://www.youtube.com/watch?v=a-lHal5UPkA",
-    "timestamp": "2026-10-14T23:39:37.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/a-lHal5UPkA/hqdefault.jpg"
   },
   {
     "title": "[Modest Director] Peace Talks - August 22, 2026",
@@ -1750,6 +1750,26 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Plans for 2027 with ULTRA DELUXE #screamo",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/-GP-aUL9V9U",
+    "timestamp": "2026-11-09T00:00:35.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/-GP-aUL9V9U/hqdefault.jpg"
+  },
+  {
+    "title": "Nova Charisma Live Pittsburgh PA #posthardcore",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/gBowVko57F0",
+    "timestamp": "2026-11-08T21:00:20.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/gBowVko57F0/hqdefault.jpg"
+  },
+  {
     "title": "An Interview with FRAME & MANTLE",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/watch?v=5Zu0pqyOZ58",
@@ -1880,24 +1900,74 @@
     "image": "https://i2.ytimg.com/vi/EpgL8D4VjGY/hqdefault.jpg"
   },
   {
-    "title": "No Cure - Brain Matter Displacement Live New Kensington PA #hardcoremusic #hxc",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/oUYXn-FSfBM",
-    "timestamp": "2026-10-28T23:00:08.000Z",
+    "title": "Missing! - Live at The Funhouse - Pittsburgh, PA - 11-7-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=bbLnvWO3Q6s",
+    "timestamp": "2026-11-09T00:29:04.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i4.ytimg.com/vi/oUYXn-FSfBM/hqdefault.jpg"
+    "image": "https://i3.ytimg.com/vi/bbLnvWO3Q6s/hqdefault.jpg"
   },
   {
-    "title": "PPL-PL$R Live West Mifflin PA #darkwave #dj",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/ZcSALsBkpY4",
-    "timestamp": "2026-10-28T20:00:23.000Z",
+    "title": "Fake Grave - Live at The Funhouse - Pittsburgh, PA - 11-7-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=sXYyi-rBT7A",
+    "timestamp": "2026-11-09T00:28:41.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/ZcSALsBkpY4/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/sXYyi-rBT7A/hqdefault.jpg"
+  },
+  {
+    "title": "Dogmeat - Live at The Funhouse - Pittsburgh, PA - 11-7-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=FA35En8c_rc",
+    "timestamp": "2026-11-09T00:28:22.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/FA35En8c_rc/hqdefault.jpg"
+  },
+  {
+    "title": "Doom Scroll - Live at Roboto - Pittsburgh, PA - 11-6-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=Nb_y5AT3Mms",
+    "timestamp": "2026-11-08T17:42:43.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/Nb_y5AT3Mms/hqdefault.jpg"
+  },
+  {
+    "title": "Crisp Lake - Live at Roboto - Pittsburgh, PA - 11-6-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=dBCYXOAD_dw",
+    "timestamp": "2026-11-08T17:40:32.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/dBCYXOAD_dw/hqdefault.jpg"
+  },
+  {
+    "title": "Frog Legs - Live at Roboto - Pittsburgh, PA - 11-6-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=oMjpUWq8E6M",
+    "timestamp": "2026-11-08T17:40:17.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/oMjpUWq8E6M/hqdefault.jpg"
+  },
+  {
+    "title": "The Pentagram String Band - Live at Roboto - Pittsburgh, PA - 11-6-2026 (FULL SHOW)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=Y-t_c-L3dqc",
+    "timestamp": "2026-11-08T17:38:49.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/Y-t_c-L3dqc/hqdefault.jpg"
   },
   {
     "title": "Free Throw - Live at The Roxian Theater - Pittsburgh, PA - 11-4-2026 (FULL SHOW AUDIO)",
@@ -1978,76 +2048,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/X7RjI04BlCk/hqdefault.jpg"
-  },
-  {
-    "title": "Counting Butterflies - Live at Roboto - Pittsburgh, PA - 11-1-2026 (FULL SHOW AUDIO) ",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=J1aPQG-ERu8",
-    "timestamp": "2026-11-04T23:43:35.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/J1aPQG-ERu8/hqdefault.jpg"
-  },
-  {
-    "title": "Divot - Live at Roboto - Pittsburgh, PA - 11-1-2026 (FULL SHOW AUDIO) ",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=5sFs5LMyJgA",
-    "timestamp": "2026-11-04T23:43:08.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/5sFs5LMyJgA/hqdefault.jpg"
-  },
-  {
-    "title": "Nothing, Darling - Live at Roboto - Pittsburgh, PA - 11-1-2026 (FULL SHOW AUDIO) ",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=JbF4ivhcgN0",
-    "timestamp": "2026-11-04T23:42:47.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/JbF4ivhcgN0/hqdefault.jpg"
-  },
-  {
-    "title": "Straight Decline - Live at Roboto - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=GrdzmhuncQE",
-    "timestamp": "2026-11-04T22:22:07.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/GrdzmhuncQE/hqdefault.jpg"
-  },
-  {
-    "title": "Ego Sum - Live at Roboto - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=86gj0Fy9HfA",
-    "timestamp": "2026-11-04T22:22:01.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/86gj0Fy9HfA/hqdefault.jpg"
-  },
-  {
-    "title": "Cocoon - Live at Roboto - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=1tr6JBq6crU",
-    "timestamp": "2026-11-04T22:20:48.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/1tr6JBq6crU/hqdefault.jpg"
-  },
-  {
-    "title": "Urban Doctors - Live at Roboto - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=cZvU8mtHfO8",
-    "timestamp": "2026-11-04T22:19:41.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/cZvU8mtHfO8/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Lillie Gazer",
@@ -2478,16 +2478,6 @@
       "playlist"
     ],
     "image": "https://i.ytimg.com/vi/-riSIvCeZPM/sddefault.jpg"
-  },
-  {
-    "title": "April 2026 Pgh Releases",
-    "subtitle": "YouTube Music",
-    "url": "https://music.youtube.com/playlist?list=PLb6SQXhVAmc8DSYuqOoPr66c8pVq8SL6X",
-    "timestamp": "2026-05-08T19:33:13.164972Z",
-    "tags": [
-      "playlist"
-    ],
-    "image": "https://i.ytimg.com/vi/wePQ36e-NUI/sddefault.jpg"
   },
   {
     "title": "Local Shows In Pittsburgh To Check Out This November",
