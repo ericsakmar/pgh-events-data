@@ -14,6 +14,8 @@ import * as youtube from "./sources/youtube.ts";
 import * as youtubemusic from "./sources/youtubemusic.ts";
 import * as madeinpgh from "./sources/madeinpgh.ts";
 import * as citypaper from "./sources/citypaper.ts";
+import * as petrichor from "./sources/petrichor.ts";
+import * as baumbaumclub from "./sources/baumbaumclub.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { isAfter, subMonths } from "date-fns";
@@ -39,9 +41,11 @@ export const getFeeds = async () => {
     youtubemusic,
     madeinpgh,
     citypaper,
+    petrichor,
+    baumbaumclub,
   ];
 
-  const devSources = [madeinpgh, citypaper];
+  const devSources = [baumbaumclub, petrichor];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
