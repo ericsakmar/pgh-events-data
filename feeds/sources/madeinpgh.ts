@@ -5,7 +5,7 @@ export const name = "made in pgh";
 
 export const getLinks = async (): Promise<Feed[]> => {
   const raw = await fetchPage(
-    "https://madeinpgh.com/wp-json/wp/v2/posts?_embed",
+    "https://madeinpgh.com/wp-json/wp/v2/posts?categories=3&_embed",
   );
 
   const feed = JSON.parse(raw);
