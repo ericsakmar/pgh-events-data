@@ -973,11 +973,11 @@
     "title": "Bottlerocket Staff Picks",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/7v17EhPkbct20cz98FAa3O",
-    "timestamp": "2026-11-11T18:24:56.000Z",
+    "timestamp": "2026-11-11T19:35:56.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -1017,7 +1017,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1460,6 +1460,16 @@
     "image": "https://i3.ytimg.com/vi/6VKX_2uBcqM/hqdefault.jpg"
   },
   {
+    "title": "Abigail Williams – Full Set LIVE | Under Appalachian Skies 2026 #livemusic #livemetal #music",
+    "subtitle": "ThunderbirdTV",
+    "url": "https://www.youtube.com/shorts/rjiiiBgycnM",
+    "timestamp": "2026-11-11T19:11:19.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/rjiiiBgycnM/hqdefault.jpg"
+  },
+  {
     "title": "Abigail Williams – Only U.S. Show of 2026 | Full Set [4K]",
     "subtitle": "ThunderbirdTV",
     "url": "https://www.youtube.com/watch?v=-m1wM_1w_SY",
@@ -1598,16 +1608,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/A35VKSrY6is/hqdefault.jpg"
-  },
-  {
-    "title": "Millvin and the Etnoids Tear Up Thunderbird | Pittsburgh Live Music",
-    "subtitle": "ThunderbirdTV",
-    "url": "https://www.youtube.com/shorts/VtE4pfHEq-E",
-    "timestamp": "2026-08-07T20:44:59.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/VtE4pfHEq-E/hqdefault.jpg"
   },
   {
     "title": "TACOMANIA 2023 - Battle Royal + Title Match",
@@ -2490,16 +2490,6 @@
     "image": "https://i.ytimg.com/vi/-riSIvCeZPM/sddefault.jpg"
   },
   {
-    "title": "Make Your Thanksgiving Miles Matter at Pittsburgh’s 36th Annual YMCA Turkey Trot!",
-    "subtitle": "Made in PGH",
-    "url": "https://madeinpgh.com/pittsburgh-events/make-your-thanksgiving-miles-matter-at-pittsburghs-36th-annual-ymca-turkey-trot/",
-    "timestamp": "2026-11-11T15:04:44.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://madeinpgh.com/wp-content/uploads/2026/11/image.jpeg"
-  },
-  {
     "title": "November Band of the Month: Sweat—Q+A with the band on their new album",
     "subtitle": "Made in PGH",
     "url": "https://madeinpgh.com/pittsburgh-events/november-band-sweat-pittsburgh/",
@@ -2518,26 +2508,6 @@
       "blog"
     ],
     "image": "https://madeinpgh.com/wp-content/uploads/2026/11/Punchline.png"
-  },
-  {
-    "title": "Best Bites Downtown 2026: Holiday Edition Food + Drink Tour!",
-    "subtitle": "Made in PGH",
-    "url": "https://madeinpgh.com/pittsburgh-food-drink/best-bites-downtown-2026/",
-    "timestamp": "2026-10-26T19:38:04.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://madeinpgh.com/wp-content/uploads/2026/10/261021_Web-Header-3200x1600-1-scaled.jpg"
-  },
-  {
-    "title": "Cookie Cookie Ice Cream Scoops Up a Hot Pepper Sauce Collab",
-    "subtitle": "Made in PGH",
-    "url": "https://madeinpgh.com/pittsburgh-food-drink/cookie-ice-cream-sauce-collab/",
-    "timestamp": "2026-10-08T18:47:20.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://madeinpgh.com/wp-content/uploads/2026/10/Binkos-Hot-Sauce-x-Ice-Cream-e1791476783100.jpg"
   },
   {
     "title": "Harvest All the Seasonal Fun with Fall Fests, Spooky Good Nights, and Ghoul-Worthy Food and Drinks",
@@ -2560,16 +2530,6 @@
     "image": "https://madeinpgh.com/wp-content/uploads/2026/09/54276FE8-ED25-4F07-A31C-3A48019F844A.jpg"
   },
   {
-    "title": "Your Weekend Escape: Wine, Dine, Relax at Gervasi Vineyard Resort &amp; Spa",
-    "subtitle": "Made in PGH",
-    "url": "https://madeinpgh.com/pittsburgh-events/weekend-escape-gervasi-vineyard/",
-    "timestamp": "2026-09-04T18:25:17.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://madeinpgh.com/wp-content/uploads/2026/09/mip_GervasiFall_main_comeforthefallviews-scaled.jpg"
-  },
-  {
     "title": "September Artist of the Month: Justin Fabus–Q+A with singer songwriter on his new single and more",
     "subtitle": "Made in PGH",
     "url": "https://madeinpgh.com/pittsburgh-events/september-artist-justin-fabus/",
@@ -2588,6 +2548,46 @@
       "blog"
     ],
     "image": "https://madeinpgh.com/wp-content/uploads/2026/08/WomenWhoRock-2026-PGH-LineupAnnounce-01B-r04a_1200x628.png"
+  },
+  {
+    "title": "Watchful Shepherd USA Supports Local Families, Helps Keep At-Risk Children Safe",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/lifestyle/watchful-shepherd-children-safe/",
+    "timestamp": "2026-08-27T16:22:26.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/mip_watchfulshepherd_main_supportingfamilies.jpg"
+  },
+  {
+    "title": "Coastal Country to Headline Free End-of-Summer Concert at Pittsburgh Brewing Co.",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/summer-concert-pittsburgh-brewing/",
+    "timestamp": "2026-08-24T17:36:01.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/coastal-country.jpg"
+  },
+  {
+    "title": "New Immersive ‘Science of Speed’ Experience at Kamin Science Center",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/kamin-science-center-speed/",
+    "timestamp": "2026-08-21T14:29:52.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/MIP_KSC_SoS-Photo.jpg"
+  },
+  {
+    "title": "History Center’s New Third Thursdays Bring Extended Hours, Special Tours, New Exhibits and More",
+    "subtitle": "Made in PGH",
+    "url": "https://madeinpgh.com/pittsburgh-events/history-center-third-thursdays/",
+    "timestamp": "2026-08-18T13:16:06.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_3682.jpg"
   },
   {
     "title": "Live Nation invested effort and dollars into connecting The Wylie with the Hill District. Was it enough?",
