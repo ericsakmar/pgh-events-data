@@ -11,15 +11,16 @@ const getPage = async (url: string, selector: string) => {
   const page = await browser.newPage();
   await page.emulateTimezone("America/New_York");
 
-  const res = await page.goto(url);
+  try {
+    const res = await page.goto(url);
 
-  await page.waitForSelector(selector, { timeout: TIMEOUT });
-  const content = await page.content();
+    await page.waitForSelector(selector, { timeout: TIMEOUT });
+    const content = await page.content();
 
-  // should this be in a finally() or something?
-  await browser.close();
-
-  return content;
+    return content;
+  } finally {
+    await browser.close();
+  }
 };
 
 export const fetchDynamicPage = async (
