@@ -6,7 +6,7 @@ import { type Event, filterInvalid } from "../event.ts";
 type RobotoEvent = {
   rawDate: string;
   title: string;
-  poster: string | undefined;
+  link: string | undefined;
 };
 
 export const url = "https://www.therobotoproject.com/calendar.html";
@@ -32,13 +32,13 @@ export const getEvents = async (): Promise<Event[]> => {
           const rawDate = current.text().trim();
 
           const link = current.next();
-          const poster = link.attr("href");
+          const href = link.attr("href");
           const title = link.text().trim();
 
           data.push({
             rawDate,
             title,
-            poster: poster || "",
+            link: href,
           });
         }
 
@@ -55,7 +55,13 @@ export const getEvents = async (): Promise<Event[]> => {
       link: url,
       source: url,
       hasTime: true,
-      poster: event.poster,
+
+      // only treat imgur links as posters
+      // "https://i.imgur.com/eJW2AZZ.jpeg"
+      poster: event.link?.includes("https://i.imgur.com/")
+        ? event.link
+        : undefined,
+
       city: "pgh",
     }));
 
