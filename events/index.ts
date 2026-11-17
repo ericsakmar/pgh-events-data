@@ -44,6 +44,7 @@ import * as bantha from "./sources/bantha.ts";
 import * as velum from "./sources/velum.ts";
 import * as wylie from "./sources/wylie.ts";
 import * as roboto from "./sources/roboto.ts";
+import * as collapse from "./sources/collapse.ts";
 
 import { getWithRetry } from "../util/getWithRetry.ts";
 import { TZDate } from "@date-fns/tz";
@@ -101,9 +102,10 @@ export const getEvents = async () => {
     velum,
     wylie,
     roboto,
+    collapse,
   ];
 
-  const devSources = [roboto];
+  const devSources = [roboto, collapse];
 
   const sources =
     process.env.NODE_ENV === "development" ? devSources : allSources;
