@@ -20,36 +20,6 @@
     "city": "pgh"
   },
   {
-    "title": "Christopher Mark Jones & The Roots Ensemble, Garnet Ash, Vince Rause",
-    "date": "2026-11-19T17:00:00.000Z",
-    "hasTime": false,
-    "location": "Acoustic Music Works",
-    "link": "https://acousticmusicworks.com/collections/concert-tickets/products/in-store-concert-november-19th-christopher-mark-jones-the-roots-ensemble-garnet-ash-vince-rause-1-ticket",
-    "source": "https://acousticmusicworks.com/collections/concert-tickets",
-    "poster": "https://cdn.shopify.com/s/files/1/0442/6573/4306/files/Christopher_WEB_540x.png?v=1791376567",
-    "city": "pgh"
-  },
-  {
-    "title": "Musical Improv Night",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/musical-improv-night-3/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/09/musical-improv-show.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Got Rights?",
-    "date": "2026-11-20T02:00:00.000Z",
-    "location": "Arcade Comedy Theater",
-    "link": "https://www.arcadecomedytheater.com/event/got-rights-22/",
-    "source": "https://www.arcadecomedytheater.com/events/",
-    "hasTime": true,
-    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2026/11/got-rights-atticujunklnmmvaa.png",
-    "city": "pgh"
-  },
-  {
     "title": "Rough Magic: An Improvised Shakespeare&#8230;ish Fantasy",
     "date": "2026-11-20T23:30:00.000Z",
     "location": "Arcade Comedy Theater",
@@ -530,13 +500,23 @@
     "city": "pgh"
   },
   {
-    "poster": "https://belvederesultradive.com/images/kpop.png",
-    "title": "K-POP : IDOL",
-    "date": "2026-11-20T02:00:00.000Z",
-    "location": "Belvederes Ultra Dive",
-    "link": "https://belvederesultradive.com/",
-    "source": "https://belvederesultradive.com/",
+    "title": "Penny Arcade: Kids Comedy Show",
+    "date": "2027-01-09T19:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/penny-arcade-kids-comedy-show-26/",
+    "source": "https://www.arcadecomedytheater.com/events/",
     "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2024/03/Penny-2024-ALL-1080x1080-1.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "The Arcade Hootenanny",
+    "date": "2027-02-13T01:00:00.000Z",
+    "location": "Arcade Comedy Theater",
+    "link": "https://www.arcadecomedytheater.com/event/the-arcade-hootenanny-9/",
+    "source": "https://www.arcadecomedytheater.com/events/",
+    "hasTime": true,
+    "poster": "https://www.arcadecomedytheater.com/wp-content/uploads/2023/03/Hootenanny-Generic.jpg",
     "city": "pgh"
   },
   {
@@ -597,16 +577,6 @@
     "link": "https://belvederesultradive.com/",
     "source": "https://belvederesultradive.com/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "MICHAEL CRUZ KAYNE",
-    "date": "2026-11-20T01:00:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/michael-cruz-kayne-november-19-2026-749474?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/749/474/compressed/image_%283%29.jpg?1789673461",
     "city": "pgh"
   },
   {
@@ -1080,6 +1050,26 @@
     "city": "pgh"
   },
   {
+    "title": "LOVE LETTER",
+    "date": "2027-03-27T01:00:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/love-letter-march-26-2027-778833?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/778/833/compressed/IMG_1127.jpg?1795028486",
+    "city": "pgh"
+  },
+  {
+    "title": "STOMACH BOOK",
+    "date": "2027-03-31T00:30:00.000Z",
+    "location": "Bottlerocket Social Hall",
+    "link": "https://app.opendate.io/e/stomach-book-march-30-2027-799694?default_theme=true",
+    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
+    "hasTime": true,
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/799/694/compressed/IMG_3813.jpg?1794860103",
+    "city": "pgh"
+  },
+  {
     "title": "MARK NORMAND (Thursday, Early)",
     "date": "2027-04-09T00:00:00.000Z",
     "location": "Bottlerocket Social Hall",
@@ -1087,26 +1077,6 @@
     "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
     "hasTime": true,
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/746/726/compressed/open-uri20260831-879-6tskud.jpg?1788212511",
-    "city": "pgh"
-  },
-  {
-    "title": "MARK NORMAND (Thursday, Late)",
-    "date": "2027-04-09T02:30:00.000Z",
-    "location": "Bottlerocket Social Hall",
-    "link": "https://app.opendate.io/e/mark-normand-thursday-late-april-08-2027-746728?default_theme=true",
-    "source": "https://app.opendate.io/v/bottlerocket-social-hall-1260",
-    "hasTime": true,
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/main_event_images/000/746/728/compressed/open-uri20260831-886-y9iwel.jpg?1788213183",
-    "city": "pgh"
-  },
-  {
-    "title": "NOVEMBER 19TH 7PM 2ND ANNUAL CRYPTID FILM FESTIVAL!!! TICKETS IN BIO!!!",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Brillobox",
-    "link": "https://www.brilloboxpgh.com/events/event/november-19th-7pm-2nd-annual-cryptid-film-festival-more-info-coming/",
-    "source": "https://www.brilloboxpgh.com/events/",
-    "hasTime": true,
-    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2026/10/IMG_9496.jpg",
     "city": "pgh"
   },
   {
@@ -1200,13 +1170,13 @@
     "city": "pgh"
   },
   {
-    "title": "Greg Warren: Warm-Up Show",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Carnegie Library of Homestead Music Hall",
-    "link": "https://librarymusichall.com/event/greg-warren-warm-up-show",
-    "source": "https://librarymusichall.com/all-shows",
+    "title": "FRIDAY DECEMBER 4TH 10PM/$10!!! SADBEAR PRESENTS: RNB PLEASE!!!",
+    "date": "2026-12-05T03:00:00.000Z",
+    "location": "Brillobox",
+    "link": "https://www.brilloboxpgh.com/events/event/friday-december-4th-10pm-10-sadbear-presents-rnb-please/",
+    "source": "https://www.brilloboxpgh.com/events/",
     "hasTime": true,
-    "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/fbbb554a2f3643298cb673b6cada4621/1/4SoifmQpDrHbZJ6Vx83Qx/Untitled%20design%20%252866%2529.png",
+    "poster": "https://www.brilloboxpgh.com/wp-content/uploads/2025/04/IMG_6401.jpg",
     "city": "pgh"
   },
   {
@@ -1240,13 +1210,13 @@
     "city": "pgh"
   },
   {
-    "title": "Thursday Night Jazz: Joe Sheehan &#038; Kinetic Present Music for Distant &#038; Fabled Lands",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "City of Asylum",
-    "link": "https://cityofasylum.org/program/thursday-night-jazz-joe-sheehan-quartet/",
-    "source": "https://cityofasylum.org/events/",
+    "title": "Garrison Keillor with Heather Masse & Richard Dworsky",
+    "date": "2026-12-05T01:00:00.000Z",
+    "location": "Carnegie Library of Homestead Music Hall",
+    "link": "https://librarymusichall.com/event/garrison-keillor-with-heather-masse-and-richard-dworsky",
+    "source": "https://librarymusichall.com/all-shows",
     "hasTime": true,
-    "poster": "https://cityofasylum.org/wp-content/uploads/2026/07/Grass-F.png",
+    "poster": "https://static.spacecrafted.com/c947aedbb0bf4c13af7f3f62445a12ae/i/b781870179494ea6afa287638bd98360/1/4SoifmQpDrHbZJ6Vx83Qx/Garrison_1080x1080_square_CHMH.jpg",
     "city": "pgh"
   },
   {
@@ -1297,16 +1267,6 @@
     "source": "https://cityofasylum.org/events/",
     "hasTime": true,
     "poster": "https://cityofasylum.org/wp-content/uploads/2026/11/Art-Making-F.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Hannah Wicklund wsg/ Slow Funeral",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Club Cafe",
-    "link": "https://www.ticketweb.com/event/hannah-wicklund-club-cafe-tickets/14346994",
-    "source": "https://www.clubcafelive.com/upcoming-shows",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/67f80cff14a24c29de67b770/5adc2169-4139-43a0-8369-75b7859c0afb/11.19.26+Hannah+Wicklund+x+Club+Cafe+Square.jpeg",
     "city": "pgh"
   },
   {
@@ -1460,13 +1420,13 @@
     "city": "pgh"
   },
   {
-    "title": "Roger Humphries & RH Factor",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Con Alma",
-    "link": "https://www.conalmapgh.com/jazz/4lcaqpb9hb6sah3ax31awxbip9ds6f-3mzec",
-    "source": "https://www.conalmapgh.com/jazz",
+    "title": "UNCLE STRUT Until The Sun Comes Up Tour",
+    "date": "2027-04-10T00:00:00.000Z",
+    "location": "Club Cafe",
+    "link": "https://www.ticketweb.com/event/uncle-strut-presents-until-the-club-cafe-tickets/14452404",
+    "source": "https://www.clubcafelive.com/upcoming-shows",
     "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/65414c2386238e2d628d6951/1722863048719-I4YHY5EY218A9XB8FCZ1/RogerHumphries%2Bcopy.jpg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67f80cff14a24c29de67b770/fe81029b-a1b3-4fc7-8a63-d99fccb40fd5/uncle+strut+sq.png",
     "city": "pgh"
   },
   {
@@ -1480,7 +1440,7 @@
     "city": "pgh"
   },
   {
-    "title": "Sixth Wind (Night 2)",
+    "title": "Sixth Wind (Night 2) - Oh!Jazz Livestream",
     "date": "2026-11-22T00:00:00.000Z",
     "location": "Con Alma",
     "link": "https://www.conalmapgh.com/jazz/sixth-wind-night-1-283e8",
@@ -1730,16 +1690,6 @@
     "city": "pgh"
   },
   {
-    "title": "Rittz",
-    "date": "2026-11-19T17:00:00.000Z",
-    "location": "Crafthouse Stage & Grill",
-    "link": "https://crafthousepgh.com/rittz-%e2%88%99-november-19-2026/",
-    "source": "https://crafthousepgh.com/events-shows/",
-    "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/08/11.19.26-rittz-web-pic-4.jpg",
-    "city": "pgh"
-  },
-  {
     "title": "Colby Acuff",
     "date": "2026-11-20T17:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -1807,6 +1757,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2026/08/11.25.26-chain-reaction-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Black & Gold Friday",
+    "date": "2026-11-27T17:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/black-gold-friday-%e2%88%99-november-27-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/11/11.27.26-black-friday-steelers-ch-website-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2020,6 +1980,16 @@
     "city": "pgh"
   },
   {
+    "title": "Dueling Pianos Holiday Party",
+    "date": "2026-12-17T17:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/dueling-pianos-holiday-party-%e2%88%99-december-17-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/11/12.17.26-dueling-pianos-website-photo.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "This Indecision",
     "date": "2026-12-18T17:00:00.000Z",
     "location": "Crafthouse Stage & Grill",
@@ -2057,6 +2027,16 @@
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
     "poster": "https://crafthousepgh.com/wp-content/uploads/2025/12/late-night-happy-hour-wesbite-photo.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Thr3ewill: A Tribute to Rush: A Celebration of International Rush Day 2112",
+    "date": "2026-12-21T17:00:00.000Z",
+    "location": "Crafthouse Stage & Grill",
+    "link": "https://crafthousepgh.com/thr3ewill-a-tribute-to-rush-a-celebration-of-international-rush-day-2112-%e2%88%99-december-21-2026/",
+    "source": "https://crafthousepgh.com/events-shows/",
+    "hasTime": false,
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/11/12.21.26-THR3Ewill-website-photo.jpg",
     "city": "pgh"
   },
   {
@@ -2276,7 +2256,7 @@
     "link": "https://crafthousepgh.com/night-of-nicks-the-music-of-stevie-nicks-fleetwood-mac-%e2%88%99-january-30-2027/",
     "source": "https://crafthousepgh.com/events-shows/",
     "hasTime": false,
-    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/10/1.30.27-night-of-nicks-website-photo-1.jpg",
+    "poster": "https://crafthousepgh.com/wp-content/uploads/2026/10/1.30.27-night-of-nicks-website-photo-2.jpg",
     "city": "pgh"
   },
   {
@@ -2557,16 +2537,6 @@
     "source": "https://gbx.simpletix.com/",
     "hasTime": true,
     "poster": "https://cdn.simpletix.com/061a0c3f-1f7b-4166-938e-d883d9b287b7/shows/380/showtunapalooza1-9-27small.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "HEAVY HEAVY (VINYL NIGHT) WITH JX4, DJ NUGGET & SPECIAL GUESTS",
-    "date": "2026-11-19T17:00:00.000Z",
-    "location": "The Goldmark",
-    "link": "https://www.thegoldmark.com/events/y273sfekktgj6tg-6yz7r",
-    "source": "http://www.thegoldmark.com/events",
-    "hasTime": false,
-    "poster": "https://images.squarespace-cdn.com/content/v1/56083afde4b062e5cb984964/1717415283054-QTS75QT95SLQG8YPL6WL/Heavy+Heavy.jpg",
     "city": "pgh"
   },
   {
@@ -2859,6 +2829,26 @@
     "city": "pgh"
   },
   {
+    "title": "July in Christmas!",
+    "date": "2026-12-12T23:00:00.000Z",
+    "location": "Green Beacon Gallery",
+    "link": "https://www.greenbeacongallery.com/events/july-in-christmas",
+    "source": "https://www.greenbeacongallery.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1795130424047-MZMFJK38X19UG1QBI0WM/July+in+Xmas+post.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Tears of Olympus, Lost Psychonaut & Ashes to Eternity",
+    "date": "2026-12-20T00:00:00.000Z",
+    "location": "Green Beacon Gallery",
+    "link": "https://www.greenbeacongallery.com/events/tears-of-olympus-lost-psychonaut-ashes-to-eternity",
+    "source": "https://www.greenbeacongallery.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1795132802751-AN8DOSW0JZVE613VB77Q/TOL+post.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "New Years Eve Eve Eve w/ 3 Leagues to Rome, Net Force, Milkhouse Chillers, Khalil Nazar & Rev. Gill and the Fishermen",
     "date": "2026-12-29T23:00:00.000Z",
     "location": "Green Beacon Gallery",
@@ -2886,16 +2876,6 @@
     "source": "https://www.greenbeacongallery.com/events",
     "hasTime": true,
     "poster": "https://images.squarespace-cdn.com/content/v1/632e0854d1c7e207465da312/1793644338994-O81KNRY2RO6ET683VMTP/collage+meet+up+square+copy.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "The Altered Egos",
-    "date": "2026-11-20T00:30:00.000Z",
-    "location": "Jergel's Rhythm Grille",
-    "link": "https://druskyentertainment.com/event/the-altered-egos-9/jergels-rhythm-grille/",
-    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
-    "hasTime": true,
-    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/08/the-altered-egos.jpeg",
     "city": "pgh"
   },
   {
@@ -3139,6 +3119,16 @@
     "city": "pgh"
   },
   {
+    "title": "Santa Rave",
+    "date": "2026-12-24T00:30:00.000Z",
+    "location": "Jergel's Rhythm Grille",
+    "link": "https://druskyentertainment.com/event/santa-rave-3/jergels-rhythm-grille/",
+    "source": "https://druskyentertainment.com/calendar/?rhp_paged=1&rhp_event_display=&rhp_bar_rhp_gen=0&rhp_bar_rhp_venue=169773&rhp_bar_rhp_month=0",
+    "hasTime": true,
+    "poster": "https://druskyentertainment.com/wp-content/uploads/2026/10/santa-rave-1.jpeg",
+    "city": "pgh"
+  },
+  {
     "title": "Factory 500: Carnegie International + ICA Pittsburgh Tour",
     "date": "2026-12-11T17:00:00.000Z",
     "location": "Mattress Factory",
@@ -3163,16 +3153,6 @@
     "link": "https://mattress.org/events/saturday-night-special/",
     "source": "https://mattress.org/calendar/",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "The Nino Albanese Trio's Thursday Night Blues Rotation - NO COVER CHARGE!!",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Moondogs",
-    "link": "https://moondogs.us/event/the-nino-albanese-trios-thursday-night-blues-rotation-no-cover-charge/",
-    "source": "https://moondogs.us/shows/",
-    "hasTime": true,
-    "poster": "https://moondogs.us/wp-content/uploads/2026/11/Nino-Albanese-Trio-11-19-26.png",
     "city": "pgh"
   },
   {
@@ -3294,16 +3274,6 @@
     "hasTime": true,
     "poster": "https://moondogs.us/wp-content/uploads/2026/11/Moondogs-Elliana-Co-December-20-2026.png",
     "city": "pgh"
-  },
-  {
-    "title": "The Sages With The Ramps",
-    "date": "2026-11-20T00:00:00.000Z",
-    "hasTime": true,
-    "location": "123 Pleasant Street",
-    "link": "https://events.leapevents.com/event/the-sages-with-the-ramps",
-    "source": "https://events.leapevents.com/events/14326",
-    "poster": "https://sc-events.s3.amazonaws.com/d8fa5bcc-9fb2-405c-a459-52e77fc8cd2c_resize_fit_300.jpg",
-    "city": "mgw"
   },
   {
     "title": "Celebrate Randy \"Squeak\" Williams f. Tom Batchelor, Todd Burge, Owen Davis, Mark Poole, Duff McIntosh, Vinnie Farsetta",
@@ -3505,16 +3475,6 @@
     "city": "mgw"
   },
   {
-    "title": "Brad Wagner",
-    "date": "2026-11-20T01:00:00.000Z",
-    "location": "Park House",
-    "link": "https://parkhouse412.com/event/brad-wagner-5/",
-    "source": "https://parkhouse412.com/calendar/list/",
-    "hasTime": true,
-    "poster": "https://parkhouse412.com/wp-content/uploads/2025/11/Park-House-Logo.png",
-    "city": "pgh"
-  },
-  {
     "title": "Jimmy Adler Trio",
     "date": "2026-11-22T01:00:00.000Z",
     "location": "Park House",
@@ -3591,15 +3551,6 @@
     "poster": "https:/ticketleap/assets/img/org-dashboard/default-event-preview-image.png",
     "link": "https://www.ticketleap.events/tickets/perry-house/dimwit",
     "source": "https://events.ticketleap.com/events/perry-house",
-    "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "foxesat3am // Sherry CD-ROM // Almost Exactly Like Julia // Biggg Ruth",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Poetry Lounge",
-    "link": "https://www.poetrymillvale.com/event/foxesat3am-sherry-cd-rom-almost-exactly-like-julia-biggg-ruth/",
-    "source": "https://www.poetrymillvale.com/events/month/",
     "hasTime": true,
     "city": "pgh"
   },
@@ -3778,16 +3729,6 @@
     "city": "pgh"
   },
   {
-    "title": "SAVAGE PRIMAL IMPULSE",
-    "date": "2026-11-19T17:00:00.000Z",
-    "location": "Preserving Underground",
-    "link": "https://www.preservingconcerts.com/events/savage-primal-impulse",
-    "source": "https://www.preservingunderground.com/shows",
-    "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_4996e78f2a5049fa8a3422456b906d27~mv2.png/v1/fill/w_264,h_264,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/41a88f_4996e78f2a5049fa8a3422456b906d27~mv2.png",
-    "city": "pgh"
-  },
-  {
     "title": "TURN COLD",
     "date": "2026-11-20T17:00:00.000Z",
     "location": "Preserving Underground",
@@ -3844,7 +3785,7 @@
     "link": "https://www.preservingconcerts.com/events/darkest-hour-1",
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
-    "poster": "https://static.wixstatic.com/media/41a88f_0d21f166a5194f38bb228a2062fc6494~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_0d21f166a5194f38bb228a2062fc6494~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/41a88f_0d21f166a5194f38bb228a2062fc6494~mv2.jpg/v1/fill/w_264,h_264,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/41a88f_0d21f166a5194f38bb228a2062fc6494~mv2.jpg",
     "city": "pgh"
   },
   {
@@ -3925,16 +3866,6 @@
     "source": "https://www.preservingunderground.com/shows",
     "hasTime": false,
     "poster": "https://static.wixstatic.com/media/41a88f_66a2817576004c1596e07db242be54b1~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/41a88f_66a2817576004c1596e07db242be54b1~mv2.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "Goldfinger w/ Mustard Plug, The Planet Smashers, Sullvn",
-    "date": "2026-11-19T23:00:00.000Z",
-    "location": "Roxian Theatre presented by Citizens",
-    "link": "https://www.livenation.com/event/17AOv0G62d8WQS8/goldfinger-w-mustard-plug-the-planet-smashers-sullvn",
-    "source": "https://www.livenation.com/venue/KovZ917Ax13/roxian-theatre-presented-by-citizens-events",
-    "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/c6c/503859cd-6d84-4b64-944d-a0af768abc6c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
     "city": "pgh"
   },
   {
@@ -4292,16 +4223,6 @@
     "city": "pgh"
   },
   {
-    "title": "Greggy_oke Karaoke\t\t\t\t\t\t\t\t\t\t\t\t\tPittsburgh City Paper (🪦) Best of 2025 \"Best Karaoke\" Winner! 🏆",
-    "date": "2026-11-20T01:00:00.000Z",
-    "location": "Mr. Smalls Cafe",
-    "link": "https://mrsmalls.com/events/greggy_oke-karaoke-93/",
-    "source": "https://mrsmalls.com/listing",
-    "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/03/White-Black-and-Red-Stand-Up-Comedy-Poster.png",
-    "city": "pgh"
-  },
-  {
     "title": "Ravefurrest\t\t\t\t\t\t\t\t\t\t\t\t\tFeaturing passengerprincess, Sixwing, Demifiend, Kittenhouse, and more",
     "date": "2026-11-21T00:00:00.000Z",
     "location": "Mr. Smalls Theatre",
@@ -4332,13 +4253,13 @@
     "city": "pgh"
   },
   {
-    "title": "AcoustiCafe Open Stage\t\t\t\t\t\t\t\t\t\t\t\t\tAcousticafe host TBA!",
+    "title": "AcoustiCafe Open Stage\t\t\t\t\t\t\t\t\t\t\t\t\tAcousticafe host Matthew Siegler with featured performance by Midnight Genesis & Joshua Tarquinio!",
     "date": "2026-11-24T00:00:00.000Z",
     "location": "The Funhouse at Mr. Smalls",
     "link": "https://mrsmalls.com/events/acousticafe-open-stage-62/",
     "source": "https://mrsmalls.com/listing",
     "hasTime": true,
-    "poster": "https://mrsmalls.com/wp-content/uploads/2026/05/AC-LOGONEW-scaled.jpg",
+    "poster": "https://mrsmalls.com/wp-content/uploads/2026/09/AC-MATT.png",
     "city": "pgh"
   },
   {
@@ -5092,6 +5013,26 @@
     "city": "pgh"
   },
   {
+    "title": "KSD Tattoo & Starbrick Records Holiday Show Extravaganza",
+    "date": "2026-12-13T22:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2026/12/13/ksd-tattoo-amp-starbrick-records-holiday-show-extravaganza",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1795101147891-WPPQXSJ9NSMAJAYVPNJW/sbr-ksd.jpg",
+    "city": "pgh"
+  },
+  {
+    "title": "Merce Lemon",
+    "date": "2027-01-17T00:00:00.000Z",
+    "location": "Spirit",
+    "link": "https://spiritpgh.com/calendar/2025/12/12/ryan-caraveo-phmre-a9y38-47rhg-ksyy5-jr9g6-hb682",
+    "source": "https://www.spiritpgh.com/events",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/5500fa72e4b0bce6805d867a/1795101495630-XW3W1J9NCL8M142F205H/Merce+Lemon+-+Spirt+Hall+1.16.27.jpg",
+    "city": "pgh"
+  },
+  {
     "title": "The Jack Wharff Band",
     "date": "2027-01-18T00:00:00.000Z",
     "location": "Spirit",
@@ -5182,16 +5123,6 @@
     "city": "pgh"
   },
   {
-    "title": "LENNY PEARCE – TODDLER RAVE WORLD TOUR",
-    "date": "2026-11-19T22:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/11/lenny-pearce-toddler-rave-world-tour",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/JNKDDzNFpljA6OYRAlJOYCahCDUA3tTnEubB5yci.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=b0400479c82527bd281d2b70b72b9b52",
-    "city": "pgh"
-  },
-  {
     "title": "Zack Fox",
     "date": "2026-11-21T01:00:00.000Z",
     "location": "Stage AE",
@@ -5252,6 +5183,36 @@
     "city": "pgh"
   },
   {
+    "title": "Sing Sing Sing! Bridgeville \"All Access\" Show",
+    "date": "2026-12-12T15:30:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/12/sing-sing-sing-bridgeville-all-access-show",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/events/rv1QauUdz4b8CJ7X1CgiasxNCfv3zuSCXFFb0QAI.png?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=070b353fb5a92bdbae4b4f5a360fd3df",
+    "city": "pgh"
+  },
+  {
+    "title": "Sing Sing Sing! Wexford \"All Access\" Show",
+    "date": "2026-12-12T18:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/12/sing-sing-sing-wexford-all-access-show",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/events/OiVvycDErNtZy96O89FJtz8k1msooaAZNMSZ3Kp9.png?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=1bfef711814eb778ac29601e969de176",
+    "city": "pgh"
+  },
+  {
+    "title": "Sing Sing Sing! Bakerstown \"All Access\" Show",
+    "date": "2026-12-12T21:00:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2026/12/sing-sing-sing-bakerstown-all-access-show",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/events/bOcM50TkQ0kVMiGagbLJYevgu0pQvajx0CkS96TL.png?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=5a86c7142ecfc962d2723c4e72cd93f7",
+    "city": "pgh"
+  },
+  {
     "title": "Steelers Tailgate",
     "date": "2026-12-20T17:00:00.000Z",
     "location": "Stage AE",
@@ -5282,6 +5243,16 @@
     "city": "pgh"
   },
   {
+    "title": "Bingo Loco",
+    "date": "2027-01-16T22:30:00.000Z",
+    "location": "Stage AE",
+    "link": "https://promowestlive.com/pittsburgh/stage-ae/2027/01/bingo-loco",
+    "source": "https://promowestlive.com/pittsburgh/stage-ae",
+    "hasTime": true,
+    "poster": "https://promowest.imgix.net/events/0Z7Vp5UPEh5p8gBbmuBxSNqu0DMLpSJASuFmIgSW.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=90cd805090cd8459291fde6348e4f5a6",
+    "city": "pgh"
+  },
+  {
     "title": "Grits & Eggs Podcast",
     "date": "2027-01-19T00:00:00.000Z",
     "location": "Stage AE",
@@ -5302,52 +5273,12 @@
     "city": "pgh"
   },
   {
-    "title": "Braxton Keith",
-    "date": "2027-02-07T00:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2027/02/braxton-keith",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/Abfp6cBOlirLBRhhBlOuBqbURo4siG9jY5FB9gA1.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=fbfb96ae075f805574a75b51cfbba46a",
-    "city": "pgh"
-  },
-  {
-    "title": "Liquid Stranger Presents: Electric Helix",
-    "date": "2027-02-08T00:00:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2027/02/liquid-stranger-presents-electric-helix",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/vvNLjJZUIom3acyk8LndXbQfuAn5BGl2I9rnm8lK.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=6b402ef495a9a2a5f02913656089d4f2",
-    "city": "pgh"
-  },
-  {
-    "title": "Greensky Bluegrass",
-    "date": "2027-02-11T23:30:00.000Z",
-    "location": "Stage AE",
-    "link": "https://promowestlive.com/pittsburgh/stage-ae/2027/02/greensky-bluegrass",
-    "source": "https://promowestlive.com/pittsburgh/stage-ae",
-    "hasTime": true,
-    "poster": "https://promowest.imgix.net/artists/FjiUeWcYajk5TE5yneIsnCjqa6TtpqswzsYPKSOk.jpg?auto=compress%2Cformat&crop=faces%2Ctop&fit=crop&h=225&w=300&s=ad35f8f2d3751b5169706cf147ca93f2",
-    "city": "pgh"
-  },
-  {
     "title": "Horror Fan Flea Market",
     "date": "2026-11-21T14:59:00.000Z",
     "location": "Crowne Plaza Pittsburgh South",
     "link": "http://www.horrorrealmcon.com",
     "source": "https://pgh.events",
     "hasTime": true,
-    "city": "pgh"
-  },
-  {
-    "title": "Soldering Workshop",
-    "date": "2026-11-19T17:00:00.000Z",
-    "location": "Tech25",
-    "link": "https://www.tech25.org/calendar/soldering-workshop-2026-11-19/250",
-    "source": "https://www.tech25.org/calendar",
-    "hasTime": true,
-    "poster": "https://www.tech25.org/images/content/thumb_31b34ff4cd2f301da1fb4a133-67065.jpg",
     "city": "pgh"
   },
   {
@@ -5388,16 +5319,6 @@
     "source": "https://www.tech25.org/calendar",
     "hasTime": true,
     "poster": "https://www.tech25.org/images/content/thumb_4adcbbd71639a15e2a55b5626-2922.png",
-    "city": "pgh"
-  },
-  {
-    "title": "Sqwerv: Late Show Afterparty",
-    "date": "2026-11-20T04:00:00.000Z",
-    "location": "Thunderbird Cafe & Music Hall",
-    "link": "https://thunderbirdmusichall.com/event/sqwerv-late-show-afterparty/thunderbird-cafe-music-hall/pittsburgh-pennsylvania/",
-    "source": "https://thunderbirdmusichall.com/shows/?view=list",
-    "hasTime": true,
-    "poster": "https://thunderbirdmusichall.com/wp-content/uploads/2026/10/sqwerv-late-show-afterparty.jpeg",
     "city": "pgh"
   },
   {
@@ -5910,26 +5831,6 @@
     "city": "pgh"
   },
   {
-    "title": "In The Company of Serpents",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Westside Bowl",
-    "link": "https://westsidebowl.com/event/in-the-company-of-serpents/",
-    "source": "https://westsidebowl.com/events/",
-    "hasTime": true,
-    "poster": "https://westsidebowl.com/wp-content/uploads/2026/10/In-The-Company-of-Serpents.jpg",
-    "city": "yng"
-  },
-  {
-    "title": "Night of the Creeps",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Westside Bowl",
-    "link": "https://westsidebowl.com/event/night-of-the-creeps/",
-    "source": "https://westsidebowl.com/events/",
-    "hasTime": true,
-    "poster": "https://westsidebowl.com/wp-content/uploads/2026/10/Night-of-the-Creeps.jpg",
-    "city": "yng"
-  },
-  {
     "title": "Edward Be Thy Name",
     "date": "2026-11-21T01:00:00.000Z",
     "location": "Westside Bowl",
@@ -6240,8 +6141,8 @@
     "city": "yng"
   },
   {
-    "title": "Green Burial Book Club📖",
-    "date": "2026-11-30T00:00:00.000Z",
+    "title": "Drawing Board🎨",
+    "date": "2026-12-06T17:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6250,8 +6151,8 @@
     "city": "pgh"
   },
   {
-    "title": "Loose Leaf Writer's Group🖊",
-    "date": "2026-12-27T21:30:00.000Z",
+    "title": "BANTHA CLOSED",
+    "date": "2026-11-26T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6280,68 +6181,8 @@
     "city": "pgh"
   },
   {
-    "title": "Lounna🎵",
-    "date": "2026-11-23T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Golems of the Red Planet🎵",
-    "date": "2026-11-21T00:30:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Green Burial Book Club📖",
-    "date": "2026-12-21T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Comedy Tea Party🎭",
-    "date": "2026-11-28T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Drawing Group🖊",
-    "date": "2026-12-08T23:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "PSST📝",
-    "date": "2026-12-31T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Art Donsky🎵",
-    "date": "2026-12-11T00:00:00.000Z",
+    "title": "Dan Koshute🎵",
+    "date": "2026-11-22T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6360,68 +6201,8 @@
     "city": "pgh"
   },
   {
-    "title": "Open Improv🥁",
-    "date": "2026-12-01T01:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Magic Tuber Stringband🎵",
-    "date": "2026-12-03T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "No Hitter🎵",
-    "date": "2026-12-13T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Craftochists🧶",
-    "date": "2026-11-24T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "BANTHA CLOSED",
-    "date": "2026-11-26T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "BANTHA CLOSED",
-    "date": "2026-12-25T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Heat Signal🎧",
-    "date": "2026-12-19T00:00:00.000Z",
+    "title": "Rat Feet🎵",
+    "date": "2026-11-29T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6440,8 +6221,8 @@
     "city": "pgh"
   },
   {
-    "title": "Desk",
-    "date": "2026-12-16T00:00:00.000Z",
+    "title": "Craftochists🧶",
+    "date": "2026-11-24T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6450,88 +6231,8 @@
     "city": "pgh"
   },
   {
-    "title": "PSST📝",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Rat Feet🎵",
-    "date": "2026-11-29T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Open Improv🥁",
-    "date": "2026-12-15T01:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Bantha Movie Night🎬",
-    "date": "2026-12-12T01:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Open Improv🥁",
-    "date": "2026-12-29T01:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Dan Koshute🎵",
-    "date": "2026-11-22T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Oddmonth Poetry📝",
-    "date": "2026-12-06T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Foundations🎵",
-    "date": "2026-12-14T00:00:00.000Z",
-    "location": "Bantha Tea Bar",
-    "link": "https://www.banthateabar.com/calendar",
-    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
-    "hasTime": true,
-    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
-    "city": "pgh"
-  },
-  {
-    "title": "Drawing Board🎨",
-    "date": "2026-12-06T17:00:00.000Z",
+    "title": "Green Burial Book Club📖",
+    "date": "2026-12-21T00:00:00.000Z",
     "location": "Bantha Tea Bar",
     "link": "https://www.banthateabar.com/calendar",
     "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
@@ -6550,13 +6251,193 @@
     "city": "pgh"
   },
   {
-    "title": "Velum Closed for Private Event",
-    "date": "2026-12-05T23:00:00.000Z",
-    "location": "Velum Fermentation",
-    "link": "https://www.velumfermentation.com/events/",
-    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
+    "title": "BANTHA CLOSED",
+    "date": "2026-12-25T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
     "hasTime": true,
-    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Open Improv🥁",
+    "date": "2026-12-15T01:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Open Improv🥁",
+    "date": "2026-12-01T01:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Bantha Movie Night🎬",
+    "date": "2026-12-12T01:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Loose Leaf Writer's Group🖊",
+    "date": "2026-12-27T21:30:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Green Burial Book Club📖",
+    "date": "2026-11-30T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Magic Tuber Stringband🎵",
+    "date": "2026-12-03T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Lounna🎵",
+    "date": "2026-11-23T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Oddmonth Poetry📝",
+    "date": "2026-12-06T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Heat Signal🎧",
+    "date": "2026-12-19T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Comedy Tea Party🎭",
+    "date": "2026-11-28T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Foundations🎵",
+    "date": "2026-12-14T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Art Donsky🎵",
+    "date": "2026-12-11T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "No Hitter🎵",
+    "date": "2026-12-13T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Drawing Group🖊",
+    "date": "2026-12-08T23:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Golems of the Red Planet🎵",
+    "date": "2026-11-21T00:30:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Desk",
+    "date": "2026-12-16T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "Open Improv🥁",
+    "date": "2026-12-29T01:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
+    "city": "pgh"
+  },
+  {
+    "title": "PSST📝",
+    "date": "2026-12-31T00:00:00.000Z",
+    "location": "Bantha Tea Bar",
+    "link": "https://www.banthateabar.com/calendar",
+    "source": "https://calendar.google.com/calendar/ical/315c83af04e2750a795a7463729bcd697de4ff043f539791e0397a4ef05a127c%40group.calendar.google.com/public/basic.ics",
+    "hasTime": true,
+    "poster": "https://images.squarespace-cdn.com/content/v1/589b4a379de4bbae87c5b4c1/1487971492528-YUT3YEI7JD7686IWPL13/Bantha-logo_FINAL_web.png?format=500w",
     "city": "pgh"
   },
   {
@@ -6570,23 +6451,13 @@
     "city": "pgh"
   },
   {
-    "title": "An Evening with Goose 2 Day Ticket Presented by WYEP",
-    "date": "2026-11-19T05:00:01.000Z",
-    "location": "Citizens Live at The Wylie",
-    "link": "https://www.livenation.com/event/17AOv0G65RjalN6/an-evening-with-goose-2-day-ticket-presented-by-wyep",
-    "source": "https://www.livenation.com/venue/KovZ917AYrv/citizens-live-at-the-wylie-events",
+    "title": "Velum Closed for Private Event",
+    "date": "2026-12-05T23:00:00.000Z",
+    "location": "Velum Fermentation",
+    "link": "https://www.velumfermentation.com/events/",
+    "source": "https://calendar.google.com/calendar/ical/c_8504edaf8e8eb89489e7149a27c5753189f7311346461219318cecb74090e686%40group.calendar.google.com/public/basic.ics",
     "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/ff9/230bc504-e335-44b6-9d57-24509c477ff9_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-    "city": "pgh"
-  },
-  {
-    "title": "An Evening with Goose Presented by WYEP",
-    "date": "2026-11-20T00:00:00.000Z",
-    "location": "Citizens Live at The Wylie",
-    "link": "https://www.livenation.com/event/17AOv0G65Rjc5Jp/an-evening-with-goose-presented-by-wyep",
-    "source": "https://www.livenation.com/venue/KovZ917AYrv/citizens-live-at-the-wylie-events",
-    "hasTime": true,
-    "poster": "https://s1.ticketm.net/dam/a/ff9/230bc504-e335-44b6-9d57-24509c477ff9_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "poster": "https://images.getbento.com/accounts/0302abcc397d473ee45d815949e66462/media/images/39248logo1.png",
     "city": "pgh"
   },
   {
@@ -6861,7 +6732,7 @@
   },
   {
     "title": "-",
-    "date": "2026-11-22T17:00:00.000Z",
+    "date": "2026-11-23T17:00:00.000Z",
     "location": "The Mr. Roboto Project",
     "link": "https://www.therobotoproject.com/calendar.html",
     "source": "https://www.therobotoproject.com/calendar.html",
@@ -6869,13 +6740,12 @@
     "city": "pgh"
   },
   {
-    "title": "90 Seconds Til Midnight, Nolan Jae & The Saints, Petrone, Radium Girl.",
-    "date": "2026-11-20T01:00:00.000Z",
+    "title": "-",
+    "date": "2026-11-22T17:00:00.000Z",
     "location": "The Mr. Roboto Project",
     "link": "https://www.therobotoproject.com/calendar.html",
     "source": "https://www.therobotoproject.com/calendar.html",
     "hasTime": true,
-    "poster": "https://i.imgur.com/in3oQ7G.jpeg",
     "city": "pgh"
   },
   {
