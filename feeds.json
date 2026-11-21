@@ -750,16 +750,6 @@
     "image": "https://ssl-static.libsyn.com/p/assets/c/5/b/0/c5b017eeb31e690e/cruel_podcast_new.jpg"
   },
   {
-    "title": "Episode 390",
-    "subtitle": "Cruel Noise",
-    "url": "https://cruelnoise.libsyn.com/episode-390",
-    "timestamp": "2026-05-20T22:35:00.000Z",
-    "tags": [
-      "podcast"
-    ],
-    "image": "https://ssl-static.libsyn.com/p/assets/c/5/b/0/c5b017eeb31e690e/cruel_podcast_new.jpg"
-  },
-  {
     "title": "Bullet For My Valentine Release Their Heaviest Track Yet!",
     "subtitle": "The No Skip Show",
     "url": "https://www.thenoskipshow.com/post/bullet-for-my-valentine-release-their-heaviest-track-yet",
@@ -963,11 +953,11 @@
     "title": "Pittsburgh Indie",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/3bHROgTxhHazGaKYSdXTV7",
-    "timestamp": "2026-11-18T13:41:22.000Z",
+    "timestamp": "2026-11-20T13:27:16.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1ef68c2f67c825fb513cbbcf"
   },
   {
     "title": "Bottlerocket Staff Picks",
@@ -987,7 +977,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1017,7 +1007,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c65d6fe25581daf393de7ffea"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d6fe25581daf393de7ffea"
   },
   {
     "title": "PGH Pride In The Pit (Episode 566)",
@@ -1270,6 +1260,16 @@
     "image": "https://i4.ytimg.com/vi/wn2z2Ci-Vo4/hqdefault.jpg"
   },
   {
+    "title": "[Modest Director] Martin - November 01, 2026",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=1K3XnjGA3oI",
+    "timestamp": "2026-11-20T17:30:48.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/1K3XnjGA3oI/hqdefault.jpg"
+  },
+  {
     "title": "[Modest Director] Vulgares - August 22, 2026",
     "subtitle": "Modest Director",
     "url": "https://www.youtube.com/watch?v=Eld8nITRU50",
@@ -1408,16 +1408,6 @@
       "youtube channel"
     ],
     "image": "https://i1.ytimg.com/vi/pxycdvq960o/hqdefault.jpg"
-  },
-  {
-    "title": "[Modest Director] Demonstrate - August 23, 2026",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/watch?v=Jb9LAxGY4sI",
-    "timestamp": "2026-10-29T13:16:10.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/Jb9LAxGY4sI/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -1740,6 +1730,46 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Midwinter Live New Kensington PA #metalcore",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/Qdc6aX69Iec",
+    "timestamp": "2026-11-21T03:00:22.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/Qdc6aX69Iec/hqdefault.jpg"
+  },
+  {
+    "title": "Rejected Live New Kensington PA #deathcore",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/YprQGF4Q9Pc",
+    "timestamp": "2026-11-20T21:00:12.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/YprQGF4Q9Pc/hqdefault.jpg"
+  },
+  {
+    "title": "Preshow Food with MALLORY RUN #poppunk",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/M2D1aCDdSs4",
+    "timestamp": "2026-11-20T18:00:10.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/M2D1aCDdSs4/hqdefault.jpg"
+  },
+  {
+    "title": "The Ritornello Form Live Pittsburgh PA #midwestemo",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/rMY57m89uVw",
+    "timestamp": "2026-11-20T15:00:30.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/rMY57m89uVw/hqdefault.jpg"
+  },
+  {
     "title": "Xmercyx Live New Kensington PA #hardcoremusic",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/shorts/j4pa7irSaRo",
@@ -1850,44 +1880,54 @@
     "image": "https://i3.ytimg.com/vi/VBbkEaXwxj8/hqdefault.jpg"
   },
   {
-    "title": "An Interview with MALLORY RUN 2",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/watch?v=r8TeoNCl0EQ",
-    "timestamp": "2026-11-16T20:32:38.000Z",
+    "title": "Goldfinger - Live at the Roxian Theater - Pittsburgh, PA - 11-19-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=-Wa_Q0nKzto",
+    "timestamp": "2026-11-20T20:04:01.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/r8TeoNCl0EQ/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/-Wa_Q0nKzto/hqdefault.jpg"
   },
   {
-    "title": "P.E.E. Live Pittsburgh PA #emomusic",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/V9QqZa5QMiE",
-    "timestamp": "2026-11-16T04:00:28.000Z",
+    "title": "The Planet Smashers - Live at the Roxian Theater - Pittsburgh, PA - 11-19-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=qZAM9TpT94Q",
+    "timestamp": "2026-11-20T19:59:33.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/V9QqZa5QMiE/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/qZAM9TpT94Q/hqdefault.jpg"
   },
   {
-    "title": "The New Album from FRAME AND MANTLE #midwestemo",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/Vxz94HnvckM",
-    "timestamp": "2026-11-16T01:00:22.000Z",
+    "title": "Sullvn - Live at the Roxian Theater - Pittsburgh, PA - 11-19-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=qlPhXdzxCdo",
+    "timestamp": "2026-11-20T19:59:28.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i3.ytimg.com/vi/Vxz94HnvckM/hqdefault.jpg"
+    "image": "https://i2.ytimg.com/vi/qlPhXdzxCdo/hqdefault.jpg"
   },
   {
-    "title": "The Album Rollout from LEVELS #metalcore",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/mvygkJDqBj4",
-    "timestamp": "2026-11-15T22:00:28.000Z",
+    "title": "Millington - Live at the Roxian Theater - Pittsburgh, PA - 11-19-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=KxYOPp9Ylpo",
+    "timestamp": "2026-11-20T19:58:40.000Z",
     "tags": [
       "youtube channel"
     ],
-    "image": "https://i2.ytimg.com/vi/mvygkJDqBj4/hqdefault.jpg"
+    "image": "https://i4.ytimg.com/vi/KxYOPp9Ylpo/hqdefault.jpg"
+  },
+  {
+    "title": "Mustard Plug - Live at the Roxian Theater - Pittsburgh, PA - 11-19-2026 (FULL SHOW AUDIO)",
+    "subtitle": "Plankfan",
+    "url": "https://www.youtube.com/watch?v=iHqdUZOpjMc",
+    "timestamp": "2026-11-20T19:58:23.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/iHqdUZOpjMc/hqdefault.jpg"
   },
   {
     "title": "Sorry Face - Live at The Funhouse at Mr. Smalls - Pittsburgh, PA - 11-17-2026 (FULL SHOW)",
@@ -1988,56 +2028,6 @@
       "youtube channel"
     ],
     "image": "https://i4.ytimg.com/vi/3gKFQal1800/hqdefault.jpg"
-  },
-  {
-    "title": "Equipment - Live at Bottlerocket - Pittsburgh, PA - 11-15-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=zIBOALMkUv0",
-    "timestamp": "2026-11-18T04:46:09.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/zIBOALMkUv0/hqdefault.jpg"
-  },
-  {
-    "title": "Worst Party Ever - Live at Bottlerocket - Pittsburgh, PA - 11-15-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=u56rpZzCccE",
-    "timestamp": "2026-11-18T04:38:51.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/u56rpZzCccE/hqdefault.jpg"
-  },
-  {
-    "title": "Ogbert The Nerd - Live at Bottlerocket - Pittsburgh, PA - 11-15-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=Tilaxye6Zjs",
-    "timestamp": "2026-11-18T04:37:36.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/Tilaxye6Zjs/hqdefault.jpg"
-  },
-  {
-    "title": "Short Fictions - Live at Bottlerocket - Pittsburgh, PA - 11-15-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=ebHt0M6tP0Q",
-    "timestamp": "2026-11-18T04:37:22.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/ebHt0M6tP0Q/hqdefault.jpg"
-  },
-  {
-    "title": "Sunny Daze & the Weathermen - Live at Bottlerocket - Pittsburgh, PA - 11-14-2026 (FULL SHOW)",
-    "subtitle": "Plankfan",
-    "url": "https://www.youtube.com/watch?v=8FpmuNwRE-w",
-    "timestamp": "2026-11-15T20:20:09.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i1.ytimg.com/vi/8FpmuNwRE-w/hqdefault.jpg"
   },
   {
     "title": "Live & Direct Session with Lillie Gazer",
