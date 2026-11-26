@@ -520,16 +520,6 @@
     "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
   },
   {
-    "title": "Pittsburgh Rock Interviews | Millvale Music Festival Street Interviews | PA Scene | the Pennsylvania Rock Show 828",
-    "subtitle": "The Pennsylvania Rock Show",
-    "url": "https://podcasters.spotify.com/pod/show/parockshow/episodes/Pittsburgh-Rock-Interviews--Millvale-Music-Festival-Street-Interviews--PA-Scene--the-Pennsylvania-Rock-Show-828-e3jgaou",
-    "timestamp": "2026-05-25T23:00:00.000Z",
-    "tags": [
-      "podcast"
-    ],
-    "image": "https://www.buildthescene.com/wp-content/uploads/2004/09/Bill-PA-Rock-Show-transparent-background.png"
-  },
-  {
     "title": "Nashville Americana/Rock | Kara Hesse | 3 Questions and a Song 131",
     "subtitle": "3 Questions and a Song",
     "url": "https://www.buildthescene.com/kara-hesse/",
@@ -558,6 +548,16 @@
       "podcast"
     ],
     "image": "https://www.buildthescene.com/wp-content/uploads/2026/02/the-Pennsylvania-Rock-Show-Flashback-Podcast-Artwork.png.jpg"
+  },
+  {
+    "title": "Episode 409",
+    "subtitle": "Cruel Noise",
+    "url": "https://cruelnoise.libsyn.com/episode-409",
+    "timestamp": "2026-11-25T20:26:00.000Z",
+    "tags": [
+      "podcast"
+    ],
+    "image": "https://ssl-static.libsyn.com/p/assets/c/5/b/0/c5b017eeb31e690e/cruel_podcast_new.jpg"
   },
   {
     "title": "Episode 408",
@@ -973,11 +973,11 @@
     "title": "Bottlerocket Staff Picks",
     "subtitle": "Spotify",
     "url": "https://open.spotify.com/playlist/7v17EhPkbct20cz98FAa3O",
-    "timestamp": "2026-11-13T05:52:33.000Z",
+    "timestamp": "2026-11-25T23:55:38.000Z",
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
+    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845526329fc8364a9a655a3748"
   },
   {
     "title": "Bottlerocket's Coming Attractions",
@@ -987,7 +987,7 @@
     "tags": [
       "playlist"
     ],
-    "image": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
+    "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841c38dd0441cd28534c84c163"
   },
   {
     "title": "Up Next! at The Government Center",
@@ -1260,6 +1260,16 @@
     "image": "https://i4.ytimg.com/vi/orXAzTJuOys/hqdefault.jpg"
   },
   {
+    "title": "[Modest Director] xBuriedamongtheoaktreesx - October 19, 2026",
+    "subtitle": "Modest Director",
+    "url": "https://www.youtube.com/watch?v=P-IA2kUnQuA",
+    "timestamp": "2026-11-25T16:57:33.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/P-IA2kUnQuA/hqdefault.jpg"
+  },
+  {
     "title": "[Modest Director] 880 Wrestling - November 01, 2026",
     "subtitle": "Modest Director",
     "url": "https://www.youtube.com/watch?v=7DskzoET_Hg",
@@ -1398,16 +1408,6 @@
       "youtube channel"
     ],
     "image": "https://i3.ytimg.com/vi/FYJYXl-85ec/hqdefault.jpg"
-  },
-  {
-    "title": "Pain Clinic live at Four Chord Music Fest in Pittsburgh, PA on September 25, 2026 #hardcore #punk",
-    "subtitle": "Modest Director",
-    "url": "https://www.youtube.com/shorts/CwmCA_oRDtA",
-    "timestamp": "2026-11-03T15:41:47.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i4.ytimg.com/vi/CwmCA_oRDtA/hqdefault.jpg"
   },
   {
     "title": "Pain Clinic - Little Giant Sessions - Full Session + Interview",
@@ -1730,6 +1730,56 @@
     "image": "https://i3.ytimg.com/vi/ffjCq6utDb8/hqdefault.jpg"
   },
   {
+    "title": "Local Scene Shoutouts with FIND ETHEL #poppunk",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/AtwhuLsMvrA",
+    "timestamp": "2026-11-25T23:00:20.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/AtwhuLsMvrA/hqdefault.jpg"
+  },
+  {
+    "title": "Chase Petra Live Pittsburgh PA #indierock",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/cT0osE2_yGU",
+    "timestamp": "2026-11-25T20:00:21.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i4.ytimg.com/vi/cT0osE2_yGU/hqdefault.jpg"
+  },
+  {
+    "title": "The Musical Influences of ACE SLITE #emomusic",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/HHQGq5Mo96g",
+    "timestamp": "2026-11-25T17:00:00.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i1.ytimg.com/vi/HHQGq5Mo96g/hqdefault.jpg"
+  },
+  {
+    "title": "The Last Ten Seconds of Life Live New Kensington PA #deathcore",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/ZH284_6kpn0",
+    "timestamp": "2026-11-25T14:00:24.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i3.ytimg.com/vi/ZH284_6kpn0/hqdefault.jpg"
+  },
+  {
+    "title": "Crafting a Setlist with FIND ETHEL #poppunk",
+    "subtitle": "NO SKIP",
+    "url": "https://www.youtube.com/shorts/yl3CZRrO8gQ",
+    "timestamp": "2026-11-25T11:00:24.000Z",
+    "tags": [
+      "youtube channel"
+    ],
+    "image": "https://i2.ytimg.com/vi/yl3CZRrO8gQ/hqdefault.jpg"
+  },
+  {
     "title": "Local Scene Shoutouts with MALLORY RUN #poppunk",
     "subtitle": "NO SKIP",
     "url": "https://www.youtube.com/shorts/vYKMKzVMQOo",
@@ -1828,56 +1878,6 @@
       "youtube channel"
     ],
     "image": "https://i2.ytimg.com/vi/Qdc6aX69Iec/hqdefault.jpg"
-  },
-  {
-    "title": "Rejected Live New Kensington PA #deathcore",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/YprQGF4Q9Pc",
-    "timestamp": "2026-11-20T21:00:12.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/YprQGF4Q9Pc/hqdefault.jpg"
-  },
-  {
-    "title": "Preshow Food with MALLORY RUN #poppunk",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/M2D1aCDdSs4",
-    "timestamp": "2026-11-20T18:00:10.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/M2D1aCDdSs4/hqdefault.jpg"
-  },
-  {
-    "title": "The Ritornello Form Live Pittsburgh PA #midwestemo",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/rMY57m89uVw",
-    "timestamp": "2026-11-20T15:00:30.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/rMY57m89uVw/hqdefault.jpg"
-  },
-  {
-    "title": "Xmercyx Live New Kensington PA #hardcoremusic",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/j4pa7irSaRo",
-    "timestamp": "2026-11-20T09:00:03.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i3.ytimg.com/vi/j4pa7irSaRo/hqdefault.jpg"
-  },
-  {
-    "title": "Don Broco - Hype Man Live Pittsburgh PA #numetal",
-    "subtitle": "NO SKIP",
-    "url": "https://www.youtube.com/shorts/ArXVAxXCD2A",
-    "timestamp": "2026-11-20T08:00:22.000Z",
-    "tags": [
-      "youtube channel"
-    ],
-    "image": "https://i2.ytimg.com/vi/ArXVAxXCD2A/hqdefault.jpg"
   },
   {
     "title": "Forty Winks - Live at Sheen's Place - Pittsburgh, PA - 11-22-2026 (FULL SHOW)",
@@ -2540,6 +2540,16 @@
     "image": "https://madeinpgh.com/wp-content/uploads/2026/08/IMG_3682.jpg"
   },
   {
+    "title": "EXCLUSIVE: Pittsburgh Poetess Rachel Ann Bovier wrote two new Steelers songs, and they’re exactly what this city needs (VIDEO)",
+    "subtitle": "Pittsburgh City Paper",
+    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/exclusive-pittsburgh-poetess-rachel-ann-bovier-wrote-two-new-steelers-songs-and-theyre-exactly-what-this-city-needs-video/",
+    "timestamp": "2026-11-25T10:00:00.000Z",
+    "tags": [
+      "blog"
+    ],
+    "image": "https://media.pghcitypaper.com/rag/2024/09/cal-rachelbovier-23.webp-1024x683.webp"
+  },
+  {
     "title": "Drop the needle on these Pittsburgh bars and coffee shops that play vinyl",
     "subtitle": "Pittsburgh City Paper",
     "url": "https://www.pghcitypaper.com/arts-entertainment-2/drop-the-needle-on-these-pittsburgh-bars-and-coffee-shops-that-play-vinyl/",
@@ -2628,16 +2638,6 @@
       "blog"
     ],
     "image": "https://media.pghcitypaper.com/rag/2026/09/Wiz-Khalifa-2-1024x740.jpg"
-  },
-  {
-    "title": "Jodi Jones preserves, publishes, and plays Pa. Appalachian folk music",
-    "subtitle": "Pittsburgh City Paper",
-    "url": "https://www.pghcitypaper.com/arts-entertainment-2/music/jodi-jones-preserves-publishes-and-plays-pa-appalachian-folk-music/",
-    "timestamp": "2026-09-04T09:00:00.000Z",
-    "tags": [
-      "blog"
-    ],
-    "image": "https://media.pghcitypaper.com/rag/2026/09/B1534296-53F6-4D57-8778-101681487948_1_201_a.jpeg"
   },
   {
     "title": "INTERVIEWING CELESTE NEUHAUS, 2026 ARTIST-IN-RESIDENCE AT THE CENTER FOR POSTNATURAL HISTORY",
